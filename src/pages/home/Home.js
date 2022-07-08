@@ -135,7 +135,7 @@ export const Home = () => {
                     </Row>
                     <Row style={{ textAlign: 'left' }}>
                         <Col span={10}>
-                            <Card bordered={false} style={{ width: '100%', marginTop: 5 }}>
+                            <Card bordered={false} style={{ width: '100%', marginTop: 5, height: '99%' }}>
                                 <Title level={4}>Top 5 ventas</Title>
                                 <TopSalesTableBySku />
                             </Card>

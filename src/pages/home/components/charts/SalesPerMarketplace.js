@@ -3,6 +3,8 @@ import { Column } from '@ant-design/plots';
 import { useSelector } from 'react-redux';
 import { Collapse, Row, Col, Typography, Space } from 'antd';
 import selectors from '../../../../redux/analytic/dashboard/selectors';
+import {groupingSalesByPurchaseDate} from "../../../../helpers/analytic-helper";
+import BarChart from "../../../../components/BarChart/BarChart";
 
 const { Panel } = Collapse;
 const { Text } = Typography;
@@ -11,6 +13,9 @@ const SalesByMarketplaceAndPurchaseDate = () => {
     const [data, setData] = useState([]);
     const rows = useSelector(selectors.selectRows);
     const session = useSelector(store => store.Session.session);
+
+    const [defaultFormatData, setDefaultFormatData] = useState('MMM')
+    const analyticData = useSelector(store => store?.Analytic?.dashboard?.rows)
 
     useEffect(() => {
         if (!session?.userInfo?.isAdmin) {
@@ -69,6 +74,9 @@ const SalesByMarketplaceAndPurchaseDate = () => {
             },
         },
     };
+
+    const getSalesForDates = (chartdata) => groupingSalesByPurchaseDate(chartdata);
+
     return <Row>
         <Col span={24}>
             <Collapse ghost>
@@ -96,7 +104,15 @@ const SalesByMarketplaceAndPurchaseDate = () => {
             </Collapse>
         </Col>
         <Col span={24}>
-            <Column {...config} />
+            <BarChart
+                data={getSalesForDates(analyticData)}
+                xLabel="type"
+                yLabel="sales"
+                prefixLabel="$"
+                defaultFormat={defaultFormatData}
+                onChangeFormat={e => setDefaultFormatData(e)}
+            />
+            {/*<Column {...config} />*/}
         </Col>
     </Row>
 };

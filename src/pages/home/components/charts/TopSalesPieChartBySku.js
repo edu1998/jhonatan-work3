@@ -3,6 +3,8 @@ import { useSelector } from 'react-redux';
 import { Pie, measureTextWidth } from '@ant-design/plots';
 import selectors from '../../../../redux/analytic/dashboard/selectors';
 import { Typography } from 'antd';
+import {PieChart} from "../../../../components/PieChart/PieChart";
+import {adapterDataPieChart, getAllProductsBySales} from "../../../../helpers/analytic-helper";
 
 const { Text } = Typography;
 
@@ -10,6 +12,8 @@ const TopSalesPieChartBySku = () => {
     const [data, setData] = useState([]);
     const rows = useSelector(selectors.selectRows);
     const session = useSelector(store => store.Session.session);
+    const analyticData = useSelector(store => store?.Analytic?.dashboard?.rows)
+
 
     useEffect(() => {
         let values = [];
@@ -139,7 +143,9 @@ const TopSalesPieChartBySku = () => {
             }
         ],
     };
+    const getTopPieChartBySales = (chartData) => adapterDataPieChart(getAllProductsBySales(chartData));
 
-    return <Pie {...config} />;
+    // return <Pie {...config} />;
+    return <PieChart data={getTopPieChartBySales(analyticData)} unitBasePrefix={'$'}/>
 };
 export default React.memo(TopSalesPieChartBySku);

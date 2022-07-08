@@ -1,0 +1,17 @@
+.barChart {
+    height: 327px;
+    display: flex;
+    width: 100%;
+}
+
+.barChart-header-card {
+    display: flex;
+}
+
+.g2-tooltip-title {
+    text-align: start;
+}
+
+.g2-tooltip-marker {
+    background: #3be5a6 !important
+}

@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import selectors from '../../../../redux/analytic/dashboard/selectors';
 import { useSelector } from 'react-redux';
 import { Table, Typography } from 'antd';
+import {TableTop} from "../../../../components/TableTop/TableTop";
+import {adapterDataTable, getAllProducts} from "../../../../helpers/analytic-helper";
 
 const { Text } = Typography;
 
@@ -9,6 +11,8 @@ const TopSalesTableBySku = () => {
     const [data, setData] = useState([]);
     const rows = useSelector(selectors.selectRows);
     const session = useSelector(store => store.Session.session);
+
+    const analyticData = useSelector(store => store?.Analytic?.dashboard?.rows)
 
     useEffect(() => {
         let values = [];
@@ -62,6 +66,12 @@ const TopSalesTableBySku = () => {
             key: 'sumQuantitySold',
         },
     ];
-    return <Table dataSource={data.filter((element, index) => index <= 4)} pagination={false} columns={columns} />;
+
+    const getTopDataTable = (chartData) => adapterDataTable(getAllProducts(chartData));
+
+
+    // return <Table dataSource={data.filter((element, index) => index <= 4)} pagination={false} columns={columns} />;
+    return <TableTop topData={getTopDataTable(analyticData)} range={[0, 5]} />
+
 };
 export default React.memo(TopSalesTableBySku);

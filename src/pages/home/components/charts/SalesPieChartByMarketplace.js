@@ -3,6 +3,8 @@ import { useSelector } from 'react-redux';
 import { Pie, measureTextWidth } from '@ant-design/plots';
 import selectors from '../../../../redux/analytic/dashboard/selectors';
 import { Typography } from 'antd';
+import {PieChart} from "../../../../components/PieChart/PieChart";
+import {getMarketplacesBySales} from "../../../../helpers/analytic-helper";
 
 const { Text } = Typography;
 
@@ -10,6 +12,7 @@ const SalesPieChartByMarketplace = () => {
     const [data, setData] = useState([]);
     const rows = useSelector(selectors.selectRows);
     const session = useSelector(store => store.Session.session);
+    const analyticData = useSelector(store => store?.Analytic?.dashboard?.rows)
 
     useEffect(() => {
         let values = [];
@@ -125,6 +128,7 @@ const SalesPieChartByMarketplace = () => {
         ],
     };
 
-    return <Pie {...config} />;
+    // return <Pie {...config} />;
+    return <PieChart data={getMarketplacesBySales(analyticData)} unitBasePrefix={'$'}/>
 };
 export default React.memo(SalesPieChartByMarketplace);
