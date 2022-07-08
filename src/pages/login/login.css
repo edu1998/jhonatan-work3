@@ -1,0 +1,102 @@
+.login-container {
+    height: 100vh;
+}
+
+.login-left {
+    height: 100%;
+    width: 100%;
+    background-image: url("../../assets/login-background.png");
+    -moz-background-size: 100% 100%; /*Firefox 3.6*/
+    -o-background-size: 100% 100%; /*opera*/
+    -webkit-background-size: 100% 100%; /*Safari*/
+    background-size: 100% 100%; /*estandar css3*/
+    -moz-border-image: url('../../assets/login-background.png') 0; /*Firefox 3.5*/    
+}
+
+.login-hr-texts {
+    width: 100%;
+    color:  linear-gradient(red, yellow);
+}
+
+.CheckboxRememberPassword {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-content-inputs {
+    margin-top: 23%;
+    margin-bottom: 250px;
+    padding-left: 31%;
+    padding-right: 31%;
+}
+
+.login-content-texts {
+    margin-top: 40%;
+    margin-bottom: 250px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.login-logo {
+    height: auto;
+    width: 100%;
+    max-width: 200px;
+}
+
+.login-email-item {
+    margin-bottom: 4px;
+    padding-top: 0px;
+}
+
+.login-password-item {
+    margin-bottom: 4px;
+}
+
+.login-error {
+    margin-bottom: 4px;
+}
+
+.request-password-error {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.reset-password-error {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.reset-password-item {
+    margin-bottom: 4px;
+    padding-top: 10px;
+}
+
+.login-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-title {
+    margin-top: 10px;
+    font-family: 'Trebuchet MS';
+    font-size: 14pt;
+    margin-bottom: 20px;
+}
+
+.login-divider {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.login-button-container {
+    margin-top: 15px;
+}
+
+.recoverPassword, .ant-btn-link {
+    color: #969696 !important;
+    border:  none;
+}

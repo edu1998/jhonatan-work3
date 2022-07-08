@@ -1,0 +1,63 @@
+variables:
+  DOCKER_REGISTRY: 276367976103.dkr.ecr.us-east-1.amazonaws.com
+  IMAGE_TAG: latest
+  DOCKER_HOST: tcp://docker:2376
+
+stages:
+  - build
+  - deploy
+  - cache
+
+build-image:
+  stage: build
+  image:
+    name: node:12.20
+  tags:
+   - develop
+  services:
+    - docker:dind
+  before_script:
+    - node --version
+  script:
+    - npm install
+    - CI=false npm run build
+  artifacts:
+    paths:
+      - "build/"
+  only:
+    - web
+  allow_failure: false
+
+deploy-image:
+  stage: deploy
+  image:
+    name: amazon/aws-cli
+    entrypoint: [""]
+  tags: 
+    - develop
+  services:
+    - docker:dind
+  script:
+    - aws s3 sync build/ s3://devapp1.lapmarketplace.com/
+  dependencies:
+    - build-image
+  only:
+    - web
+  allow_failure: false
+
+magic-button:
+  stage: cache
+  image:
+    name: amazon/aws-cli
+    entrypoint: [""]
+  tags: 
+    - develop
+  services:
+    - docker:dind
+  script:
+    - aws cloudfront create-invalidation --distribution-id E2Q3XFEAIAG99C --paths "/*"
+  dependencies:
+    - deploy-image
+  only:
+    - web
+  allow_failure: true

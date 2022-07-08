@@ -1,0 +1,119 @@
+.document-modal-content {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.document-card-title {
+    justify-content: space-between;
+    border-bottom: 1.5px solid #92929275; 
+    margin-bottom: 10px;
+}
+
+.document-card-title-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.document-card-title-icon {
+    font-size: 30px; 
+    color: #08c;
+    margin-right: 10px;
+}
+
+.document-content-list {
+    height: 150px;
+    overflow: auto;
+}
+
+.document-add-button {
+    color: #5365E3; 
+    border-color: #5365E3;
+}
+
+.document-add-button:hover {
+    color: #344097 !important; 
+    border-color: #344097 !important;
+}
+
+.document-video-icon {
+    font-size: 18px;
+    color: #d80e0e;
+    margin-right: 5px;
+    align-self: center;
+}
+
+.document-document-icon {
+    font-size: 18px;
+    color: #d88314;
+    margin-right: 5px;
+    align-self: center;
+}
+
+.document-list-item {
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    max-width: 475px;
+    align-self: center;
+    color: #2f2ff7;
+}
+
+.document-list-item-competitor {
+    color: #000;
+}
+
+.document-action-button {
+    margin-right: 5px;
+    color: #5365E3;
+}
+
+.document-pinned-row {
+    color: #5365E3;
+}
+
+.document-row-content {
+    display: flex;
+    flex: 1;
+    flex-wrap: nowrap;
+}
+
+.document-row-edition {
+    display: flex;
+    flex: 1;
+}
+
+.document-row-edition-property {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.document-row-edition-last-property {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+.document-row-edition-label {
+    margin: 0;
+}
+
+.document-card-container {
+    margin-top: 40px;
+}
+
+.document-competitor {
+    background-color: rgba(219, 219, 219, 0.5);
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.document-row-parent {
+    display: flex;
+}
+
+.document-row-parent:hover {
+    background-color: #5364e310;
+}

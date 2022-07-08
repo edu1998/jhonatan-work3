@@ -1,0 +1,36 @@
+
+.my-seller-account-card{
+    margin-top: 16px;
+    border-color: #1AAE9F;
+}
+.col-align-rigth-margin-top{
+    text-align: right; 
+    margin-top: 20px; 
+}
+.text-divider{
+    color:#C3CFD9;
+    font-size: 12px;
+}
+.check-status-my-account{
+    height: 10px;
+    width: 10px;
+    background-color: 'none';
+    display: inline-block;
+    float: right;
+    margin-top: 14px;
+}
+.side-bar-menu{
+    height: 100%; 
+    border-right: 0px; 
+    background-color: #F0F2F5; 
+}
+.side-bar-icon-item{
+    margin-right: 2px !important;
+}
+.tab-pane-marketplace{
+    text-transform: capitalize;
+}
+
+.contentOptionsPhone {
+    width: 140px !important;
+}

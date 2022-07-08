@@ -1,0 +1,25 @@
+.home-ultima-actualizacíon {
+
+}
+
+.home-ultima-actualizacíon-icon {
+    background-color: #f3f3f3;
+}
+
+.home-ultima-actualizacíon-icon:hover {
+    background-color: #f3f3f3;
+}
+
+.home-info {
+    margin-top: 43px;
+    text-align: left;
+    background-color: white;
+}
+
+.home-info-text {
+    margin-left: 10px;
+}
+
+.ant-card {
+    box-shadow: none;
+}

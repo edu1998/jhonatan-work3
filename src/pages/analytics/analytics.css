@@ -1,0 +1,50 @@
+.sales-row-marketplaces{
+    background-color: #e9ecf1;
+}
+
+.stock-row-marketplaces{
+    background-color: #e9ecf1;
+    margin-left: "100px";
+}
+
+.sales-title { 
+    color: #dadada;
+}
+
+.sales-search-row{
+    justify-content: flex-end;
+    display: 'flex';
+    flex-direction: row;
+}
+
+.sales-font-size{
+    font-size: 'larger'
+}
+
+.analytics-sales-card {
+    width: auto !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.analytics-sales-card-content {
+    float: left !important;
+}
+
+.analytics-sales-title {
+    font-size: 20px !important;
+    margin-right: 10px !important;
+}
+
+.analytics-sales-title-icon {
+    margin-right: 5px !important;
+}
+
+.analytics-sales-title-description {
+    color: gray !important;
+}
+
+.analytics-sales-date-picker{
+    width: '50%';
+    text-align: 'left';
+}

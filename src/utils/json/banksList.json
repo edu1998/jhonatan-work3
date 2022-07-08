@@ -1,0 +1,7758 @@
+﻿[
+	{
+		"value": "Buckeye state Bank",
+		"street": "101 N. Main Street",
+		"city": "Degraff",
+		"state": "OH",
+		"zip": "43318"
+	},
+	{
+		"value": "Chiron RCAF",
+		"street": " LLC.",
+		"city": "1419 Lake Pointe Pkwy",
+		"state": "Sugar Land",
+		"zip": "TX"
+	},
+	{
+		"value": "BancFirst",
+		"street": "P.O. Box 26788",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73126"
+	},
+	{
+		"value": "First Financial Federal Credit Union Of Maryland",
+		"street": "1215 York Road",
+		"city": "Lutherville",
+		"state": "MD",
+		"zip": "21093"
+	},
+	{
+		"value": "Columbia Bank",
+		"street": "721 2nd Ave",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98104"
+	},
+	{
+		"value": "Citizens Community Federal",
+		"street": "2174 Eastridge Center",
+		"city": "Eau Claire",
+		"state": "WI",
+		"zip": "54701"
+	},
+	{
+		"value": "Credit Union Advantage",
+		"street": "22250 Providence Drive",
+		"city": "Southfield",
+		"state": "MI",
+		"zip": "48075"
+	},
+	{
+		"value": "America First Credit Union",
+		"street": "1344 W 4675 S Riverdale",
+		"city": "Riverdale",
+		"state": "UT",
+		"zip": "84405"
+	},
+	{
+		"value": "Patriot Federal Credit Union",
+		"street": "800 Wayne Ave.",
+		"city": "Chambersburg",
+		"state": "PA",
+		"zip": "17201"
+	},
+	{
+		"value": "LA HEALTHCARE FCU",
+		"street": "PO BOX 17159",
+		"city": "LOS ANGELES",
+		"state": "CA",
+		"zip": "90017"
+	},
+	{
+		"value": "MIDFLORIDA CREDIT UNION",
+		"street": "PO BOX 8008",
+		"city": "LAKELAND",
+		"state": "FL",
+		"zip": "33802"
+	},
+	{
+		"value": "Velocity Community Credit Union",
+		"street": "PO Box 30669",
+		"city": "Palm Beach Gardens",
+		"state": "FL",
+		"zip": "33420"
+	},
+	{
+		"value": "First Service Federal Credit Union (OH)",
+		"street": "100 Main St",
+		"city": "Groveport",
+		"state": "OH",
+		"zip": "43125"
+	},
+	{
+		"value": "Lone Star National Bank",
+		"street": "P.O. Box 1127",
+		"city": "Pharr",
+		"state": "TX",
+		"zip": "78577"
+	},
+	{
+		"value": "Jefferson Financial Credit Union",
+		"street": "7701 Airline Dr",
+		"city": "Metairie",
+		"state": "LA",
+		"zip": "70003"
+	},
+	{
+		"value": "NUTMEG state FEDERAL CREDIT UNION",
+		"street": "PO BOX 20270",
+		"city": "LEHIGH VALLEY",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "Financial Partners CU",
+		"street": "PO BX 7005",
+		"city": "Downey",
+		"state": "CA",
+		"zip": "90241"
+	},
+	{
+		"value": "Bell state Bank & Trust",
+		"street": "3100 13th Avenue South",
+		"city": "Fargo",
+		"state": "ND",
+		"zip": "58103"
+	},
+	{
+		"value": "Texas National Bank",
+		"street": "PO Box 977",
+		"city": "Bullard",
+		"state": "TX",
+		"zip": "75757"
+	},
+	{
+		"value": "Farmers & Merchants Bank",
+		"street": "41 S First Street",
+		"city": "Miamisburg",
+		"state": "OH",
+		"zip": "45342"
+	},
+	{
+		"value": "Western Federal Credit Union",
+		"street": "PO Box 10065",
+		"city": "Manhattan Beach",
+		"state": "CA",
+		"zip": "90267-7565"
+	},
+	{
+		"value": "Hillsboro Bank",
+		"street": "509 W ALEXANDER ST",
+		"city": "PLANT city",
+		"state": "FL",
+		"zip": "33566"
+	},
+	{
+		"value": "Advia Credit Union",
+		"street": "550 S. Riverview Drive",
+		"city": "Parchment",
+		"state": "MI",
+		"zip": "49004"
+	},
+	{
+		"value": "First Service Credit Union (TX)",
+		"street": "9621 W Sam Houston Pkwy N",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77064"
+	},
+	{
+		"value": "BCU",
+		"street": "PO BOX 660308",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95866"
+	},
+	{
+		"value": "Lake Trust Credit Union",
+		"street": "4605 S. Old US Highway 23",
+		"city": "Brighton",
+		"state": "MI",
+		"zip": "48114"
+	},
+	{
+		"value": "Canyon state Credit Union",
+		"street": "3440 W. Deer Valley Rd.",
+		"city": "Phoenix",
+		"state": "AZ",
+		"zip": "85027"
+	},
+	{
+		"value": "VisionBank",
+		"street": "3000 25th Street S.",
+		"city": "Fargo",
+		"state": "ND",
+		"zip": "58103"
+	},
+	{
+		"value": "Enterprise Bank",
+		"street": "12800 W Center Rd",
+		"city": "Omaha",
+		"state": "NE",
+		"zip": "68144"
+	},
+	{
+		"value": "Allstate Leasing",
+		"street": "1 Olympic Place Suite 1010",
+		"city": "Towson",
+		"state": "MD",
+		"zip": "21204"
+	},
+	{
+		"value": "ANECA Federal Credit Union",
+		"street": "4361 Youree Dr",
+		"city": "Shreveport",
+		"state": "LA",
+		"zip": "71105"
+	},
+	{
+		"value": "Rivermark Community Credit Union",
+		"street": "PO Box 4044",
+		"city": "Beaverton",
+		"state": "OR",
+		"zip": "97076-4044"
+	},
+	{
+		"value": "Oregon state Credit Union",
+		"street": "PO Box 306",
+		"city": "Corvallis",
+		"state": "OR",
+		"zip": "97339-0306"
+	},
+	{
+		"value": "Service Credit Union",
+		"street": "3003 Lafayette Rd",
+		"city": "Portsmouth",
+		"state": "NH",
+		"zip": "3802"
+	},
+	{
+		"value": "Pioneer Bank",
+		"street": "320 Stadium Rd.",
+		"city": "STE 100",
+		"state": "MN",
+		"zip": "56001"
+	},
+	{
+		"value": "American Heritage Federal Credit Union",
+		"street": "2060 Red Lion Road",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19115"
+	},
+	{
+		"value": "Republic Bank",
+		"street": "One Greentree Center 10000 Lincoln Drive East",
+		"city": " Ste. 104",
+		"state": "Marlton",
+		"zip": "NJ"
+	},
+	{
+		"value": "Tulsa Federal Credit Union",
+		"street": "9323 E 21ST STREET",
+		"city": "Tulsa",
+		"state": "OK",
+		"zip": "74129"
+	},
+	{
+		"value": "LA Financial CU",
+		"street": "P.O. Box 296",
+		"city": "Pasadena",
+		"state": "CA",
+		"zip": "91102"
+	},
+	{
+		"value": "First Citizens' Federal Credit Union (MA)",
+		"street": "200 MILL RD # 100",
+		"city": "FAIRHAVEN",
+		"state": "MA",
+		"zip": "2719"
+	},
+	{
+		"value": "JACOM CU",
+		"street": "3037 W JEFFERSON BLVD",
+		"city": "LOS ANGELES",
+		"state": "CA",
+		"zip": "90018"
+	},
+	{
+		"value": "Corporate America Family Credit Union",
+		"street": "2075 Big Timber Road",
+		"city": "Elgin",
+		"state": "IL",
+		"zip": "60123"
+	},
+	{
+		"value": "First National Bank",
+		"street": "4140 East state Street",
+		"city": "Hermitage",
+		"state": "PA",
+		"zip": "16148"
+	},
+	{
+		"value": "TransWest Credit Union",
+		"street": "P.O. Box 65218",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84165-0218"
+	},
+	{
+		"value": "Aloha Pacific FCU",
+		"street": "832 South Hotel Street",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96813"
+	},
+	{
+		"value": "Inspirus Credit Union",
+		"street": "PO Box 576",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98111"
+	},
+	{
+		"value": "Central National Bank",
+		"street": "5400 Bosque",
+		"city": "Waco",
+		"state": "TX",
+		"zip": "76710"
+	},
+	{
+		"value": "Zions Credit Corporation",
+		"street": "PO Box 3954",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "Granite state Credit Union",
+		"street": "PO Box 6420",
+		"city": "Manchester",
+		"state": "NH",
+		"zip": "3108"
+	},
+	{
+		"value": "MASS MUTUAL FCU",
+		"street": "1295 state ST",
+		"city": "SPRINGFIELD",
+		"state": "MA",
+		"zip": "1111"
+	},
+	{
+		"value": "Helm Bank USA",
+		"street": " Inc.",
+		"city": "999 Brickell Avenue",
+		"state": "Miami",
+		"zip": "FL"
+	},
+	{
+		"value": "Alta Vista Credit Union",
+		"street": "1425 W Lugonia Ave",
+		"city": "Redlands",
+		"state": "CA",
+		"zip": "92374"
+	},
+	{
+		"value": "Mike Albert Limited",
+		"street": "10340 Evendale Drive",
+		"city": "Cincinnati",
+		"state": "Ohio",
+		"zip": "45241"
+	},
+	{
+		"value": "American Bank Trust",
+		"street": "PO Box 688",
+		"city": "Boiling Green",
+		"state": "KY",
+		"zip": "42102"
+	},
+	{
+		"value": "Community National Bank & Trust of Texas",
+		"street": "1901 Wall St.",
+		"city": "Weatherford",
+		"state": "TX",
+		"zip": "76086"
+	},
+	{
+		"value": "Cornerstone National Bank",
+		"street": "1 West NW HWY",
+		"city": "Palatine",
+		"state": "IL",
+		"zip": "60067"
+	},
+	{
+		"value": "FirstMerit Bank",
+		"street": "401 W North Water St",
+		"city": "New London",
+		"state": "WI",
+		"zip": "54961"
+	},
+	{
+		"value": "UNIFY Financial Credit Union",
+		"street": "1899 Western Way",
+		"city": "Torrance",
+		"state": "CA",
+		"zip": "90501"
+	},
+	{
+		"value": "Kia Motors Finance",
+		"street": "PO Box 650805",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75265-0805"
+	},
+	{
+		"value": "Insight Credit Union",
+		"street": "Po Box 4900",
+		"city": "Orlando",
+		"state": "FL",
+		"zip": "32802"
+	},
+	{
+		"value": "NW Preferred Federal Credit Union",
+		"street": "PO Box 231269",
+		"city": "Tigard",
+		"state": "OR",
+		"zip": "97281"
+	},
+	{
+		"value": "CoVantage Credit Union",
+		"street": "PO BOX 107",
+		"city": "Antigo",
+		"state": "WI",
+		"zip": "54409"
+	},
+	{
+		"value": "Beacon Credit Union",
+		"street": "PO Box 4319",
+		"city": "Lynchburg",
+		"state": "VA",
+		"zip": "24502"
+	},
+	{
+		"value": "IBMSECU",
+		"street": "P.O. Box 5090",
+		"city": "Boca Raton",
+		"state": "FL",
+		"zip": "33431-0890"
+	},
+	{
+		"value": "ALTAONE FCU",
+		"street": "PO Bx 277851",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "Harvard University Employees Credit Union",
+		"street": "104 Mt Auburn St 4th FL",
+		"city": "Cambridge",
+		"state": "MA",
+		"zip": "2138"
+	},
+	{
+		"value": "Bank of America",
+		"street": "PO Box 2759",
+		"city": "Jacksonville",
+		"state": "FL",
+		"zip": "32203"
+	},
+	{
+		"value": "Bank of Arizona",
+		"street": "16767 North Perimeter Drive Ste 200",
+		"city": "Scottsdale",
+		"state": "AZ",
+		"zip": "85260"
+	},
+	{
+		"value": "Bank of Hawaii",
+		"street": "PO Box 2715",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96803"
+	},
+	{
+		"value": "Bank of Houston",
+		"street": "750 Bering Drive",
+		"city": " Suite 100",
+		"state": "Houston",
+		"zip": "TX"
+	},
+	{
+		"value": "Bank of Santa Clarita",
+		"street": "23780 Magic Mountain Parkway",
+		"city": "Santa Clarita",
+		"state": "CA",
+		"zip": "91355"
+	},
+	{
+		"value": "Bank of the West",
+		"street": "PO Box 5167",
+		"city": "San Ramon",
+		"state": "CA",
+		"zip": "94583"
+	},
+	{
+		"value": "Bank United",
+		"street": "P.O. Box 20667",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "Bank Fund Staff Federal Credit Union",
+		"street": "1725 I Street NW",
+		"city": " Suite 150",
+		"state": "Washington",
+		"zip": "DC"
+	},
+	{
+		"value": "Barksdale Federal Credit Union",
+		"street": "P.O. Box 9",
+		"city": "Barksdale AFB",
+		"state": "LA",
+		"zip": "71110-9989"
+	},
+	{
+		"value": "Baxter Credit Union/CUNA MUTUAL GROUP",
+		"street": "PO BOX 5001",
+		"city": "Waverly",
+		"state": "IA",
+		"zip": "50677"
+	},
+	{
+		"value": "BB&T",
+		"street": "10260 Baltimore Ave",
+		"city": " 2nd Floor",
+		"state": "College Park",
+		"zip": "MD"
+	},
+	{
+		"value": "BBCN",
+		"street": "253 N Western Ave FL 2",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90004"
+	},
+	{
+		"value": "BBVA Compass Bank",
+		"street": "PO BOX 10343",
+		"city": "Birmingham",
+		"state": "AL",
+		"zip": "35203"
+	},
+	{
+		"value": "Bellco Credit Union",
+		"street": "PO Box 6612",
+		"city": "Greenwood Village",
+		"state": "CO",
+		"zip": "80155-6611"
+	},
+	{
+		"value": "Benchmark Federal Credit Union",
+		"street": "P.O Box 2387",
+		"city": "West Chester",
+		"state": "PA",
+		"zip": "19380"
+	},
+	{
+		"value": "Beth Page Federal Credit Union",
+		"street": "PO Box 127",
+		"city": "Bethpage",
+		"state": "NY",
+		"zip": "11714"
+	},
+	{
+		"value": "Big Valley FCU Main Office",
+		"street": "3111 Wissemann Drive",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95826"
+	},
+	{
+		"value": "BMI Credit Union",
+		"street": "PO Box 3670",
+		"city": "Dublin",
+		"state": "OH",
+		"zip": "43016"
+	},
+	{
+		"value": "BMO Harris Bank N.A.",
+		"street": "111 W Monrow St FL 17",
+		"city": "Chicago",
+		"state": "IL",
+		"zip": "60603"
+	},
+	{
+		"value": "BNY Mellon Trust Co. N.A.",
+		"street": "20 Oak Hollow Road Ste125",
+		"city": "Southfield",
+		"state": "MI",
+		"zip": "48033"
+	},
+	{
+		"value": "Boeing Employees Credit Union (BECU)",
+		"street": "PO Box 97050",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98124-9750"
+	},
+	{
+		"value": "Boston Scientific Financial Service Center",
+		"street": "47215 Lakeview Blvd",
+		"city": "Fremont",
+		"state": "CA",
+		"zip": "94538"
+	},
+	{
+		"value": "Boulder Valley Credit Union",
+		"street": "5505 Arapahoe Ave",
+		"city": "Boulder",
+		"state": "CO",
+		"zip": "80303"
+	},
+	{
+		"value": "BP Federal Credit Union",
+		"street": "580 West Lake Park Blvd suite 150",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77079"
+	},
+	{
+		"value": "Branch Bank and Trust Co.",
+		"street": "PO Box 1290",
+		"city": "Whiteville",
+		"state": "NC",
+		"zip": "28472"
+	},
+	{
+		"value": "Bridgewater Credit Union",
+		"street": "75 Main St",
+		"city": "Bridgewater",
+		"state": "MA",
+		"zip": "2324"
+	},
+	{
+		"value": "BROADWAY NATIONAL BANK",
+		"street": "1177 N.E. LOOP 410",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78209"
+	},
+	{
+		"value": "Broomfield Community Finance Credit Union",
+		"street": "6855 West 119 Ave",
+		"city": "Broomfield",
+		"state": "CO",
+		"zip": "80020"
+	},
+	{
+		"value": "Burbank city Credit Union",
+		"street": "1800 W. Magnolia Blvd",
+		"city": "Burbank",
+		"state": "CA",
+		"zip": "91506"
+	},
+	{
+		"value": "C.A.H.P. Credit Union",
+		"street": "PO Box 276507",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "Caisse Populaire Desjardins le Manoir",
+		"street": "4771 Boulevard Laurier",
+		"city": "Terrebonne",
+		"state": "Quecec",
+		"zip": "J7M 1S9"
+	},
+	{
+		"value": "California Bank and Trust",
+		"street": "P.O. Box 1507",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "1st (First) Source Bank",
+		"street": "PO BOX 783",
+		"city": "South Bend",
+		"state": "IN",
+		"zip": "46624"
+	},
+	{
+		"value": "1st United Services Credit Union",
+		"street": "5901 Gibraltar Dr N",
+		"city": "Pleasanton",
+		"state": "CA",
+		"zip": "94588"
+	},
+	{
+		"value": "20th Century Fox Credit Union",
+		"street": "1901 Avenue of the Stars",
+		"city": " Suite 120",
+		"state": "Los Angeles",
+		"zip": "CA"
+	},
+	{
+		"value": "3Rivers Federal Credit Union",
+		"street": "P.O. Box 2573",
+		"city": "Fort Wayne",
+		"state": "IN",
+		"zip": "46801"
+	},
+	{
+		"value": "A Plus Federal Credit Union",
+		"street": "PO Box 14867",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78761"
+	},
+	{
+		"value": "AAFCU (American Airlines Federal Credit Union)",
+		"street": "PO BX 619001 MD2100",
+		"city": "DFW AIRPORT",
+		"state": "TX",
+		"zip": "75261"
+	},
+	{
+		"value": "Abbott Laboratories Employees Credit Union",
+		"street": "401 N Riverside Dr Ste 1A",
+		"city": "Gurnee",
+		"state": "IL",
+		"zip": "60031"
+	},
+	{
+		"value": "Aberdeen Proving Ground Federal Credit Union",
+		"street": "APGFCU PO Box 1176",
+		"city": "Aberdeen",
+		"state": "MD",
+		"zip": "21001-6176"
+	},
+	{
+		"value": "Abri CU",
+		"street": "122 E. 9th St",
+		"city": "Lockport",
+		"state": "IL",
+		"zip": "60441"
+	},
+	{
+		"value": "ACF Property Management Inc.",
+		"street": "12411 Ventura Blvd",
+		"city": "Studio city",
+		"state": "CA",
+		"zip": "91604"
+	},
+	{
+		"value": "Achieva Credit Union",
+		"street": "PO Box 2650",
+		"city": "Largo",
+		"state": "FL",
+		"zip": "33779"
+	},
+	{
+		"value": "Actor's Federal Credit Union",
+		"street": "165 West 46th St",
+		"city": "New York",
+		"state": "NY",
+		"zip": "10036"
+	},
+	{
+		"value": "Adirondack Bank",
+		"street": "185 Genesee St",
+		"city": "Utica",
+		"state": "NY",
+		"zip": "13501"
+	},
+	{
+		"value": "Advance Financial Federal Credit Union",
+		"street": "4035 Alder Street",
+		"city": "East Chicago",
+		"state": "IN",
+		"zip": "46312"
+	},
+	{
+		"value": "Advancial Federal Credit Union",
+		"street": "1845 Woodall Rogers Fwy",
+		"city": " Ste. 1300",
+		"state": "Dallas",
+		"zip": "TX"
+	},
+	{
+		"value": "Advantage Funding Commercial Capital Corp",
+		"street": "1111 Marcus Ave",
+		"city": " Suite M27",
+		"state": "Lake Success",
+		"zip": "NY"
+	},
+	{
+		"value": "Advantage West Credit Union",
+		"street": "PO Box 15115",
+		"city": "Tucson",
+		"state": "AZ",
+		"zip": "85708"
+	},
+	{
+		"value": "Advantis Credit Union",
+		"street": "PO Box 14220",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97293"
+	},
+	{
+		"value": "Aerospace Federal Credit Union",
+		"street": "2310 E. El Segundo Blvd",
+		"city": "El Segundo",
+		"state": "CA",
+		"zip": "90245"
+	},
+	{
+		"value": "Affinity Federal Credit Union",
+		"street": "73 Mountainview Blvd",
+		"city": "Basking Ridge",
+		"state": "NJ",
+		"zip": "7920"
+	},
+	{
+		"value": "Aftra Sag FCU",
+		"street": "134 N Kenwood St",
+		"city": "Burbank",
+		"state": "CA",
+		"zip": "91505"
+	},
+	{
+		"value": "Alarion Bank",
+		"street": "4373 Newberry Rd",
+		"city": "Gainesville",
+		"state": "FL",
+		"zip": "32607"
+	},
+	{
+		"value": "AlaskaUSA Federal Credit Union",
+		"street": "PO Box 196613",
+		"city": "Anchorage",
+		"state": "AK",
+		"zip": "99519"
+	},
+	{
+		"value": "Alcoa Tenn Federal Credit Union",
+		"street": "124 N Hall Rd",
+		"city": "Alcoa",
+		"state": "TN",
+		"zip": "37701"
+	},
+	{
+		"value": "Allegacy Federal Credit Union",
+		"street": "PO Box 981",
+		"city": "Bangor",
+		"state": "PA",
+		"zip": "18013"
+	},
+	{
+		"value": "Allegiance Credit Union",
+		"street": "4235 N Meridian",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73112"
+	},
+	{
+		"value": "Alpha Leasing Company Inc.",
+		"street": "215 S Hurstbourne Pkwy Ste 103",
+		"city": "Louisville",
+		"state": "KY",
+		"zip": "40222"
+	},
+	{
+		"value": "Altura Credit Union",
+		"street": "3451 14th Street",
+		"city": "Riverside",
+		"state": "CA",
+		"zip": "92501"
+	},
+	{
+		"value": "Amazon Leasing",
+		"street": " Inc.",
+		"city": "11501 Presilla Rd",
+		"state": "Camarillo",
+		"zip": "CA"
+	},
+	{
+		"value": "Amegy Bank National Association",
+		"street": "PO Box 1507",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "American Alliance Federal Credit Union",
+		"street": "PO Box 619001",
+		"city": "DFW Airport",
+		"state": "TX",
+		"zip": "75261"
+	},
+	{
+		"value": "American Bank of Texas",
+		"street": "PO Box 346",
+		"city": "Denison",
+		"state": "TX",
+		"zip": "75021"
+	},
+	{
+		"value": "American Chartered Bank",
+		"street": "700 W Euclid Ave",
+		"city": "Palatine",
+		"state": "IL",
+		"zip": "60067"
+	},
+	{
+		"value": "American Eagle Federal Credit Union",
+		"street": "P O Box 279874",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827-9684"
+	},
+	{
+		"value": "Banner Bank",
+		"street": "10 South First Avenue PO BOX 907",
+		"city": "Walla Walla",
+		"state": "WA",
+		"zip": "99362-0265"
+	},
+	{
+		"value": "America's First Federal Credit Union",
+		"street": "PO Box 11349",
+		"city": "Birmingham",
+		"state": "AL",
+		"zip": "35202"
+	},
+	{
+		"value": "Amplify Credit Union",
+		"street": "PO Box 85300",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78708"
+	},
+	{
+		"value": "Andover state Bank",
+		"street": "PO Box 278",
+		"city": "Andover",
+		"state": "KS",
+		"zip": "67002"
+	},
+	{
+		"value": "Andrews Federal Credit Union",
+		"street": "5711 Allentown Rd",
+		"city": "Suitland",
+		"state": "MD",
+		"zip": "20746"
+	},
+	{
+		"value": "APCI Federal Credit Union",
+		"street": "PO Box 20147",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "APL Federal Credit Union",
+		"street": "PO Box 418",
+		"city": "Laurel",
+		"state": "MD",
+		"zip": "20725"
+	},
+	{
+		"value": "Apple Federal Credit Union",
+		"street": "PO Box 278118",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "Arizona Federal Credit Union",
+		"street": "PO Box 277083",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "Arlington Community Federal Credit Union",
+		"street": "PO Box 40070",
+		"city": "Arlington",
+		"state": "VA",
+		"zip": "22204"
+	},
+	{
+		"value": "Arrowhead Central Credit Union.",
+		"street": "PO Box 735",
+		"city": "San Bernardino",
+		"state": "CA",
+		"zip": "94202"
+	},
+	{
+		"value": "Arvest Bank",
+		"street": "406 South Walton Blvd",
+		"city": "Bentonville",
+		"state": "AR",
+		"zip": "72712"
+	},
+	{
+		"value": "Aspire FCU",
+		"street": "67 Walnut Ave",
+		"city": " Suite 401",
+		"state": "Clark",
+		"zip": "NJ"
+	},
+	{
+		"value": "Associated Credit Union",
+		"street": "6251 Crooked Creek Rd",
+		"city": "Norcross",
+		"state": "GA",
+		"zip": "30092"
+	},
+	{
+		"value": "Austin Telco Federal Credit Union",
+		"street": "8929 Shoal Creek Blvd",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78757"
+	},
+	{
+		"value": "Bakersfield city Employees Federal Credit Union",
+		"street": "2817 16th Street",
+		"city": "Bakersfield",
+		"state": "CA",
+		"zip": "93301"
+	},
+	{
+		"value": "California Coast Credit Union",
+		"street": "PO Box 502080",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92105"
+	},
+	{
+		"value": "Caltech Employees Federal Credit Union",
+		"street": "528 Foothill Blvd",
+		"city": "La Canada Flintridge",
+		"state": "CA",
+		"zip": "91012"
+	},
+	{
+		"value": "Campus USA Credit Union",
+		"street": "PO Box 147029",
+		"city": "Gainesville",
+		"state": "FL",
+		"zip": "32614"
+	},
+	{
+		"value": "Capital Area Realtors FCU",
+		"street": "107 W Edmonston Dr",
+		"city": "Rockville",
+		"state": "MD",
+		"zip": "20852"
+	},
+	{
+		"value": "Capital One N.A.",
+		"street": "PO BX 660070",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95866"
+	},
+	{
+		"value": "Capstar",
+		"street": "201 45th Ave N Suite #950",
+		"city": "Nashville",
+		"state": "TN",
+		"zip": "37219"
+	},
+	{
+		"value": "Carrolton Bank",
+		"street": "7911 Forsyth Blvd",
+		"city": "Clayton",
+		"state": "MO",
+		"zip": "63105"
+	},
+	{
+		"value": "Castparts Employees Federal Credit Union",
+		"street": "8120 SE Luther Rd",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97206"
+	},
+	{
+		"value": "CBS Credit Union",
+		"street": "12001 Ventura Place #204",
+		"city": "Studio city",
+		"state": "CA",
+		"zip": "91604"
+	},
+	{
+		"value": "Central Bank",
+		"street": "6640 Shady Oak Rd",
+		"city": "Eden Prairie",
+		"state": "MN",
+		"zip": "55344"
+	},
+	{
+		"value": "Central Credit Union of Illinois",
+		"street": "1001 Mannheim Rd",
+		"city": "Bellwood",
+		"state": "IL",
+		"zip": "60104"
+	},
+	{
+		"value": "Central One Federal Credit Union",
+		"street": "714 Main St",
+		"city": "Shrewsbury",
+		"state": "MA",
+		"zip": "1545"
+	},
+	{
+		"value": "Central Pacific Bank",
+		"street": "PO Box 3590",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96811"
+	},
+	{
+		"value": "CFCU DBA Spectrum Credit Union",
+		"street": "P.O. Box 2069",
+		"city": "Oakland",
+		"state": "CA",
+		"zip": "94604"
+	},
+	{
+		"value": "Charlotte Metro Credit Union",
+		"street": "718 Central Ave",
+		"city": "Charlotte",
+		"state": "NC",
+		"zip": "28204"
+	},
+	{
+		"value": "Chartway FCU",
+		"street": "160 Newtown Rd",
+		"city": "Virginia Beach",
+		"state": "VA",
+		"zip": "23462"
+	},
+	{
+		"value": "Chemical Bank",
+		"street": "4595 32nd Ave",
+		"city": "Hudsonville",
+		"state": "MI",
+		"zip": "49426"
+	},
+	{
+		"value": "Chevron Federal Credit Union",
+		"street": "PO Box 2069",
+		"city": "Oakland",
+		"state": "CA",
+		"zip": "94604"
+	},
+	{
+		"value": "Sutton Leasing",
+		"street": "3555 East 14 Mile Rd",
+		"city": "Stirling Heights",
+		"state": "MI",
+		"zip": "48310"
+	},
+	{
+		"value": "TD Canada Trust",
+		"street": "381 King Street West",
+		"city": "Kitchener",
+		"state": "ON",
+		"zip": "N2G 1B8"
+	},
+	{
+		"value": "Teacher's Federal Credit Union",
+		"street": "P.O Box 924182",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76124"
+	},
+	{
+		"value": "Technology Credit Union",
+		"street": "P.O Box 1409",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95109"
+	},
+	{
+		"value": "TEG Federal Credit Union",
+		"street": "1 Commerce St",
+		"city": "Poughkeepsie",
+		"state": "NY",
+		"zip": "12603"
+	},
+	{
+		"value": "Telhio Credit Union",
+		"street": "96 North 4th St",
+		"city": "Columbus",
+		"state": "OH",
+		"zip": "43215"
+	},
+	{
+		"value": "Texans Credit Union",
+		"street": "777 E Campbell Rd",
+		"city": "Richardson",
+		"state": "TX",
+		"zip": "75081"
+	},
+	{
+		"value": "Texas Capital Bank",
+		"street": "2350 Lakeside Blvd",
+		"city": "Richardson",
+		"state": "TX",
+		"zip": "75082"
+	},
+	{
+		"value": "Texas Dow Employees Credit Union",
+		"street": "1001 FM 2004",
+		"city": "Lake Jackson",
+		"state": "TX",
+		"zip": "77566-4012"
+	},
+	{
+		"value": "Texas Star Bank",
+		"street": "P.O Box 608",
+		"city": " 177 E Jefferson",
+		"state": "Van Alstyne",
+		"zip": "TX"
+	},
+	{
+		"value": "Texell Credit Union",
+		"street": "P.O Box 983",
+		"city": "Temple",
+		"state": "TX",
+		"zip": "765030"
+	},
+	{
+		"value": "The Coca-Cola Company Family Federal Credit Union",
+		"street": "P.O Box 22047",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "The Huntington National Bank",
+		"street": "41 S High Street HC0220",
+		"city": "Columbus",
+		"state": "OH",
+		"zip": "43287"
+	},
+	{
+		"value": "The National Bank of Central Texas",
+		"street": "P. O Box 779",
+		"city": "Gatesville",
+		"state": "TX",
+		"zip": "76528"
+	},
+	{
+		"value": "The Private Bank at Bank of Albuquerque",
+		"street": "6565 America's Parkway Two Park Square",
+		"city": "Albuquerque",
+		"state": "NM",
+		"zip": "87110"
+	},
+	{
+		"value": "The University of Michigan Credit Union",
+		"street": "P.O Box 7850",
+		"city": "Ann Arbor",
+		"state": "MI",
+		"zip": "48107"
+	},
+	{
+		"value": "Think Mutual Bank",
+		"street": "P.O Box 7194",
+		"city": "Rochester",
+		"state": "MN",
+		"zip": "55903"
+	},
+	{
+		"value": "Tinker Federal Credit Union",
+		"street": "P. O Box 45750",
+		"city": "Tinker AFB",
+		"state": "OK",
+		"zip": "73145"
+	},
+	{
+		"value": "Tolleson Private Bank",
+		"street": "5550 Preston Road",
+		"city": " Sutie B",
+		"state": "",
+		"zip": ""
+	},
+	{
+		"value": "Torrance Community Credit Union",
+		"street": "2377 Crenshaw Blvd Ste 150",
+		"city": "Torrance",
+		"state": "CA",
+		"zip": "90501"
+	},
+	{
+		"value": "Tower Federal Credit Union",
+		"street": "7901 Sandy Spring Rd",
+		"city": "Laurel",
+		"state": "MD",
+		"zip": "20707"
+	},
+	{
+		"value": "Transportation Federal Credit Union",
+		"street": "1600 Cameron Street",
+		"city": "Alexandria",
+		"state": "VA",
+		"zip": "22314"
+	},
+	{
+		"value": "Triangle Credit Union",
+		"street": "33 Franklin St",
+		"city": "Nashua",
+		"state": "NH",
+		"zip": "3064"
+	},
+	{
+		"value": "Tri-Cities Community Federal Credit Union",
+		"street": "2626 W Kennewick Ave",
+		"city": "Kennewich",
+		"state": "WA",
+		"zip": "99336"
+	},
+	{
+		"value": "Tropical Financial Credit Union",
+		"street": "P.O Box 829517",
+		"city": "Pembroke Pines",
+		"state": "FL",
+		"zip": "33082-9917"
+	},
+	{
+		"value": "Truckers Bank Plan",
+		"street": "P.O Box 783",
+		"city": "South Bend",
+		"state": "IN",
+		"zip": "44624"
+	},
+	{
+		"value": "Truliant Federal Credit Union",
+		"street": "P.O. Box 26000",
+		"city": "Winston-Salem",
+		"state": "NC",
+		"zip": "27114-6000"
+	},
+	{
+		"value": "Trumark Financial",
+		"street": "1000 Northbrook Dr",
+		"city": "Trevose",
+		"state": "PA",
+		"zip": "19053"
+	},
+	{
+		"value": "Trustmark Bank",
+		"street": "945 Bunker Hill Rd Suite 200",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77024"
+	},
+	{
+		"value": "Truwest Credit Union",
+		"street": "1667 N Priest Dr",
+		"city": "Tempe",
+		"state": "AZ",
+		"zip": "85281"
+	},
+	{
+		"value": "Tustin Community Bank",
+		"street": "13891 Newport Ave",
+		"city": "Tustin",
+		"state": "CA",
+		"zip": "92780"
+	},
+	{
+		"value": "Tyndall Federal Credit Union",
+		"street": "PO Box 59760",
+		"city": "Panama city",
+		"state": "FL",
+		"zip": "32405"
+	},
+	{
+		"value": "U of I Employees Credit Union",
+		"street": "PO Box 500 Champaign",
+		"city": "Chicago",
+		"state": "IL",
+		"zip": "61824"
+	},
+	{
+		"value": "U.S. Senate Federal Credit Union",
+		"street": "2111 Eisenhower Ave",
+		"city": "Alexandria",
+		"state": "VA",
+		"zip": "22314"
+	},
+	{
+		"value": "UBI Federal Credit Union",
+		"street": "120 Woodford Ave",
+		"city": "Plainville",
+		"state": "CT",
+		"zip": "6062"
+	},
+	{
+		"value": "UBS",
+		"street": "Elias Canetti-Strasse 2",
+		"city": " DINO CV3P",
+		"state": "",
+		"zip": "Postfach"
+	},
+	{
+		"value": "UMB Bank",
+		"street": "Mail Stop #1170207",
+		"city": "Kansas city",
+		"state": "MO",
+		"zip": "64106"
+	},
+	{
+		"value": "Umpqua Bank",
+		"street": "PO Box 1580",
+		"city": "Roseburg",
+		"state": "OR",
+		"zip": "97470"
+	},
+	{
+		"value": "Uncle CU",
+		"street": "2100 Las Positas CT",
+		"city": "Livermore",
+		"state": "CA",
+		"zip": "94551"
+	},
+	{
+		"value": "Union First Market Bank",
+		"street": "9665 Sliding Hill Rd",
+		"city": "Ashland",
+		"state": "VA",
+		"zip": "23005"
+	},
+	{
+		"value": "Union Leasing Trust",
+		"street": "425 N. Martingale Road Suite #1250",
+		"city": "Schaumburg",
+		"state": "IL",
+		"zip": "60173"
+	},
+	{
+		"value": "Union Savings Bank",
+		"street": " First Lienholder",
+		"city": "225 Main St",
+		"state": "Danbury",
+		"zip": "CT"
+	},
+	{
+		"value": "UNITED HERITAGE CREDIT UNION",
+		"street": "PO Box 1648",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78767"
+	},
+	{
+		"value": "United Investors FCU",
+		"street": "16 W Elizabeth Ave",
+		"city": "Linden",
+		"state": "NJ",
+		"zip": "7036"
+	},
+	{
+		"value": "United states Senate Federal Credit Union",
+		"street": "GAO Branch",
+		"city": "Washington",
+		"state": "CD",
+		"zip": "20548"
+	},
+	{
+		"value": "United Teletech Financial Federal Credit Union",
+		"street": "205 Hance Ave",
+		"city": "Tinton Falls",
+		"state": "NJ",
+		"zip": "7724"
+	},
+	{
+		"value": "Unitus Community Credit Union",
+		"street": "PO Box 1937",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97207"
+	},
+	{
+		"value": "Unity One Federal Credit Union",
+		"street": "6701 Burlington Blvd",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76131"
+	},
+	{
+		"value": "Universal city Studios Credit Union (UCSCU)",
+		"street": "100 universal city Plaza Bldg 1320",
+		"city": "Universal city",
+		"state": "CA",
+		"zip": "91608"
+	},
+	{
+		"value": "University Credit Union",
+		"street": "1500 S. Sepulveda Blvd",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90025"
+	},
+	{
+		"value": "Mountain America Credit Union",
+		"street": "735 S state ST 3rd fl",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84111"
+	},
+	{
+		"value": "EECU",
+		"street": "P.O. Box 5242",
+		"city": "Fresno",
+		"state": "CA",
+		"zip": "93755"
+	},
+	{
+		"value": "Police and Fire Federal Credit Union",
+		"street": "901 Arch Street",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19107"
+	},
+	{
+		"value": "Port of Seattle Credit Union",
+		"street": "17801 International Blvd",
+		"city": "Seattle",
+		"state": "Wa",
+		"zip": "98158"
+	},
+	{
+		"value": "Porter federal credit union",
+		"street": "850 East Harvard Ave Suite G 45",
+		"city": "Denver",
+		"state": "CO",
+		"zip": "80210"
+	},
+	{
+		"value": "Premier America Credit Union",
+		"street": "P.O Box 2178",
+		"city": "Chatsworth",
+		"state": "CA",
+		"zip": "91311"
+	},
+	{
+		"value": "Premier Community Credit Union",
+		"street": "P.O. Box 8929",
+		"city": "Stockton",
+		"state": "CA",
+		"zip": "95208-0929"
+	},
+	{
+		"value": "PREMIER AMERICA CREDIT UNION",
+		"street": "19867 PRAIRIE ST",
+		"city": "CHATSWORTH",
+		"state": "CA",
+		"zip": "91311"
+	},
+	{
+		"value": "Premier Members FCU",
+		"street": "5495 Arapahoe Ave",
+		"city": "Boulder",
+		"state": "CO",
+		"zip": "803303"
+	},
+	{
+		"value": "PremierOne Credit Union",
+		"street": "140 Asbury St",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95110"
+	},
+	{
+		"value": "PrimeWay Federal Credit Union",
+		"street": "9597 Jones Road # 324",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77065"
+	},
+	{
+		"value": "Prince Georges County Federal Credit Union",
+		"street": "15201 Hall Road",
+		"city": "Bowie",
+		"state": "MD",
+		"zip": "20721"
+	},
+	{
+		"value": "Prior Lake state Bank",
+		"street": "16677 Duluth Ave SE",
+		"city": "Prior Lake",
+		"state": "MN",
+		"zip": "55372"
+	},
+	{
+		"value": "Prosperity Bank",
+		"street": "3945 Little York Road",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77093"
+	},
+	{
+		"value": "Prosperity Bank of Texas",
+		"street": "14060 Southwest Freeway",
+		"city": "Sugar Land",
+		"state": "TX",
+		"zip": "77478"
+	},
+	{
+		"value": "Provident Credit Union",
+		"street": "P.O. Box 8007",
+		"city": "Redwood city",
+		"state": "CA",
+		"zip": "94063"
+	},
+	{
+		"value": "Justice Federal Credit Union",
+		"street": "5175 Parkstone Drive",
+		"city": " Suite 200",
+		"state": "Chantilly",
+		"zip": "VA"
+	},
+	{
+		"value": "Kaiser Credit Union",
+		"street": "173 Plaza Drive Suite 1001",
+		"city": "Vallejo",
+		"state": "CA",
+		"zip": "94591"
+	},
+	{
+		"value": "Kern Schools Federal Credit Union",
+		"street": "P.O. Box 9506",
+		"city": "Bakersfield",
+		"state": "CA",
+		"zip": "93389-9506"
+	},
+	{
+		"value": "Key Bank N.A.",
+		"street": "P.O. Box 16430",
+		"city": "Boise",
+		"state": "ID",
+		"zip": "83715-6430"
+	},
+	{
+		"value": "Key Corp",
+		"street": "4910 Tiederman Rd",
+		"city": "Brooklyn",
+		"state": "OH",
+		"zip": "44144"
+	},
+	{
+		"value": "Keypoint Credit Union",
+		"street": "P.O. Box 2698",
+		"city": "Santa Clara",
+		"state": "CA",
+		"zip": "95055"
+	},
+	{
+		"value": "Kinecta Federal Credit Union",
+		"street": "1440 Rosecrans Ave",
+		"city": "Manhattan Beach",
+		"state": "CA",
+		"zip": "90266"
+	},
+	{
+		"value": "Kirtland Federal CU",
+		"street": "P.O. Box 80570",
+		"city": "Albuquerque",
+		"state": "NM",
+		"zip": "87198"
+	},
+	{
+		"value": "Kitsap Credit Union",
+		"street": "P.O. Box 990",
+		"city": "Bremerton",
+		"state": "WA",
+		"zip": "98337"
+	},
+	{
+		"value": "Public Employees Credit Union",
+		"street": "P.O. Box 2205",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78768"
+	},
+	{
+		"value": "Public Service Credit Union",
+		"street": "7055 East Evans",
+		"city": "Denver",
+		"state": "CO",
+		"zip": "80224"
+	},
+	{
+		"value": "Pulaski Bank",
+		"street": "12300 Olive Blvd",
+		"city": "St. Louis",
+		"state": "MO",
+		"zip": "63141"
+	},
+	{
+		"value": "Qualstar Credit Union",
+		"street": "P.O. Box 96730",
+		"city": "Bellevue",
+		"state": "WA",
+		"zip": "98009"
+	},
+	{
+		"value": "Qualtrust Credit Union",
+		"street": "P.O. Box 165448",
+		"city": "Irving",
+		"state": "TX",
+		"zip": "75016-5448"
+	},
+	{
+		"value": "Quincy Credit Union",
+		"street": "100 Quincy Ave",
+		"city": "Quincy",
+		"state": "MA",
+		"zip": "2169"
+	},
+	{
+		"value": "Randolph Brooks Federal Credit Union",
+		"street": "P.O. Box 2097",
+		"city": "Universal city",
+		"state": "TX",
+		"zip": "78148"
+	},
+	{
+		"value": "RCB Bank of Nichols Hills",
+		"street": "7400 North Western",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73116"
+	},
+	{
+		"value": "Red Canoe Credit Union",
+		"street": "P.O. box 3020",
+		"city": " 1418 15th Ave",
+		"state": "Longview",
+		"zip": "WA"
+	},
+	{
+		"value": "Redstone Federal Credit Union",
+		"street": "220 Wynn Dr",
+		"city": "Huntsville",
+		"state": "AL",
+		"zip": "35893"
+	},
+	{
+		"value": "Redwood Credit Union",
+		"street": "1129 A South Cloverdale Blvd",
+		"city": "Cloverdale",
+		"state": "CA",
+		"zip": "95425"
+	},
+	{
+		"value": "Regions Bank",
+		"street": "P.O. Box 276357",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "Resource One Credit Union",
+		"street": "P.O. Box 660077",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75266-0077"
+	},
+	{
+		"value": "Rhode Island Credit Union",
+		"street": "160 Francis St",
+		"city": "Providence",
+		"state": "RI",
+		"zip": "2903"
+	},
+	{
+		"value": "Rio Bank",
+		"street": "P.O. box 4169",
+		"city": "McAllen",
+		"state": "TX",
+		"zip": "78502"
+	},
+	{
+		"value": "Rockland Federal Credit Union",
+		"street": "241 Union St",
+		"city": "Rockland",
+		"state": "MA",
+		"zip": "2370"
+	},
+	{
+		"value": "Royal Bank of Canada",
+		"street": "155 Wellington Street West",
+		"city": " BSC 3rd Floor",
+		"state": "Toronto",
+		"zip": "ON"
+	},
+	{
+		"value": "S&T Bank",
+		"street": "P.O. Box 1907",
+		"city": "Indiana",
+		"state": "PA",
+		"zip": "15701"
+	},
+	{
+		"value": "Sacramento Credit Union",
+		"street": "P.O. Box 2351",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95812"
+	},
+	{
+		"value": "Safe America Credit Union",
+		"street": "P.O. Box 11269",
+		"city": "Pleasanton",
+		"state": "CA",
+		"zip": "94588"
+	},
+	{
+		"value": "Salal Credit Union",
+		"street": "P.O. Box 19340",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98109"
+	},
+	{
+		"value": "San Antonio Citizens Federal Credit Union",
+		"street": "12542 Curley Street",
+		"city": "San Antonio",
+		"state": "FL",
+		"zip": "33576"
+	},
+	{
+		"value": "San Antonio Credit Union",
+		"street": "P.O. Box 1356",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78295-1356"
+	},
+	{
+		"value": "San Diego County Credit Union",
+		"street": "6545 Sequence Dr",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92121"
+	},
+	{
+		"value": "San DiegoFederal Fire Fighters Credit Union",
+		"street": "4926 La Cuenta Dr",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92124"
+	},
+	{
+		"value": "San Francisco Federal Credit Union",
+		"street": "770 Golden Gate Ave",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94102"
+	},
+	{
+		"value": "SAN FRANCISCO FIRE CR UN",
+		"street": "3201 California St",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94118"
+	},
+	{
+		"value": "San Francisco Police CU",
+		"street": "2550 Irving St",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94122"
+	},
+	{
+		"value": "San Mateo Credit Union",
+		"street": "P.O. Box 910",
+		"city": "Redwood city",
+		"state": "CA",
+		"zip": "94064"
+	},
+	{
+		"value": "Sandia Area Federal Credit Union",
+		"street": "P.O. Box 18044",
+		"city": "Albuquerque",
+		"state": "NM",
+		"zip": "87185"
+	},
+	{
+		"value": "Sandia Laboratory Federal Credit Union",
+		"street": "P.O. Box 23040",
+		"city": "Albuquerque",
+		"state": "NM",
+		"zip": "87192-1040"
+	},
+	{
+		"value": "Santa Clara County Federal Credit Union",
+		"street": "852 North 1st St",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95112"
+	},
+	{
+		"value": "SCBT",
+		"street": "P.O. Box 100113",
+		"city": "Columbia",
+		"state": "SC",
+		"zip": "29202-3113"
+	},
+	{
+		"value": "SCE FCU",
+		"street": "PO Box 8017",
+		"city": "El Monte",
+		"state": "CA",
+		"zip": "91734"
+	},
+	{
+		"value": "SCHLUMBERGER E C U",
+		"street": "225 Schlumberger Dr",
+		"city": "Sugar Land",
+		"state": "TX",
+		"zip": "77478"
+	},
+	{
+		"value": "School Employees Credit Union of Washington",
+		"street": "P.O. Box 576",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98111"
+	},
+	{
+		"value": "Firefighters First CU",
+		"street": "PO BOX 60890",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90060"
+	},
+	{
+		"value": "Glenview Credit Union",
+		"street": "1631 N Waukegan Rd",
+		"city": "Glenview",
+		"state": "IL",
+		"zip": "60025"
+	},
+	{
+		"value": "GNC Federal Credit Union",
+		"street": "201 South Jefferson St",
+		"city": "New Castle",
+		"state": "PA",
+		"zip": "16101"
+	},
+	{
+		"value": "Go Federal Credit Union",
+		"street": "5429 LBJ Freeway Suite 100",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75240"
+	},
+	{
+		"value": "Golden 1 Credit Union",
+		"street": "P.O. Box 15966",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95852"
+	},
+	{
+		"value": "GP Community FCU",
+		"street": "154 The Ninety Road",
+		"city": "Morrisonville",
+		"state": "NY",
+		"zip": "12962"
+	},
+	{
+		"value": "Grand Bank of Texas",
+		"street": "P.O. Box 1100",
+		"city": "Marble Falls",
+		"state": "TX",
+		"zip": "78654"
+	},
+	{
+		"value": "Great Basin Credit Union",
+		"street": "9770 South Virgina St",
+		"city": "Reno",
+		"state": "NV",
+		"zip": "89511"
+	},
+	{
+		"value": "Great Lakes Credit Union",
+		"street": "2525 Green Bay Road",
+		"city": "North Chicago",
+		"state": "IL",
+		"zip": "60064"
+	},
+	{
+		"value": "Greater Nevada Credit Union",
+		"street": "P.O Box 3239",
+		"city": "Carson city",
+		"state": "NV",
+		"zip": "89702"
+	},
+	{
+		"value": "Greater Texas Federal Credit Union",
+		"street": "6411 North Lamar Blvd",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78752"
+	},
+	{
+		"value": "Grow Financial Federal Credit Union",
+		"street": "P.O. Box 89909",
+		"city": "Tampa",
+		"state": "FL",
+		"zip": "33689-0415"
+	},
+	{
+		"value": "Hanscom Federal Credit Union",
+		"street": "1610 Eglin St",
+		"city": "Hanscom AFB",
+		"state": "MA",
+		"zip": "1731"
+	},
+	{
+		"value": "Harbor Federal Credit Union",
+		"street": "P.O. Box 5159",
+		"city": "Toramce",
+		"state": "CA",
+		"zip": "90510"
+	},
+	{
+		"value": "Hastings city Bank",
+		"street": "150 West Court St",
+		"city": "Hastings",
+		"state": "MI",
+		"zip": "49058"
+	},
+	{
+		"value": "HawaiiUSA Federal Credit Union",
+		"street": "1226 College Walk",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96817"
+	},
+	{
+		"value": "Health Associates Federal Credit Union",
+		"street": "530 S Main St Suite 100",
+		"city": "Orange",
+		"state": "CA",
+		"zip": "92868"
+	},
+	{
+		"value": "Healthcare Employees Credit Union",
+		"street": "29 Emmons Drive Suite C40",
+		"city": "Princeton",
+		"state": "NJ",
+		"zip": "8540"
+	},
+	{
+		"value": "Heinz-DelMonte Federal Credit Union",
+		"street": "P.O. Box 57",
+		"city": "Pittsburg",
+		"state": "PA",
+		"zip": "15230"
+	},
+	{
+		"value": "Heritage Bank Commerce",
+		"street": "150 Almaden Blvd",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95113"
+	},
+	{
+		"value": "Heritage Community Credit Union",
+		"street": "P.O. Box 790",
+		"city": "Rancho Cordova",
+		"state": "CA",
+		"zip": "95741-0790"
+	},
+	{
+		"value": "Hickam Federal Credit Union",
+		"street": "P.O. Box 30025",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96820-0025"
+	},
+	{
+		"value": "HMSA Employee's Federal Credit Union",
+		"street": "P.O. Box 860",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96808"
+	},
+	{
+		"value": "Honolulu Federal Credit Union",
+		"street": "P.O. Box 2428",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96804"
+	},
+	{
+		"value": "Horizon Bank",
+		"street": "600 Congress Ave Suite G-260",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78701"
+	},
+	{
+		"value": "Houston Federal Credit Union",
+		"street": "1632 Kensington Dr",
+		"city": "Sugar Land",
+		"state": "TX",
+		"zip": "77479"
+	},
+	{
+		"value": "Hughes Federal Credit Union",
+		"street": "P.O. Box 11900",
+		"city": "Tucson",
+		"state": "AZ",
+		"zip": "85734"
+	},
+	{
+		"value": "IAA Credit Union",
+		"street": "P.O. Box 2901",
+		"city": "Bloomington",
+		"state": "IL",
+		"zip": "61702-2901"
+	},
+	{
+		"value": "Iberia Bank",
+		"street": "P.O. Box 12440",
+		"city": "New Iberia",
+		"state": "LA",
+		"zip": "70562"
+	},
+	{
+		"value": "IBEW United Workers Federal Credit Union",
+		"street": "P.O Box 16877",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97292"
+	},
+	{
+		"value": "IBM Southeast EFCU",
+		"street": "P.O. box 5090",
+		"city": "Boca Raton",
+		"state": "FL",
+		"zip": "33431"
+	},
+	{
+		"value": "Icon",
+		"street": "1010 N. Whitewater Park Blvd",
+		"city": "Boise",
+		"state": "UT",
+		"zip": "83703"
+	},
+	{
+		"value": "Idaho Central Credit Union",
+		"street": "P.O. Box 2469",
+		"city": "Pocatello",
+		"state": "ID",
+		"zip": "83206"
+	},
+	{
+		"value": "Indiana Members Credit Union",
+		"street": "5103 S Madison Ave",
+		"city": "Indianapolis",
+		"state": "IN",
+		"zip": "46227"
+	},
+	{
+		"value": "Industrial Bank",
+		"street": "1900 John Hanson Lane",
+		"city": "Oxon Hill",
+		"state": "MD",
+		"zip": "20745"
+	},
+	{
+		"value": "Infinity Federal Credit Union",
+		"street": "202 Larrabee Road",
+		"city": "Westbrook",
+		"state": "ME",
+		"zip": "4092"
+	},
+	{
+		"value": "Inter-Guild Credit Union",
+		"street": "817 North Vine St",
+		"city": "Hollywood",
+		"state": "CA",
+		"zip": "90038"
+	},
+	{
+		"value": "International Bank of Commerce",
+		"street": "130 East Travis",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78205"
+	},
+	{
+		"value": "InTouch Credit Union",
+		"street": "PO Box 250169",
+		"city": "Plano",
+		"state": "TX",
+		"zip": "75025"
+	},
+	{
+		"value": "Jimmy Fung",
+		"street": "12018 Terraza Cove Ln",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77041"
+	},
+	{
+		"value": "JPMorgan Chase Bank NA (JP Morgan Chase Bank",
+		"street": " N.A.)",
+		"city": "PO Box 901033",
+		"state": "Fort Worth",
+		"zip": "TX"
+	},
+	{
+		"value": "JSC Federal Credit Union",
+		"street": "P.O. Box 58346",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77258"
+	},
+	{
+		"value": "CIBC",
+		"street": "",
+		"city": "",
+		"state": "",
+		"zip": ""
+	},
+	{
+		"value": "Citadel",
+		"street": "520 Eagleview Blvd",
+		"city": "Exton",
+		"state": "PA",
+		"zip": "19341"
+	},
+	{
+		"value": "Citizens Bank",
+		"street": "PO Box 7",
+		"city": "Frostproof",
+		"state": "FL",
+		"zip": "33843"
+	},
+	{
+		"value": "Citizens Equity First Credit Union (CEFCU)",
+		"street": "PO Box 1715",
+		"city": "Peoria",
+		"state": "IL",
+		"zip": "61656"
+	},
+	{
+		"value": "city County Credit Union of Fort Lauderdale",
+		"street": "1982 N state Rd 7",
+		"city": "Margate",
+		"state": "FL",
+		"zip": "33063"
+	},
+	{
+		"value": "city National Bank",
+		"street": "15260 Ventura Blvd",
+		"city": " Suite 1600",
+		"state": "Sherman Oaks",
+		"zip": "CA"
+	},
+	{
+		"value": "Clackamas Federal Credit Union",
+		"street": "PO Box 2020",
+		"city": "Oregon",
+		"state": "OR",
+		"zip": "97045"
+	},
+	{
+		"value": "Clark County Credit Union",
+		"street": "PO Box 36490",
+		"city": "Las Vegas",
+		"state": "NV",
+		"zip": "89133"
+	},
+	{
+		"value": "CNLBank",
+		"street": "P.O. Box 4971",
+		"city": "Orlando",
+		"state": "FL",
+		"zip": "32802"
+	},
+	{
+		"value": "Coastal Federal Credit Union",
+		"street": "PO Box 690010",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78269"
+	},
+	{
+		"value": "Coasthills FCU",
+		"street": "PO Box 200",
+		"city": "Lompoc",
+		"state": "CA",
+		"zip": "94348"
+	},
+	{
+		"value": "Coca-Cola Company Family Federal Credit Union",
+		"street": "PO Box 22047",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "Colorado Credit Union",
+		"street": "PO Box 270010",
+		"city": "Littleton",
+		"state": "CO",
+		"zip": "80127"
+	},
+	{
+		"value": "Comerica Bank",
+		"street": "4751 Wilshire Blvd Suite 120",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90010"
+	},
+	{
+		"value": "Commerce Bank",
+		"street": "PO Box 326",
+		"city": "Pittsburg",
+		"state": "KS",
+		"zip": "66762"
+	},
+	{
+		"value": "Commonwealth Central Credit Union",
+		"street": "PO Box 641690",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95164"
+	},
+	{
+		"value": "Commonwealth One Federal Credit Union",
+		"street": "4875 Eisenhower Ave",
+		"city": "Alexandira",
+		"state": "VA",
+		"zip": "22304"
+	},
+	{
+		"value": "Community America Credit Union",
+		"street": "PO Box 15950",
+		"city": "Lenexa",
+		"state": "MO",
+		"zip": "66285"
+	},
+	{
+		"value": "Community Bank",
+		"street": "5550 Topanga Canyon Blvd",
+		"city": " Suite 100",
+		"state": "Woodland Hills",
+		"zip": "CA"
+	},
+	{
+		"value": "Community Trust Credit Union",
+		"street": "1313 Skokie Hwy",
+		"city": "Gurnee",
+		"state": "IL",
+		"zip": "60031"
+	},
+	{
+		"value": "Congressional Federal Credit Union",
+		"street": "P.O. Box 23267",
+		"city": "Washington",
+		"state": "DC",
+		"zip": "20026-3267"
+	},
+	{
+		"value": "Consumers Credit Union",
+		"street": "P.O. Box 9119",
+		"city": "Waukegan",
+		"state": "IL",
+		"zip": "60079-9119"
+	},
+	{
+		"value": "CorePlus Federal Credit Union",
+		"street": "16 South Main Street",
+		"city": "Putnam",
+		"state": "CT",
+		"zip": "6260"
+	},
+	{
+		"value": "Cornerstone Financial Credit Union",
+		"street": "P.O Box 120729",
+		"city": "Nashville",
+		"state": "TN",
+		"zip": "37212"
+	},
+	{
+		"value": "CPM Federal Credit Union",
+		"street": "1066 E. Montague Ave",
+		"city": "N Charleston",
+		"state": "SC",
+		"zip": "29405"
+	},
+	{
+		"value": "Credit Union 1",
+		"street": "1941 Abbott Rd",
+		"city": "Anchorage",
+		"state": "AK",
+		"zip": "99507"
+	},
+	{
+		"value": "Credit Union of America",
+		"street": "P.O. Box 660493",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75266-0493"
+	},
+	{
+		"value": "Credit Union of Colorado",
+		"street": "1390 Logan St",
+		"city": "Denver",
+		"state": "CO",
+		"zip": "80203"
+	},
+	{
+		"value": "Credit Union of Denver",
+		"street": "1075 Acuma Street",
+		"city": "Denver",
+		"state": "CO",
+		"zip": "80204"
+	},
+	{
+		"value": "Credit Union of Georgia",
+		"street": "P.O Box 2148",
+		"city": "Woodstock",
+		"state": "GA",
+		"zip": "30188"
+	},
+	{
+		"value": "Credit Union of Southern California",
+		"street": "8028 Greenleaf Ave",
+		"city": "Whittier",
+		"state": "CA",
+		"zip": "90602"
+	},
+	{
+		"value": "Dade County Federal Credit Union",
+		"street": "1500 NW 107 Ave",
+		"city": "Miami",
+		"state": "FL",
+		"zip": "33523"
+	},
+	{
+		"value": "Delta Community Credit Union",
+		"street": "1025 Virginia Ave",
+		"city": "Atlanta",
+		"state": "GA",
+		"zip": "30354"
+	},
+	{
+		"value": "DEPARTMENT FEDERAL CREDIT UNION",
+		"street": "1101 2nd St NE",
+		"city": "Washington",
+		"state": "DC",
+		"zip": "20002"
+	},
+	{
+		"value": "Desert Schools Federal Credit Union",
+		"street": "P.O. box 2945",
+		"city": "Phoenix",
+		"state": "AZ",
+		"zip": "85062"
+	},
+	{
+		"value": "DFCU Financial (Dearborn Federal)",
+		"street": "P.O. Box 660250",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95866"
+	},
+	{
+		"value": "Digital Federal Credit Union",
+		"street": "PO Box 25166",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002-5166"
+	},
+	{
+		"value": "Discount Credit Union",
+		"street": "P.O. Box 9130",
+		"city": "Malborough",
+		"state": "MA",
+		"zip": "1752"
+	},
+	{
+		"value": "Downey Federal Credit Union",
+		"street": "8237 Third Street P.O. Box 4639",
+		"city": "Downey",
+		"state": "CA",
+		"zip": "90241-1639"
+	},
+	{
+		"value": "DuPage Credit Union",
+		"street": "P.O. Box 3930",
+		"city": "Naperville",
+		"state": "IL",
+		"zip": "60567"
+	},
+	{
+		"value": "Eclipse Bank",
+		"street": "3827 Shelbyville Rd",
+		"city": "Louisville",
+		"state": "KY",
+		"zip": "40207"
+	},
+	{
+		"value": "Educational Employees Credit Union",
+		"street": "P.O Box 1777",
+		"city": "Fortworth",
+		"state": "TX",
+		"zip": "76101"
+	},
+	{
+		"value": "Elevations Credit Union",
+		"street": "P.O Box 9004",
+		"city": "Boulder",
+		"state": "CO",
+		"zip": "80301"
+	},
+	{
+		"value": "Eli Lilly Federal Credit Union",
+		"street": "225 South East St Suite 300",
+		"city": "Indianapolis",
+		"state": "IN",
+		"zip": "46202"
+	},
+	{
+		"value": "Endura Financial Federal Credit Union",
+		"street": "820 N Lilac Drive",
+		"city": "Minneapolis",
+		"state": "MN",
+		"zip": "55422"
+	},
+	{
+		"value": "Energy Plus Credit Union",
+		"street": "1230 West Morris St",
+		"city": "Indianapolis",
+		"state": "IN",
+		"zip": "46221"
+	},
+	{
+		"value": "Ent Federal Credit Union",
+		"street": "7250 Campus Drive",
+		"city": "Colorado Springs",
+		"state": "CO",
+		"zip": "80920"
+	},
+	{
+		"value": "Enterprise Bank",
+		"street": "818 West 7th St Suite 220",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90017"
+	},
+	{
+		"value": "F&A Federal Credit Union (F/A FCU)",
+		"street": "PO BX 30831",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90030"
+	},
+	{
+		"value": "Fairfax County Federal Credit Union",
+		"street": "4201 Members Way",
+		"city": "Fairfax",
+		"state": "VA",
+		"zip": "22030"
+	},
+	{
+		"value": "University Federal Credit Union",
+		"street": "PO Box 9350",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78766"
+	},
+	{
+		"value": "University of Hawaii FCU",
+		"street": "PO Box 22070",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96823"
+	},
+	{
+		"value": "University of Iowa Community Credit Union",
+		"street": "500 Iowa Ave",
+		"city": "Iowa city",
+		"state": "IA",
+		"zip": "52240"
+	},
+	{
+		"value": "University of Michigan Credit Union",
+		"street": "PO Box 7850",
+		"city": "Ann Arbor",
+		"state": "MI",
+		"zip": "48107"
+	},
+	{
+		"value": "University of Southern California Credit Union",
+		"street": "Campus Center Brank (University Park Campus) 3601 Trousdale Pkwy",
+		"city": " Stu 106",
+		"state": "Los Angeles",
+		"zip": "CA"
+	},
+	{
+		"value": "University of Toledo Federal Credit Union",
+		"street": "5248 Hill Ave",
+		"city": "Toledo",
+		"state": "OH",
+		"zip": "73615-5868"
+	},
+	{
+		"value": "University Of Utah Federal Credit Union",
+		"street": "505 Wakara Way",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84108"
+	},
+	{
+		"value": "US Bank Equipment Finance",
+		"street": "1310 Madrid St",
+		"city": "Marshall",
+		"state": "MN",
+		"zip": "56258"
+	},
+	{
+		"value": "[No longer in use] US Bank Private Financial Services",
+		"street": "555 SW Oak St",
+		"city": " Suite 400",
+		"state": "Portland",
+		"zip": "OR"
+	},
+	{
+		"value": "US Federal Credit Union",
+		"street": "1400 Riverwood DR",
+		"city": "Burnsville",
+		"state": "MN",
+		"zip": "55337"
+	},
+	{
+		"value": "USAA Federal Savings Bank",
+		"street": "PO Box 25145",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002-5145"
+	},
+	{
+		"value": "USALLIANCE FEDERAL CREDIT UNION",
+		"street": "411 Theodore Fremd Avenue",
+		"city": " Suite 350",
+		"state": "Rye",
+		"zip": "NY"
+	},
+	{
+		"value": "USC Credit Union",
+		"street": "P.O Box 512718",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90051"
+	},
+	{
+		"value": "USE Credit Union",
+		"street": "10120 Pacifica Heights Blvd",
+		"city": " Suite 100",
+		"state": "San Diego",
+		"zip": "CA"
+	},
+	{
+		"value": "USF Federal Credit Union",
+		"street": "13302 USF Palm Dr",
+		"city": "Tampa",
+		"state": "FL",
+		"zip": "33612"
+	},
+	{
+		"value": "Utah Community Credit Union",
+		"street": "105 E. state Rd",
+		"city": "Pleasant Grove",
+		"state": "UT",
+		"zip": "84062"
+	},
+	{
+		"value": "Valley Educators Credit Union",
+		"street": "910 Main St",
+		"city": "Alamosa",
+		"state": "CO",
+		"zip": "81101"
+	},
+	{
+		"value": "Valley Isle Community Federal Credit Union",
+		"street": "160 Pa'ahana St",
+		"city": "Kahului",
+		"state": "HI",
+		"zip": "96732"
+	},
+	{
+		"value": "Valley National",
+		"street": "199 Moonachie Rd",
+		"city": "Moonachi",
+		"state": "NJ",
+		"zip": "7074"
+	},
+	{
+		"value": "Vancity savings credit union",
+		"street": "Unit 150 32555 London Ave",
+		"city": "Mission",
+		"state": "BC",
+		"zip": "V2V-6M7"
+	},
+	{
+		"value": "Vanderbilt University Credit Union",
+		"street": "PO Box 128426",
+		"city": "Nashville",
+		"state": "TN",
+		"zip": "37212"
+	},
+	{
+		"value": "Vantage West Credit Union",
+		"street": "PO Box 15115",
+		"city": "Tucson",
+		"state": "AZ",
+		"zip": "85708"
+	},
+	{
+		"value": "Ventura County Credit Union",
+		"street": "PO Box 6920",
+		"city": "Ventura",
+		"state": "CA",
+		"zip": "93006"
+	},
+	{
+		"value": "Veridian CU",
+		"street": "PO Box 6000",
+		"city": "Waterloo",
+		"state": "IA",
+		"zip": "50704"
+	},
+	{
+		"value": "Veritas Federal Credit Union",
+		"street": "1 Nissan Way",
+		"city": " Nissan Americas Buliding 1-220",
+		"state": "Franklin",
+		"zip": "TN"
+	},
+	{
+		"value": "Verity Credit Union",
+		"street": "11027 Meridian Ave Suite 101",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98133"
+	},
+	{
+		"value": "Virginia Credit Union",
+		"street": "P O Box 90010",
+		"city": "Richmond",
+		"state": "VA",
+		"zip": "23225"
+	},
+	{
+		"value": "Virginia Partners Bank",
+		"street": "PO Box 8029",
+		"city": "Fredericksburg",
+		"state": "VA",
+		"zip": "22404"
+	},
+	{
+		"value": "Visions Federal Credit Union",
+		"street": "24 McKinley Ave",
+		"city": "Endicott",
+		"state": "NY",
+		"zip": "13760"
+	},
+	{
+		"value": "Vystar Credit Union",
+		"street": "4949 Landing Blvd",
+		"city": "Jacksonville",
+		"state": "FL",
+		"zip": "32210"
+	},
+	{
+		"value": "Washington state Employees Credit Union",
+		"street": "P.O Box WSECU",
+		"city": "Olympia",
+		"state": "WA",
+		"zip": "98507"
+	},
+	{
+		"value": "Water and Power Community Credit Union",
+		"street": "P. O Box 25341",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76124"
+	},
+	{
+		"value": "Waukegan Municipal Employees Credit Union",
+		"street": "100 N Martin Luther King Dr",
+		"city": "Waukegan",
+		"state": "IL",
+		"zip": "60085"
+	},
+	{
+		"value": "Wells Fargo Equipment Finance",
+		"street": "733 Marquette Ave",
+		"city": " Ste 700",
+		"state": "Minneapolis",
+		"zip": "MN"
+	},
+	{
+		"value": "WesCom Credit Union",
+		"street": "123 S Marengo Ave",
+		"city": "Pasadena",
+		"state": "CA",
+		"zip": "91101"
+	},
+	{
+		"value": "Unity Federal Credit Union",
+		"street": "PO Box 10018",
+		"city": "Manhattan Beach",
+		"state": "CA",
+		"zip": "90267"
+	},
+	{
+		"value": "Westerra Credit Union",
+		"street": "3700 E. Alameda Ave",
+		"city": "Denver",
+		"state": "CO",
+		"zip": "80209"
+	},
+	{
+		"value": "weststar credit union",
+		"street": "P.O. Box 94138",
+		"city": "Las Vegas",
+		"state": "NV",
+		"zip": "89193"
+	},
+	{
+		"value": "Whatcom Educational Credit Union",
+		"street": "600 East Holly Street",
+		"city": "Bellingham",
+		"state": "WA",
+		"zip": "98225"
+	},
+	{
+		"value": "Whidbey Island Bank",
+		"street": "450 SW Bayshore Drive",
+		"city": "Oak Harbor",
+		"state": "WA",
+		"zip": "98277"
+	},
+	{
+		"value": "WHITE RAVEN LEASING LLC",
+		"street": "450 Sutter Street STE 1315",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94108"
+	},
+	{
+		"value": "Whitney Bank",
+		"street": "1250 Poydras St",
+		"city": "New Orleans",
+		"state": "LA",
+		"zip": "70113"
+	},
+	{
+		"value": "Wings Financial Credit Union",
+		"street": "14985 Glazier Ave Suite 100",
+		"city": "Apple Valley",
+		"state": "MN",
+		"zip": "55124-6539"
+	},
+	{
+		"value": "Woodside Credit LLC",
+		"street": "PO Box 12379",
+		"city": "Newport Beach",
+		"state": "CA",
+		"zip": "92658"
+	},
+	{
+		"value": "Workers Credit Union",
+		"street": "815 Main St",
+		"city": "Fitchburg",
+		"state": "MA",
+		"zip": "1420"
+	},
+	{
+		"value": "Wright-Patt Credit Union",
+		"street": "2455 Executive Park Blvd",
+		"city": "Fairborn",
+		"state": "OH",
+		"zip": "45324"
+	},
+	{
+		"value": "Xceed Financial Credit Union",
+		"street": "888 North Nash St",
+		"city": "El Segundo",
+		"state": "CA",
+		"zip": "90245"
+	},
+	{
+		"value": "Zions Credit Corporation",
+		"street": "PO BOX 3954",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "MemberSource Credit Union",
+		"street": "10100 Richmond Ave",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77042"
+	},
+	{
+		"value": "Mendo Lake Credit Union",
+		"street": "526 S state St",
+		"city": "Ukiah",
+		"state": "CA",
+		"zip": "95482"
+	},
+	{
+		"value": "Merck Sharp & Dohme Federal Credit Union",
+		"street": "335 West Butler Ave",
+		"city": "Chalfotn",
+		"state": "PA",
+		"zip": "18917-2329"
+	},
+	{
+		"value": "Meriwest Credit Union",
+		"street": "5615 Chesboro Ave",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95123"
+	},
+	{
+		"value": "Michigan state University Federal Credit Union",
+		"street": "3777 West Rd",
+		"city": "East Lansing",
+		"state": "MI",
+		"zip": "48823"
+	},
+	{
+		"value": "MidFirst Bank",
+		"street": "501 NW Frand Blvd",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73118"
+	},
+	{
+		"value": "Mission Federal Credit Union",
+		"street": "P.O. Box 919023",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92191"
+	},
+	{
+		"value": "Missouri Bank",
+		"street": "1044 Main St",
+		"city": "Kansas city",
+		"state": "MO",
+		"zip": "64105"
+	},
+	{
+		"value": "Missouri Credit Union",
+		"street": "P.O. Box 1795",
+		"city": "Columbia",
+		"state": "MO",
+		"zip": "65205"
+	},
+	{
+		"value": "MIT Federal Credit Union",
+		"street": "700 Technology Sq",
+		"city": "Cambridge",
+		"state": "MA",
+		"zip": "2139"
+	},
+	{
+		"value": "Monterey Credit Union",
+		"street": "P.O. Box 3288",
+		"city": "Monterey",
+		"state": "CA",
+		"zip": "93942"
+	},
+	{
+		"value": "Morgan Stanley",
+		"street": "P.O. Box 901033",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76101-2033"
+	},
+	{
+		"value": "Mountain Crest Credit Union",
+		"street": "3710 168th St NE Suite A108",
+		"city": "Arlingtron",
+		"state": "WA",
+		"zip": "98223"
+	},
+	{
+		"value": "Mountian America Credit Union",
+		"street": "7181 S. Campus View Dr",
+		"city": "West Jordan",
+		"state": "UT",
+		"zip": "84084"
+	},
+	{
+		"value": "Musicians interguild credit union",
+		"street": "817 N. Vine St",
+		"city": "Hollywood",
+		"state": "CA",
+		"zip": "90038"
+	},
+	{
+		"value": "NASA Federal Credit Union",
+		"street": "P.O. box 1538",
+		"city": "Bowie",
+		"state": "MD",
+		"zip": "20717-1538"
+	},
+	{
+		"value": "National 1st credit union",
+		"street": "P.O. box 61867",
+		"city": "Sunnyvale",
+		"state": "CA",
+		"zip": "94088"
+	},
+	{
+		"value": "Access National Bank",
+		"street": "1800 Robert Fulton Drive",
+		"city": "Reston",
+		"state": "VA",
+		"zip": "20191"
+	},
+	{
+		"value": "National Bank of Arizona",
+		"street": "P.O. Box 1507",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "National Bank of Coxsackie",
+		"street": "3-7 Reed St",
+		"city": "Coxsackie",
+		"state": "NY",
+		"zip": "12051"
+	},
+	{
+		"value": "Naval Research Lab. Federal Credit Union",
+		"street": "P.O. Box 1023",
+		"city": "Oxen Hill",
+		"state": "MD",
+		"zip": "20750"
+	},
+	{
+		"value": "Naval Surface Warfare Credit Union",
+		"street": "P.O. Box 519",
+		"city": "Dahlgren",
+		"state": "VA",
+		"zip": "22448"
+	},
+	{
+		"value": "Navigant Credit Union",
+		"street": "1005 Douglas Pike",
+		"city": "Smithfield",
+		"state": "RI",
+		"zip": "02917-1206"
+	},
+	{
+		"value": "Chesapeake Funding LLC",
+		"street": "940 Ridgebrook Road",
+		"city": "Sparks",
+		"state": "MD",
+		"zip": "21152-939"
+	},
+	{
+		"value": "Energy Federal Credit Union",
+		"street": "805 King Farm Boulevard Ste. 110",
+		"city": "Rockville",
+		"state": "MD",
+		"zip": "20850"
+	},
+	{
+		"value": "Fairmont Federal Credit Union",
+		"street": "P.O Box 2139",
+		"city": "Fairmont",
+		"state": "WV",
+		"zip": "26555-2139"
+	},
+	{
+		"value": "Family Savings Credit Union",
+		"street": "711 E. Meighan Blvd",
+		"city": "Gadsen",
+		"state": "AL",
+		"zip": "35903"
+	},
+	{
+		"value": "Farmers Insurance Group FCU",
+		"street": "P.O. Box 36911",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90036"
+	},
+	{
+		"value": "FedChoice Federal Credit Union",
+		"street": "10001 Willowdale Road",
+		"city": "Lanham",
+		"state": "MD",
+		"zip": "20706"
+	},
+	{
+		"value": "Fibre Federal Credit Union",
+		"street": "P.O. Box 1234",
+		"city": "Longview",
+		"state": "WA",
+		"zip": "98632"
+	},
+	{
+		"value": "Fifth Third Bank",
+		"street": "P.O. Box 997548",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95899"
+	},
+	{
+		"value": "Financial Center CU ELT#K51",
+		"street": "P.O. box 208005",
+		"city": "Stockton",
+		"state": "CA",
+		"zip": "95208"
+	},
+	{
+		"value": "Financial Federal Credit Union",
+		"street": "1616-D Rockville Pike",
+		"city": "Rockville",
+		"state": "MD",
+		"zip": "20852"
+	},
+	{
+		"value": "Financial Partners Credit Union",
+		"street": "P.O. Box 7005",
+		"city": "Downey",
+		"state": "CA",
+		"zip": "90241"
+	},
+	{
+		"value": "Financial Plus Credit Union",
+		"street": "2813 Plaza Drive",
+		"city": "Peru",
+		"state": "IL",
+		"zip": "61354"
+	},
+	{
+		"value": "Financial Resources Federal Credit Union",
+		"street": "520 Route 22 East",
+		"city": "Bridgewater",
+		"state": "NJ",
+		"zip": "8807"
+	},
+	{
+		"value": "First American Bank and Trust",
+		"street": "P.O. Box 1688",
+		"city": "Athens",
+		"state": "GA",
+		"zip": "30603-1688"
+	},
+	{
+		"value": "First Atlantic Credit Union",
+		"street": "468 Industrial Way West",
+		"city": "Eatontown",
+		"state": "NJ",
+		"zip": "7724"
+	},
+	{
+		"value": "First Bank",
+		"street": "1000 Taraval Street",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94116"
+	},
+	{
+		"value": "First Capital Federal Credit Union",
+		"street": "P.O. Box 7746",
+		"city": "York",
+		"state": "PA",
+		"zip": "17404"
+	},
+	{
+		"value": "First Citizens Bank and Trust Company",
+		"street": "PO BX 29519",
+		"city": "Raleigh",
+		"state": "NC",
+		"zip": "27626"
+	},
+	{
+		"value": "First city Credit Union",
+		"street": "717 W. Temple Street",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90012"
+	},
+	{
+		"value": "First Command Bank",
+		"street": "1 FirstComm Plaza",
+		"city": "Fortworth",
+		"state": "TX",
+		"zip": "76109"
+	},
+	{
+		"value": "First Commercial Bank",
+		"street": "1601 S Kelly Ave",
+		"city": "Edmond",
+		"state": "OK",
+		"zip": "73013"
+	},
+	{
+		"value": "First Common Wealth Bank",
+		"street": "2210 Ardmore Blvd",
+		"city": "Pittsburgh",
+		"state": "PA",
+		"zip": "15221"
+	},
+	{
+		"value": "First Community Bank",
+		"street": "24 W Gartner Rd",
+		"city": "Naperville",
+		"state": "IL",
+		"zip": "60564"
+	},
+	{
+		"value": "First Connecticut Credit Union",
+		"street": "159 South Turnpike Road",
+		"city": "Wallingford",
+		"state": "CT",
+		"zip": "6492"
+	},
+	{
+		"value": "First Credit Union",
+		"street": "25 S Arizona PL STE 111",
+		"city": "Chandler",
+		"state": "AZ",
+		"zip": "85225"
+	},
+	{
+		"value": "First Entertainment Credit Union",
+		"street": "P.O. Box 100",
+		"city": "Hollywood",
+		"state": "CA",
+		"zip": "90078"
+	},
+	{
+		"value": "First Federal Credit Union",
+		"street": "(San Rafael) 1030 3rd St",
+		"city": "San Rafael",
+		"state": "CA",
+		"zip": "94901"
+	},
+	{
+		"value": "First Financial Credit Union",
+		"street": "1600 W Cameron Ave",
+		"city": "West Covina",
+		"state": "CA",
+		"zip": "91790"
+	},
+	{
+		"value": "First Guaranty Bank",
+		"street": "799 West Summers Drive",
+		"city": "Abbeville",
+		"state": "LA",
+		"zip": "70510"
+	},
+	{
+		"value": "FIRST HAWAIIAN LEASING",
+		"street": " INC.",
+		"city": "P.O. Box 1240",
+		"state": "Honolulu",
+		"zip": "HI"
+	},
+	{
+		"value": "First Northern Credit Union",
+		"street": "230 W Monroe St. Suite 2850",
+		"city": "Chicago",
+		"state": "IL",
+		"zip": "60606"
+	},
+	{
+		"value": "First state Bank of East Detroit",
+		"street": "24300 Little Mack",
+		"city": "St. Clair Shores",
+		"state": "MI",
+		"zip": "48080"
+	},
+	{
+		"value": "First Technology Federal Credit Union",
+		"street": "P.O. Box 276181",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827-6181"
+	},
+	{
+		"value": "First Tennesse Bank",
+		"street": "P.O. Box 31",
+		"city": "Memphis",
+		"state": "TN",
+		"zip": "38101"
+	},
+	{
+		"value": "FirstAtlantic Bank",
+		"street": "1325 Hendricks Ave",
+		"city": "Jacksonville",
+		"state": "FL",
+		"zip": "32207"
+	},
+	{
+		"value": "FIRSTMARK CREDIT UNION",
+		"street": "PO BOX 701650",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78270"
+	},
+	{
+		"value": "Fiscal Credit Union",
+		"street": "310 E Colorado St",
+		"city": "Glendale",
+		"state": "CA",
+		"zip": "91205"
+	},
+	{
+		"value": "Fitzsimons Credit Union",
+		"street": "2201 N Fitzsimons Parkway",
+		"city": "Aurora",
+		"state": "CO",
+		"zip": "80045"
+	},
+	{
+		"value": "Flagstar Bank",
+		"street": "5151 Corporate Dr",
+		"city": "Troy",
+		"state": "MI",
+		"zip": "48098"
+	},
+	{
+		"value": "Florida Central Credit Union",
+		"street": "P.O. Box 18605",
+		"city": "Tampa",
+		"state": "FL",
+		"zip": "33679-8605"
+	},
+	{
+		"value": "Foothill Federal Credit Union",
+		"street": "30 S First Ave",
+		"city": "Arcadia",
+		"state": "CA",
+		"zip": "91006"
+	},
+	{
+		"value": "Four Four Credit Union",
+		"street": "P.O. Box 442",
+		"city": "Saint Louis",
+		"state": "MO",
+		"zip": "63166"
+	},
+	{
+		"value": "Franklin Mint Federal Credit Union",
+		"street": "P.O. Box 1907",
+		"city": "Media",
+		"state": "PA",
+		"zip": "19063-8907"
+	},
+	{
+		"value": "FRMRS INSURANCE GRP FCU",
+		"street": "P.O. Box 36911",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90036"
+	},
+	{
+		"value": "FST Entertainment CU",
+		"street": "P.O Box 100",
+		"city": "Hollywood",
+		"state": "CA",
+		"zip": "90078"
+	},
+	{
+		"value": "Garden Savings Federal Credit Union",
+		"street": "129 Littleton Rd",
+		"city": "Parsippany",
+		"state": "NJ",
+		"zip": "7054"
+	},
+	{
+		"value": "GE Title Agent LLC",
+		"street": "P.O Box 35707",
+		"city": "Billings",
+		"state": "MT",
+		"zip": "59107"
+	},
+	{
+		"value": "General Electric Capital Corporation",
+		"street": "P.O Box 35707",
+		"city": "Billings",
+		"state": "MT",
+		"zip": "59107"
+	},
+	{
+		"value": "Georgia United Credit Union",
+		"street": "6705 Sugarloaf Pkwy",
+		"city": "Duluth",
+		"state": "GA",
+		"zip": "30097"
+	},
+	{
+		"value": "Georgia's Own Credit Union",
+		"street": "P.O. Box 105205",
+		"city": "Atlanta",
+		"state": "GA",
+		"zip": "30348"
+	},
+	{
+		"value": "Gesa Federal Credit Union",
+		"street": "P.O. Box 500",
+		"city": "Richland",
+		"state": "WA",
+		"zip": "99352"
+	},
+	{
+		"value": "Glass Cap Federal Credit Union",
+		"street": "241 Noth Pittsburgh St",
+		"city": "Connellsville",
+		"state": "PA",
+		"zip": "15425"
+	},
+	{
+		"value": "Kleinbank",
+		"street": "600 West 78th St PO 399",
+		"city": "Chanhassen",
+		"state": "NM",
+		"zip": "55317"
+	},
+	{
+		"value": "KU Credit Union",
+		"street": "12512 West 82nd Terr #104",
+		"city": "Shawnee Mission",
+		"state": "KS",
+		"zip": "66216"
+	},
+	{
+		"value": "KUMC Credit Union",
+		"street": "12510 W 62nd Terrace Suite 104",
+		"city": "Shawnee",
+		"state": "KS",
+		"zip": "66216"
+	},
+	{
+		"value": "La Loma FCU",
+		"street": "PO BX 906",
+		"city": "Loma Linda",
+		"state": "CA",
+		"zip": "92354"
+	},
+	{
+		"value": "LaFayette Federal Credit Union",
+		"street": "3535 University Blvd West",
+		"city": "Kensignton",
+		"state": "MD",
+		"zip": "20895"
+	},
+	{
+		"value": "Landmark Credit Union",
+		"street": "P.O. Box 510870",
+		"city": "New Berlin",
+		"state": "WI",
+		"zip": "53151"
+	},
+	{
+		"value": "Langley Federal Credit Union",
+		"street": "P.O. Box 7463",
+		"city": "Hampton",
+		"state": "VA",
+		"zip": "23666-0463"
+	},
+	{
+		"value": "LAPFCU",
+		"street": "16150 Sherman Way",
+		"city": "Van Nuys",
+		"state": "CA",
+		"zip": "91410"
+	},
+	{
+		"value": "Las Colinas Federal Credit Union",
+		"street": "555 Cimarron Trail",
+		"city": "Irving",
+		"state": "TX",
+		"zip": "75063"
+	},
+	{
+		"value": "LBS Financial Credit Union",
+		"street": "PO Box 4860",
+		"city": "Long Beach",
+		"state": "CA",
+		"zip": "90804"
+	},
+	{
+		"value": "Legacy Texas Bank",
+		"street": "P.O. Box 869111",
+		"city": "Richardson",
+		"state": "TX",
+		"zip": "75086"
+	},
+	{
+		"value": "Lehigh Valley Federal Credit Union",
+		"street": "2218 Walbert Ave",
+		"city": "Allentown",
+		"state": "PA",
+		"zip": "18104"
+	},
+	{
+		"value": "Lessors Inc.",
+		"street": "1056 Gemini Rd",
+		"city": "Eagan",
+		"state": "MN",
+		"zip": "55121"
+	},
+	{
+		"value": "LGE Community Credit Union",
+		"street": "P.O. Box 1188",
+		"city": "Marietta",
+		"state": "GA",
+		"zip": "30061"
+	},
+	{
+		"value": "Liberty National Bank",
+		"street": "100 E Franklin St",
+		"city": "Kenton",
+		"state": "OH",
+		"zip": "43326"
+	},
+	{
+		"value": "Logix Federal Credit Union",
+		"street": "P.O. Box 6759",
+		"city": "Burbank",
+		"state": "CA",
+		"zip": "91510"
+	},
+	{
+		"value": "Long Beach city Employees Federal Credit Union",
+		"street": "2801 Temple Ave",
+		"city": "Signal Hill",
+		"state": "CA",
+		"zip": "90755"
+	},
+	{
+		"value": "Los Angeles Federal Credit Union",
+		"street": "P.O. Box 53032",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90053"
+	},
+	{
+		"value": "M&T",
+		"street": "P.O. Box 64679",
+		"city": "Baltimore",
+		"state": "MD",
+		"zip": "21264-4679"
+	},
+	{
+		"value": "Maps Credit Union",
+		"street": "P.O. Box 12398",
+		"city": "Salem",
+		"state": "OR",
+		"zip": "97309"
+	},
+	{
+		"value": "Matadors Community Credit Union",
+		"street": "P.O. Box 1052",
+		"city": "Northridge",
+		"state": "CA",
+		"zip": "91328"
+	},
+	{
+		"value": "Mattel Federal Credit Union",
+		"street": "333 Continental Blvd",
+		"city": "El Segundo",
+		"state": "CA",
+		"zip": "90245"
+	},
+	{
+		"value": "MB Financial Bank",
+		"street": "6111 North River Rd",
+		"city": "Rosemont",
+		"state": "IL",
+		"zip": "60018"
+	},
+	{
+		"value": "McKesson Employees' Federal Credit Union",
+		"street": "One Post St",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94104"
+	},
+	{
+		"value": "Mechanics Bank",
+		"street": "725 Alfred Nobel Dr",
+		"city": "Hercules",
+		"state": "CA",
+		"zip": "94547"
+	},
+	{
+		"value": "Member 1st FCU",
+		"street": "P.O. Box 40",
+		"city": "Mechanicsburg",
+		"state": "PA",
+		"zip": "17055"
+	},
+	{
+		"value": "Members heritage federal credit union",
+		"street": "440 Park Place",
+		"city": "Lexington",
+		"state": "KY",
+		"zip": ""
+	},
+	{
+		"value": "PNC EQUIPMENT FINANCE",
+		"street": " LLC",
+		"city": "995 DALTON AVE",
+		"state": "CINCINNATI",
+		"zip": "OH"
+	},
+	{
+		"value": "Enterprise Bank and Trust",
+		"street": "222 Merrimack St.",
+		"city": "Lowell",
+		"state": "MA",
+		"zip": "1852"
+	},
+	{
+		"value": "Brazos Valley Schools Credit Union",
+		"street": "2308 First Street",
+		"city": "Rosenberg",
+		"state": "TX",
+		"zip": "77471"
+	},
+	{
+		"value": "First Fidelity Bank",
+		"street": "P.O. Box 32282",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73123"
+	},
+	{
+		"value": "San Mateo city Employees FCU",
+		"street": "330 W 20th Ave",
+		"city": "San Mateo",
+		"state": "CA",
+		"zip": "94403"
+	},
+	{
+		"value": "Bank of America Financial Center",
+		"street": "100 N Tryon St #170",
+		"city": "Charlotte",
+		"state": "NC",
+		"zip": "28202"
+	},
+	{
+		"value": "Citadel Federal Credit Union",
+		"street": "522 E King Rd",
+		"city": "Paoli",
+		"state": "PA",
+		"zip": "19301"
+	},
+	{
+		"value": "PWC Equipment Finance",
+		"street": "995 Dalton Avenue",
+		"city": "Cincinnati",
+		"state": "OH",
+		"zip": "45203"
+	},
+	{
+		"value": "Randolph-Brooks Federal Credit Union",
+		"street": "P.O. Box 2097",
+		"city": "Universal city",
+		"state": "Texas",
+		"zip": "78148-2097"
+	},
+	{
+		"value": "South state Bank",
+		"street": "PO Box 100113",
+		"city": "Columbia",
+		"state": "SC",
+		"zip": "29202-3113"
+	},
+	{
+		"value": "Union Bank",
+		"street": "PO BX 85643",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92186"
+	},
+	{
+		"value": "Clearpath FCU",
+		"street": "340 Arden Ave.",
+		"city": "Glendale",
+		"state": "CA",
+		"zip": "91203"
+	},
+	{
+		"value": "Rocky Mountain Credit Union",
+		"street": "PO BOX 790063",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78279-0063"
+	},
+	{
+		"value": "Motorola Employees Credit Union",
+		"street": "PO BOX 255608",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95865-5608"
+	},
+	{
+		"value": "Air Academy Federal Credit Union",
+		"street": "P.O. Box 62910",
+		"city": "Colorado Springs",
+		"state": "CO",
+		"zip": "80962-2910"
+	},
+	{
+		"value": "General Electric Credit Union",
+		"street": "10485 Reading Rd",
+		"city": "Cincinnati",
+		"state": "OH",
+		"zip": "45241"
+	},
+	{
+		"value": "JPMorgan Chase Bank",
+		"street": " NA (WLO",
+		"city": " Chicago)",
+		"state": "P.O. Box 6026",
+		"zip": "Chicago"
+	},
+	{
+		"value": "Capital One Auto Finance",
+		"street": "P.O. Box 660068",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95866"
+	},
+	{
+		"value": "Liberty One Credit Union",
+		"street": "1100 Commerce STE 615",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75242"
+	},
+	{
+		"value": "Benchmark Bank",
+		"street": "5700 Legacy Dr. Ste. 10",
+		"city": "Plano",
+		"state": "TX",
+		"zip": "75024"
+	},
+	{
+		"value": "New Mexico Bank and Trust",
+		"street": "3002 Louisiana Blvd NE",
+		"city": "Albuquerque",
+		"state": "NM",
+		"zip": "87110"
+	},
+	{
+		"value": "Polish And Slavic Credit Union",
+		"street": "4147 N Harlem Avenue",
+		"city": "Norridge",
+		"state": "IL",
+		"zip": "60706"
+	},
+	{
+		"value": "Vermont state Employees Credit Union",
+		"street": "PO Box 67",
+		"city": "Montpelier",
+		"state": "VT",
+		"zip": "5601"
+	},
+	{
+		"value": "MECU of Baltimore",
+		"street": "7 East Redwood Street",
+		"city": "Baltimore",
+		"state": "MD",
+		"zip": "21202"
+	},
+	{
+		"value": "Los Angeles Police Federal Credit Union",
+		"street": "PO BX 10188",
+		"city": "Van Nuys",
+		"state": "CA",
+		"zip": "91499"
+	},
+	{
+		"value": "STAR Financial Bank",
+		"street": "P.O. Box 11409",
+		"city": "Fort Wayne",
+		"state": "IN",
+		"zip": "46897"
+	},
+	{
+		"value": "Family Trust FCU",
+		"street": "PO Box 10233",
+		"city": "Rock Hill",
+		"state": "SC",
+		"zip": "29731"
+	},
+	{
+		"value": "Wells Fargo Bank",
+		"street": " N.A. (3rd party)",
+		"city": "PO Box 53439",
+		"state": "Phoenix",
+		"zip": "AZ"
+	},
+	{
+		"value": "Credit Union of New Jersey",
+		"street": "PO Box 7921",
+		"city": "Ewing",
+		"state": "NJ",
+		"zip": "08628-3010"
+	},
+	{
+		"value": "The Union Bank Co.",
+		"street": "100 S. High St.",
+		"city": "Columbus Grove",
+		"state": "OH",
+		"zip": "45830"
+	},
+	{
+		"value": "SchoolsFirst Federal Credit Union (Schools First FCU)",
+		"street": "P.O. Box 11547",
+		"city": "Santa Ana",
+		"state": "CA",
+		"zip": "92711-1547"
+	},
+	{
+		"value": "Scott Credit Union",
+		"street": "P.O. Box 690590",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78269"
+	},
+	{
+		"value": "Scott Rabideau",
+		"street": "P.O. Box 311",
+		"city": "Harrisville",
+		"state": "RI",
+		"zip": "2830"
+	},
+	{
+		"value": "Seattle Metropolitan Credit Union",
+		"street": "P.O. Box 780",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98111"
+	},
+	{
+		"value": "Security Service Federal Credit Union",
+		"street": "16211 La Cantera Parkway",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78256"
+	},
+	{
+		"value": "SELCO COMMUNITY CREDIT UNION",
+		"street": "P.O. Box 7487",
+		"city": "Springfield",
+		"state": "OR",
+		"zip": "97475"
+	},
+	{
+		"value": "Sequoia Hospital Employees Federal Credit Union",
+		"street": "770 Marshall St Suite 200",
+		"city": "Redwood city",
+		"state": "CA",
+		"zip": "94063"
+	},
+	{
+		"value": "SESLOC FCU",
+		"street": "P.O. Box 5360",
+		"city": "San Luis Obispo",
+		"state": "CA",
+		"zip": "93403"
+	},
+	{
+		"value": "Shaker Auto Lease",
+		"street": "",
+		"city": "",
+		"state": "",
+		"zip": ""
+	},
+	{
+		"value": "SharePlus Federal Bank",
+		"street": "5224 W Plano Parkway",
+		"city": "Plano",
+		"state": "TX",
+		"zip": "75093"
+	},
+	{
+		"value": "Sharon Credit Union",
+		"street": "30 Pond St",
+		"city": "Sharon",
+		"state": "MA",
+		"zip": "2067"
+	},
+	{
+		"value": "Shell Federal Credit Union",
+		"street": "301 E 13th St",
+		"city": "Deer Park",
+		"state": "TX",
+		"zip": "77536"
+	},
+	{
+		"value": "Signature Financial",
+		"street": " LLC",
+		"city": "225 Broad Hollow Rd",
+		"state": "Melville",
+		"zip": "NY"
+	},
+	{
+		"value": "Simmons First National Bank",
+		"street": "33333 E Battlefield",
+		"city": "Springfield",
+		"state": "MO",
+		"zip": "65804"
+	},
+	{
+		"value": "Simplicity Bank",
+		"street": "P.O. Box 6107",
+		"city": "Covnina",
+		"state": "CA",
+		"zip": "91722"
+	},
+	{
+		"value": "SJCU",
+		"street": "140 Ashbury St",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95110"
+	},
+	{
+		"value": "Skyone FCU",
+		"street": "14600 Aviation Blvd",
+		"city": "Hawthorne",
+		"state": "CA",
+		"zip": "90250"
+	},
+	{
+		"value": "Sno Falls Credit Union",
+		"street": "P.O. Box 1978",
+		"city": "Snoqualmie",
+		"state": "WA",
+		"zip": "98065"
+	},
+	{
+		"value": "Sound Credit Union",
+		"street": "P.O. Box 1595",
+		"city": "Tacoma",
+		"state": "WA",
+		"zip": "98401"
+	},
+	{
+		"value": "South Bay Credit Union",
+		"street": "2304 Artesia Blvd",
+		"city": "Redondo Beach",
+		"state": "CA",
+		"zip": "92078"
+	},
+	{
+		"value": "South Carolina Bank & Trust",
+		"street": "P.O Box 100113",
+		"city": "Columbia",
+		"state": "SC",
+		"zip": "29202-3113"
+	},
+	{
+		"value": "South Florida Educational Federal Credit Union",
+		"street": "7800 SW 117th Ave",
+		"city": "Miami",
+		"state": "FL",
+		"zip": "33183"
+	},
+	{
+		"value": "South Jersey Federal Credit Union",
+		"street": "1615 Hurffville Rd",
+		"city": " P.O. Box 5530",
+		"state": "Deptford",
+		"zip": "NJ"
+	},
+	{
+		"value": "Southern Credit Union",
+		"street": "P.O Box 1509",
+		"city": "Fayetteville",
+		"state": "GA",
+		"zip": "30214"
+	},
+	{
+		"value": "Southland Credit Union",
+		"street": "P.O. Box 7022",
+		"city": "Downey",
+		"state": "CA",
+		"zip": "90241-7022"
+	},
+	{
+		"value": "Southwest Airlines Federal Credit Union",
+		"street": "2430 Shorecrest",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75235"
+	},
+	{
+		"value": "Sovereign Bank",
+		"street": "P.O. Box 16255",
+		"city": "Reading",
+		"state": "PA",
+		"zip": "19612"
+	},
+	{
+		"value": "Space city Credit Union",
+		"street": "3101 Harrisburg Blvd",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77003"
+	},
+	{
+		"value": "Space Coast Credit Union",
+		"street": "P.O Box 419001",
+		"city": "Melborne",
+		"state": "FL",
+		"zip": "32940-9001"
+	},
+	{
+		"value": "Sperry Federal Credit Union",
+		"street": "2400 Jericho Turnpike",
+		"city": "Garden city Park",
+		"state": "NY",
+		"zip": "11040"
+	},
+	{
+		"value": "Spire Federal Credit Union",
+		"street": "2025 Larpenteur Ave W",
+		"city": "Falcon Hegiths",
+		"state": "MN",
+		"zip": "55113"
+	},
+	{
+		"value": "Spokane Federal Credit Union",
+		"street": "P.O. Box 2519",
+		"city": "Spokane",
+		"state": "WA",
+		"zip": "99220-2519"
+	},
+	{
+		"value": "Spokane Teachers Credit Union",
+		"street": "P.O. Box 1954",
+		"city": "Spokane",
+		"state": "WA",
+		"zip": "99210"
+	},
+	{
+		"value": "SRI Federal Credit Union",
+		"street": "333 Ravenswood Ave",
+		"city": "Menlo Park",
+		"state": "CA",
+		"zip": "94025"
+	},
+	{
+		"value": "St. Agnes Federal Credit Union",
+		"street": "900 Caton Ave",
+		"city": "Baltimore",
+		"state": "MD",
+		"zip": "21229"
+	},
+	{
+		"value": "St. Joseph's Federal Credit Union",
+		"street": "3541 Youree Dr",
+		"city": "Shreveport",
+		"state": "LA",
+		"zip": "71105"
+	},
+	{
+		"value": "St. Mary's Bank",
+		"street": "48 Perimeter Rd",
+		"city": "Manchester",
+		"state": "NH",
+		"zip": "3103"
+	},
+	{
+		"value": "Stamford Federal Credit Union",
+		"street": "888 Washington Blvd",
+		"city": "Stamford",
+		"state": "CT",
+		"zip": "6901"
+	},
+	{
+		"value": "Stanford Federal Credit Union",
+		"street": "P.O Box 10690",
+		"city": "Palo Alto",
+		"state": "CA",
+		"zip": "94303"
+	},
+	{
+		"value": "Star One Credit Union",
+		"street": "PO Box 3643",
+		"city": "Sunnyvalle",
+		"state": "CA",
+		"zip": "94089"
+	},
+	{
+		"value": "state Department Federal Credit Union",
+		"street": "1630 King St",
+		"city": "Alexandria",
+		"state": "VA",
+		"zip": "22314"
+	},
+	{
+		"value": "state Employees Credit Union Of Maryland",
+		"street": "971 Corporate Blvd",
+		"city": "Linthicum",
+		"state": "MD",
+		"zip": "21090-2337"
+	},
+	{
+		"value": "state Farm Bank",
+		"street": "P.O. Box 5961",
+		"city": "Madison",
+		"state": "WI",
+		"zip": "53705"
+	},
+	{
+		"value": "state Farm Federal Credit Union",
+		"street": "3 state Farm Plaza K-1",
+		"city": "Bloomington",
+		"state": "IL",
+		"zip": "61791"
+	},
+	{
+		"value": "Stevan A Hammond",
+		"street": "1555 Regal Row",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75247"
+	},
+	{
+		"value": "Suffolk Federal Credit Union",
+		"street": "P.O. Box 9005",
+		"city": "Medford",
+		"state": "NY",
+		"zip": "11763"
+	},
+	{
+		"value": "Summit Credit Union",
+		"street": "P.O. box 8046",
+		"city": "Madison",
+		"state": "WI",
+		"zip": "53708"
+	},
+	{
+		"value": "SUNCOAST CREDIT UNION (Formerly: Suncoast Schools)",
+		"street": "P.O box 11904",
+		"city": "Tampa",
+		"state": "FL",
+		"zip": "33680"
+	},
+	{
+		"value": "SunTrust Bank",
+		"street": "P.O. Box 305053",
+		"city": "Nashville",
+		"state": "TN",
+		"zip": "37230"
+	},
+	{
+		"value": "Susquehanna Bank",
+		"street": "One Centre Drive",
+		"city": "Jamesburg",
+		"state": "NJ",
+		"zip": "8831"
+	},
+	{
+		"value": "American Airlines Credit Union",
+		"street": "MD 2100 PO Box 619001",
+		"city": "DFW Airport",
+		"state": "TX",
+		"zip": "75261"
+	},
+	{
+		"value": "Kaiperm (Diablo) FCU",
+		"street": "PO BX 4156",
+		"city": "Walnut Creek",
+		"state": "CA",
+		"zip": "94596"
+	},
+	{
+		"value": "Unverified Partner",
+		"street": "",
+		"city": "",
+		"state": "",
+		"zip": ""
+	},
+	{
+		"value": "Navy Federal Credit Union",
+		"street": "P.O. Box 25109",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002-5109"
+	},
+	{
+		"value": "NBC Federal Credit Union",
+		"street": "3000 W. Alameda Ave",
+		"city": "Burbank",
+		"state": "CA",
+		"zip": "91523"
+	},
+	{
+		"value": "Neches Huntsman FCU",
+		"street": "2623 Nederland Ave",
+		"city": "Nederland",
+		"state": "TX",
+		"zip": "77627"
+	},
+	{
+		"value": "Nevada state Bank",
+		"street": "P.O. Box 1507",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "New England Federal Credit Union",
+		"street": "141 Harvest Lane P.O. Box 527",
+		"city": "Williston",
+		"state": "VT",
+		"zip": "5495"
+	},
+	{
+		"value": "Nizari Progressive Federal Credit Union",
+		"street": "11770 University Blvd",
+		"city": "Sugarland",
+		"state": "TX",
+		"zip": "77478"
+	},
+	{
+		"value": "Nordstrom Federal Credit Union",
+		"street": "P.O. Box 1130",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98111"
+	},
+	{
+		"value": "North Carolina state Employees Credit Union",
+		"street": "PO Box 27528",
+		"city": "Raleigh",
+		"state": "NC",
+		"zip": "27611"
+	},
+	{
+		"value": "North Island Credit Union",
+		"street": "P.O. Box 85833",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92186"
+	},
+	{
+		"value": "Northeast Credit Union",
+		"street": "100 Borthwick Ave",
+		"city": "Portsmouth",
+		"state": "NH",
+		"zip": "3801"
+	},
+	{
+		"value": "Northrop Gardena",
+		"street": "P.O. Box 47009",
+		"city": "Gardena",
+		"state": "CA",
+		"zip": "90247-6809"
+	},
+	{
+		"value": "Northrop Grumman Federal Credit Union",
+		"street": "879 W 190th St",
+		"city": "Gardena",
+		"state": "CA",
+		"zip": "90248"
+	},
+	{
+		"value": "Northstar Bank of Texas",
+		"street": "400 N Carroll Blvd",
+		"city": "Denton",
+		"state": "TX",
+		"zip": "76201"
+	},
+	{
+		"value": "Northwest Federal Credit Union",
+		"street": "P.O. Box 1229",
+		"city": "Herndon",
+		"state": "VA",
+		"zip": "20172-1229"
+	},
+	{
+		"value": "Norway Savings Bank",
+		"street": "P.O. Box 347",
+		"city": " 261 Main St",
+		"state": "Norway",
+		"zip": "ME"
+	},
+	{
+		"value": "NuVision Federal Credit Union",
+		"street": "7812 Edinger Ave",
+		"city": "Huntington Beach",
+		"state": "CA",
+		"zip": "92647"
+	},
+	{
+		"value": "O Bee Credit Union",
+		"street": "3900 Cleveland Ave SE",
+		"city": "Tumwater",
+		"state": "WA",
+		"zip": "98501"
+	},
+	{
+		"value": "Oklahoma Employees Credit Union",
+		"street": "P.O. Box 24027",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73124"
+	},
+	{
+		"value": "Omaha Federal Credit Union",
+		"street": "3001 S. 82nd Ave",
+		"city": "Omaha",
+		"state": "NE",
+		"zip": "68124-3258"
+	},
+	{
+		"value": "On Point Credit Union",
+		"street": "PO Box 3750",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97208"
+	},
+	{
+		"value": "One Nevada CU",
+		"street": "2645 S Mojave Rd",
+		"city": "Las Vegas",
+		"state": "NV",
+		"zip": "89121"
+	},
+	{
+		"value": "Orange County's Credit Union",
+		"street": "P.O. Box 11777",
+		"city": "Santa Ana",
+		"state": "CA",
+		"zip": "92711"
+	},
+	{
+		"value": "Oregon Community Credit Union",
+		"street": "P.O. Box 25601",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76124"
+	},
+	{
+		"value": "Orion FCU",
+		"street": "7845 HWY 64",
+		"city": "Memphis",
+		"state": "TN",
+		"zip": "38133"
+	},
+	{
+		"value": "Pace Savings and CU",
+		"street": "8111 Jane St Unit 1",
+		"city": "Vaughan",
+		"state": "ON",
+		"zip": "L4K 4L7"
+	},
+	{
+		"value": "Pacific Marine Credit Union",
+		"street": "1278 Rocky Point Drive",
+		"city": "Oceanside",
+		"state": "CA",
+		"zip": "92056"
+	},
+	{
+		"value": "Pacific NW Federal Credit union",
+		"street": "12106 NE Marx",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97220"
+	},
+	{
+		"value": "Pacific Oaks Federal Credit Union",
+		"street": "761 Daily Drive Suite 200",
+		"city": "Camarillo",
+		"state": "CA",
+		"zip": "93010"
+	},
+	{
+		"value": "Pacific Postal Credit Union",
+		"street": "1040 Leigh Av",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95126"
+	},
+	{
+		"value": "Pacific Resource Credit Union",
+		"street": "333 South Hope St",
+		"city": " Concourse Level",
+		"state": "Los Angeles",
+		"zip": "CA"
+	},
+	{
+		"value": "Pacific Service Credit Union",
+		"street": "P.O. Box 8191",
+		"city": "Walnut Creek",
+		"state": "CA",
+		"zip": "94596"
+	},
+	{
+		"value": "Pacoina Federal Credit Union",
+		"street": "13168 Van Nuys Blvd",
+		"city": "Pacoina",
+		"state": "CA",
+		"zip": "91331"
+	},
+	{
+		"value": "Partner Colorado CU",
+		"street": "6221 Sheridan Blvd",
+		"city": "Arvada",
+		"state": "CO",
+		"zip": "80003"
+	},
+	{
+		"value": "Partners Federal Credit Union",
+		"street": "2411 W. Olive Ave",
+		"city": "Burbank",
+		"state": "CA",
+		"zip": "91506"
+	},
+	{
+		"value": "Patelco Credit Union",
+		"street": "5050 Hopyard Rd 16",
+		"city": "Pleasanton",
+		"state": "CA",
+		"zip": "94588"
+	},
+	{
+		"value": "Patriots Federal Credit Union",
+		"street": "26970 Aliso Viejo Pkwy",
+		"city": " Suite 150",
+		"state": "Aliso Viejo",
+		"zip": "CA"
+	},
+	{
+		"value": "Paula Couture",
+		"street": "43 Eliot Rd",
+		"city": "Arlingtron",
+		"state": "MA",
+		"zip": "2474"
+	},
+	{
+		"value": "Peck Leasing Ltd.",
+		"street": "15405 Los Gatos Blvd",
+		"city": " Suite 203",
+		"state": "Los Gatos",
+		"zip": "CA"
+	},
+	{
+		"value": "PedFed",
+		"street": "P.O. Box 255483",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95865"
+	},
+	{
+		"value": "Pegasus Bank",
+		"street": "4515 West Mockingbird Lane",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75209"
+	},
+	{
+		"value": "Pennsylvania state Employees Credit Union (PSECU)",
+		"street": "PO BX 67013",
+		"city": "Harrisburg",
+		"state": "PA",
+		"zip": "17106"
+	},
+	{
+		"value": "Pentagon Federal Credit Union (PenFed)",
+		"street": "PO Box 255483",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95865"
+	},
+	{
+		"value": "Peoples Trust FCU",
+		"street": "P.O. Box 4511",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77210"
+	},
+	{
+		"value": "Philadelphia Federal Credit Union",
+		"street": "12800 Townsend Rd",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19154-1003"
+	},
+	{
+		"value": "Piedmont Plus Federal C",
+		"street": "1968 Peach Tree Rd",
+		"city": "Atlanta",
+		"state": "GA",
+		"zip": "30309"
+	},
+	{
+		"value": "Pinnacle Bank",
+		"street": "P.O. Box 182",
+		"city": "Fremont",
+		"state": "NE",
+		"zip": "68026"
+	},
+	{
+		"value": "Plains Capital Bank",
+		"street": "3707 Camp Bowie Blvd",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76107"
+	},
+	{
+		"value": "Platinum Federal Credit Union",
+		"street": "1059 Mistletoe Rd",
+		"city": "Decatur",
+		"state": "GA",
+		"zip": ""
+	},
+	{
+		"value": "PNC Bank",
+		"street": "2790 Liberty Ave",
+		"city": "Pittsburgh",
+		"state": "PA",
+		"zip": "15222"
+	},
+	{
+		"value": "Point Loma Credit Union",
+		"street": "9420 Farnham",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92123"
+	},
+	{
+		"value": "First Hawaiian Bank",
+		"street": "P.O.Box 3200",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96847"
+	},
+	{
+		"value": "Electro Savings Credit Union",
+		"street": "1805 Craigshire Road",
+		"city": "St. Louis",
+		"state": "MO",
+		"zip": "63146"
+	},
+	{
+		"value": "ORNL FEDERAL CREDIT UNION",
+		"street": "PO BOX 3000",
+		"city": "WILMINGTON",
+		"state": "OH",
+		"zip": "45177"
+	},
+	{
+		"value": "First United Bank",
+		"street": "1700 N Redbud Blvd. Ste. 130",
+		"city": "McKinney",
+		"state": "TX",
+		"zip": "75069"
+	},
+	{
+		"value": "American First Credit Union",
+		"street": "PO BX 7001",
+		"city": "La Habra",
+		"state": "CA",
+		"zip": "90632"
+	},
+	{
+		"value": "California Republic Bank Auto",
+		"street": "P.O. Box 278852",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827-8852"
+	},
+	{
+		"value": "Point West Credit Union",
+		"street": "718 NE 12th Ave",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97232"
+	},
+	{
+		"value": "Vibe Credit Union",
+		"street": "44575 W. Twelve Mile Road",
+		"city": "Novi",
+		"state": "MI",
+		"zip": "48377"
+	},
+	{
+		"value": "Stark Leasing Company Inc.",
+		"street": "6345 Sommer Awning Blvd",
+		"city": "Indianapolis",
+		"state": "IN",
+		"zip": "46220"
+	},
+	{
+		"value": "PEN AIR FEDERAL CREDIT UNION",
+		"street": "1495 E NINE MILE RD",
+		"city": "PENSACOLA",
+		"state": "FL",
+		"zip": "32514"
+	},
+	{
+		"value": "PEOPLES ENERGY CREDIT UNION",
+		"street": "200 E. RANDOLPH DR",
+		"city": " 22nd Floor",
+		"state": "Chicago",
+		"zip": "IL"
+	},
+	{
+		"value": "TRENTON NEW JERSEY POLICE FEDERAL CREDIT UNION",
+		"street": "2733 NOTTINGHAM WAY STE U8",
+		"city": "HAMILTON",
+		"state": "NJ",
+		"zip": "8619"
+	},
+	{
+		"value": "ANHEUSER-BUSCH EMPLOYEES' CREDIT UNION",
+		"street": "1001 Lynch Street",
+		"city": "St. Louis",
+		"state": "MO",
+		"zip": "63118"
+	},
+	{
+		"value": "Americas Christian CU",
+		"street": "PO BX 5100",
+		"city": "Glendora",
+		"state": "CA",
+		"zip": "91740"
+	},
+	{
+		"value": "United Catholics FCU",
+		"street": "PO BX 210",
+		"city": "West Covina",
+		"state": "CA",
+		"zip": "91793"
+	},
+	{
+		"value": "MainStreet Bank",
+		"street": "10089 Fairfax Blvd",
+		"city": "Fairfax",
+		"state": "VA",
+		"zip": "22030"
+	},
+	{
+		"value": "NASSAU EDUCATORS FEDERAL CREDIT UNION",
+		"street": "1000 CORPORATE DR",
+		"city": "WESTBURY",
+		"state": "NY",
+		"zip": "11590"
+	},
+	{
+		"value": "El Monte CCU (El Monte Community Credit Union)",
+		"street": "11718 Ramona Blvd.",
+		"city": "El Monte",
+		"state": "CA",
+		"zip": "91732"
+	},
+	{
+		"value": "FIRST GREEN BANK",
+		"street": "18251 US HWY 441",
+		"city": "MOUNT DORA",
+		"state": "FL",
+		"zip": "32757"
+	},
+	{
+		"value": "Anderson Brothers Bank",
+		"street": "101 N. Main PO Box 310",
+		"city": "Mullins",
+		"state": "SC",
+		"zip": "29574"
+	},
+	{
+		"value": "KEESLER FEDERAL CREDIT UNION",
+		"street": "PO BOX 7001",
+		"city": "BILOXI",
+		"state": "MS",
+		"zip": "39534"
+	},
+	{
+		"value": "MAYO EMPLOYEES FEDERAL CREDIT UNION",
+		"street": "130 23RD AVE SW",
+		"city": "ROCHESTER",
+		"state": "MN",
+		"zip": "55902"
+	},
+	{
+		"value": "HFC ACCEPTANCE LLC/COMERICA BANK",
+		"street": "411 W LAFAYETTE MC 3519",
+		"city": "DETROIT",
+		"state": "MI",
+		"zip": "48226"
+	},
+	{
+		"value": "COMMUNITY BANK OF THE SOUTH",
+		"street": "3016 Atlanta Road",
+		"city": "Smyrna",
+		"state": "GA",
+		"zip": "30080"
+	},
+	{
+		"value": "Bank of Kansas city",
+		"street": "12112 Metcalf Ave",
+		"city": "Overland Park",
+		"state": "KS",
+		"zip": "66213"
+	},
+	{
+		"value": "CBC FEDERAL CREDIT UNION",
+		"street": "2151 E GONZALES RD",
+		"city": "OXNARD",
+		"state": "CA",
+		"zip": "93036"
+	},
+	{
+		"value": "Dow Northeast Employees Federal Credit Union",
+		"street": "100 S. Independence Mall West",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19106"
+	},
+	{
+		"value": "ST MARYS CREDIT UNION",
+		"street": "PO BOX 729",
+		"city": "MARLBOROUGH",
+		"state": "MA",
+		"zip": "1752"
+	},
+	{
+		"value": "North Dallas Bank & Trust Co.",
+		"street": "P.O. Box 679001",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75367-9001"
+	},
+	{
+		"value": "FIRST PEOPLES COMMUNITY FCU",
+		"street": "PO BOX 1377",
+		"city": "CUMBERLAND",
+		"state": "MD",
+		"zip": "21501"
+	},
+	{
+		"value": "Austin Bank",
+		"street": "200 E. Commerce",
+		"city": "Jacksonville",
+		"state": "TX",
+		"zip": "75766"
+	},
+	{
+		"value": "MATANUSKA VALLEY FEDERAL CREDIT UNION",
+		"street": "1020 S BAILEY ST",
+		"city": "PALMER",
+		"state": "AK",
+		"zip": "99645"
+	},
+	{
+		"value": "Century Federal Credit Union",
+		"street": "1240 E. 9th St",
+		"city": "Cleveland",
+		"state": "OH",
+		"zip": "44199"
+	},
+	{
+		"value": "COMMUNITY FIRST CREDIT UNION OF FLORIDA",
+		"street": "P O BOX 41209",
+		"city": "JACKSONVILLE",
+		"state": "FL",
+		"zip": "32203"
+	},
+	{
+		"value": "Bear state Bank",
+		"street": "P O Box 550",
+		"city": "Harrison",
+		"state": "AZ",
+		"zip": "72602"
+	},
+	{
+		"value": "TruStone Financial",
+		"street": "14601 27th Ave N Suite 104",
+		"city": "Plymouth",
+		"state": "MN",
+		"zip": "55447"
+	},
+	{
+		"value": "Vibrant Credit Union",
+		"street": "1900 52ND AVE",
+		"city": "Moline",
+		"state": "IL",
+		"zip": "61265"
+	},
+	{
+		"value": "INNOVATIONS FEDERAL CREDIT UNION",
+		"street": "PO BOX 924422",
+		"city": "FT WORTH",
+		"state": "TX",
+		"zip": "76124"
+	},
+	{
+		"value": "First Community Credit Union (Oregon)",
+		"street": "150 E. Johnson Ave.",
+		"city": "Coos Bay",
+		"state": "OR",
+		"zip": "97420"
+	},
+	{
+		"value": "Alliant Credit Union (DO NOT USE OUTSIDE OF MASSACHUSETTS)",
+		"street": "11545 W. Touhy Avenue",
+		"city": "Chicago",
+		"state": "IL",
+		"zip": "60666"
+	},
+	{
+		"value": "OHIO HEALTHCARE FCU",
+		"street": "3955 W DUBLIN GRANVILLE RD",
+		"city": "DUBLIN",
+		"state": "OH",
+		"zip": "43017"
+	},
+	{
+		"value": "SOUTH CAROLINA FEDERAL CREDIT UNION",
+		"street": "PO BOX 190012",
+		"city": "NORTH CHARLESTON",
+		"state": "SC",
+		"zip": "29419"
+	},
+	{
+		"value": "Mutual of Omaha Bank",
+		"street": "1665 W Alameda",
+		"city": " Ste 101",
+		"state": "Tempe",
+		"zip": "AZ"
+	},
+	{
+		"value": "ONPOINT COMMUNITY CU",
+		"street": "PO BX 3750",
+		"city": "PORTLAND",
+		"state": "OR",
+		"zip": "97208"
+	},
+	{
+		"value": "IQ CU",
+		"street": "PO BOX 1739",
+		"city": "VANCOUVER",
+		"state": "WA",
+		"zip": "98668"
+	},
+	{
+		"value": "Vantage Bank Texas",
+		"street": "45 NE Loop 410",
+		"city": " Ste #190",
+		"state": "San Antonio",
+		"zip": "TX"
+	},
+	{
+		"value": "CORNING CREDIT UNION",
+		"street": "ONE CREDIT UNION PLAZA",
+		"city": "CORNING",
+		"state": "NY",
+		"zip": "14830"
+	},
+	{
+		"value": "GECU",
+		"street": "PO Box 20998",
+		"city": "El Paso",
+		"state": "TX",
+		"zip": "79998"
+	},
+	{
+		"value": "Woburn Municipal Federal Credit Union",
+		"street": "8 Cedar Street",
+		"city": "Woburn",
+		"state": "MA",
+		"zip": "1801"
+	},
+	{
+		"value": "Long Beach Financial",
+		"street": "P.O. Box 4860",
+		"city": "Long Beach",
+		"state": "CA",
+		"zip": "90804"
+	},
+	{
+		"value": "BMW BANK OF NORTH AMERICA",
+		"street": "5550 BRITTON PKWY",
+		"city": "HILLIARD",
+		"state": "OH",
+		"zip": "43026"
+	},
+	{
+		"value": "Credit Union One",
+		"street": "400 E Nine Mile",
+		"city": "Ferndale",
+		"state": "MI",
+		"zip": "48220"
+	},
+	{
+		"value": "BANK OF THE OZARKS",
+		"street": "PO Box 242208",
+		"city": "Little Rock",
+		"state": "AR",
+		"zip": "72223"
+	},
+	{
+		"value": "FOUNDERS FEDERAL CREDIT UNION",
+		"street": "737 PLANTATION RD",
+		"city": "LANCASTER",
+		"state": "SC",
+		"zip": "29720"
+	},
+	{
+		"value": "Metabank",
+		"street": "121 E. Fifth St. P.O. Box 1307",
+		"city": "Storm Lake",
+		"state": "IA",
+		"zip": "50588"
+	},
+	{
+		"value": "Christian Community CU",
+		"street": "PO BX 3012",
+		"city": "covina",
+		"state": "CA",
+		"zip": "91722"
+	},
+	{
+		"value": "COMMUNITY CREDIT UNION OF LYNN",
+		"street": "1 ANDREW ST",
+		"city": "LYNN",
+		"state": "MA",
+		"zip": "1901"
+	},
+	{
+		"value": "Jordan Credit Union",
+		"street": "P.O. Box 1888",
+		"city": "Sandy",
+		"state": "UT",
+		"zip": "84091"
+	},
+	{
+		"value": "First Tech Federal Credit Union",
+		"street": "PO Box 2100",
+		"city": "Beaverton",
+		"state": "OR",
+		"zip": "97075"
+	},
+	{
+		"value": "Houston Police Federal CU",
+		"street": "1600 Memorial Dr",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77001"
+	},
+	{
+		"value": "Operating Engineers FCU",
+		"street": "PO Bx 5073",
+		"city": "LIVERMORE",
+		"state": "CA",
+		"zip": "94551"
+	},
+	{
+		"value": "CBS Employees FCU",
+		"street": "12001 Ventura Place Suite #204",
+		"city": "Studio city",
+		"state": "CA",
+		"zip": "91604"
+	},
+	{
+		"value": "Community Credit Union of Southern Humboldt",
+		"street": "757 Redwood Drive",
+		"city": "Garberville",
+		"state": "CA",
+		"zip": "95542"
+	},
+	{
+		"value": "Digital Federal Credit Union (DCU)",
+		"street": "PO BOX 25166",
+		"city": "LEHIGH VALLEY",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "Buffalo Metropolitan Federal Credit Union",
+		"street": "62 S. Elmwood Ave.",
+		"city": "Buffalo",
+		"state": "NY",
+		"zip": "14202-2609"
+	},
+	{
+		"value": "FSG Bank",
+		"street": "PO Box 97",
+		"city": "Gainesboro",
+		"state": "TN",
+		"zip": "38562"
+	},
+	{
+		"value": "Deere Employees Credit Union",
+		"street": "PO BOX 339",
+		"city": "Moline",
+		"state": "IL",
+		"zip": "61266"
+	},
+	{
+		"value": "Educational Systems Federal Credit Union",
+		"street": "PO Box 179",
+		"city": "Greenbelt",
+		"state": "MD",
+		"zip": "20768"
+	},
+	{
+		"value": "California Credit Union",
+		"street": "PO BX 29100",
+		"city": "Glendale",
+		"state": "CA",
+		"zip": "91209-9100"
+	},
+	{
+		"value": "ARIZONA CENTRAL CREDIT UNION",
+		"street": "PO BOX 255388",
+		"city": "SACRAMENTO",
+		"state": "CA",
+		"zip": "95865"
+	},
+	{
+		"value": "TMH FEDERAL CREDIT UNION",
+		"street": "345 S MAGNOLIA DR STE F-1",
+		"city": "TALLAHASSEE",
+		"state": "FL",
+		"zip": "32301"
+	},
+	{
+		"value": "Genisys Credit Union",
+		"street": "PO Box 436034",
+		"city": "Pontiac",
+		"state": "MI",
+		"zip": "48343"
+	},
+	{
+		"value": "Lafayette Schools Credit Union",
+		"street": "PO BOX 92437",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76124"
+	},
+	{
+		"value": "Cambridge Savings Bank",
+		"street": "1374 Massachusetts Avenue",
+		"city": "Cambridge",
+		"state": "MA",
+		"zip": "2138"
+	},
+	{
+		"value": "Guaranty Bank & Trust",
+		"street": "201 South Jefferson Ave.",
+		"city": "Mt Pleasant",
+		"state": "TX",
+		"zip": "75455"
+	},
+	{
+		"value": "First National Funding Corporation",
+		"street": "12501 Chandler Blvd # 204",
+		"city": "Valley Village",
+		"state": "CA",
+		"zip": "91607"
+	},
+	{
+		"value": "First American Bank N.A.",
+		"street": "2424 Monetary Blvd. Suite 107",
+		"city": "Hudson",
+		"state": "WI",
+		"zip": "54016"
+	},
+	{
+		"value": "Avista Credit Union",
+		"street": "P.O. Box 3727",
+		"city": " MSC 36",
+		"state": "Spokane",
+		"zip": "WA"
+	},
+	{
+		"value": "MVB Bank",
+		"street": "113 Platinum Dr.",
+		"city": "Bridgeport",
+		"state": "WV",
+		"zip": "26330"
+	},
+	{
+		"value": "PrimeWay Federal CU",
+		"street": "PO Box 278922",
+		"city": "Sacramento",
+		"state": "California",
+		"zip": "95827- 8922"
+	},
+	{
+		"value": "Texas Republic Bank",
+		"street": " N.A.",
+		"city": "2595 Preston Road",
+		"state": " Suite 100",
+		"zip": "Frisco"
+	},
+	{
+		"value": "PrimeWay FCU",
+		"street": "12811 North West Freeway",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77040"
+	},
+	{
+		"value": "MUTUAL SECURITY CREDIT UNION",
+		"street": "PO BOX 2489",
+		"city": "SHELTON",
+		"state": "CT",
+		"zip": "6484"
+	},
+	{
+		"value": "Puget Sound Cooperative Credit Union (PSCCU)",
+		"street": "600 108th Ave NE Suite 1035",
+		"city": "Bellevue",
+		"state": "WA",
+		"zip": "98004-5129"
+	},
+	{
+		"value": "CinemaCar Leasing",
+		"street": "45 OLD Hook Road",
+		"city": "Westwood",
+		"state": "NJ",
+		"zip": "7675"
+	},
+	{
+		"value": "First Interstate Bank",
+		"street": "401 N 31st St",
+		"city": "Billings",
+		"state": "MT",
+		"zip": "59101"
+	},
+	{
+		"value": "Point Breeze Credit Union (Rosedale Office)",
+		"street": "2 Philadelphia Court",
+		"city": "Baltimore",
+		"state": "MD",
+		"zip": "21237"
+	},
+	{
+		"value": "Smart Financial Credit Union",
+		"street": "PO Box 920719",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77292"
+	},
+	{
+		"value": "The Rushcap Group",
+		"street": " Inc",
+		"city": "160 Summit Ave.",
+		"state": "Mont Vale",
+		"zip": "NJ"
+	},
+	{
+		"value": "Westtown Leasing Corporation",
+		"street": "409 Hidden Valley Road",
+		"city": "Media",
+		"state": "PA",
+		"zip": "19063"
+	},
+	{
+		"value": "HEALTHCARE ASSOCIATES CREDIT UNION",
+		"street": "PO BOX 3053",
+		"city": "NAPERVILLE",
+		"state": "IL",
+		"zip": "60566"
+	},
+	{
+		"value": "Wheels Inc",
+		"street": "666 Garland Place",
+		"city": "IL",
+		"state": "IL",
+		"zip": "60016"
+	},
+	{
+		"value": "MICHIGAN SCHOOLS AND GOVERNMENT CREDIT UNION",
+		"street": "40400 Garfield Road",
+		"city": "Clinton Township",
+		"state": "MI",
+		"zip": "48038"
+	},
+	{
+		"value": "VONS FCU",
+		"street": "4455 ARDEN DR",
+		"city": "EL MONTE",
+		"state": "CA",
+		"zip": "91731"
+	},
+	{
+		"value": "LAKE MICHIGAN CREDIT UNION",
+		"street": "PO BOX 2848",
+		"city": "GRAND RAPIDS",
+		"state": "MI",
+		"zip": "49501"
+	},
+	{
+		"value": "Santander Bank NA",
+		"street": "3 Huntington Quad 101N",
+		"city": "Melville",
+		"state": "NY",
+		"zip": "11747"
+	},
+	{
+		"value": "MERCANTILE BANK OF MICHIGAN",
+		"street": "PO BOX 2208",
+		"city": "GRAND RAPIDS",
+		"state": "MI",
+		"zip": "49501"
+	},
+	{
+		"value": "County Schools FCU",
+		"street": "4591 Market St.",
+		"city": "Ventura",
+		"state": "CA",
+		"zip": "93003"
+	},
+	{
+		"value": "CENTRAL ALLIANCE CREDIT UNION",
+		"street": "625 DEERWOOD AVE",
+		"city": "NEENAH",
+		"state": "WI",
+		"zip": "54956"
+	},
+	{
+		"value": "Helena Community Credit Union",
+		"street": "PO Box 159",
+		"city": "Helena",
+		"state": "MT",
+		"zip": "59624"
+	},
+	{
+		"value": "FedFinancial Federal Credit Union",
+		"street": "1616-D Rockville Pike",
+		"city": "Rockville",
+		"state": "MD",
+		"zip": "20852"
+	},
+	{
+		"value": "POWERCO FEDERAL CREDIT UNION",
+		"street": "241 RALPH MCGILL BLVD NE",
+		"city": "ATLANTA",
+		"state": "GA",
+		"zip": "30308"
+	},
+	{
+		"value": "Neighborhood Credit Union",
+		"street": "PO Box 276954",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "California state & Federal Employees Credit Union (#20)",
+		"street": "PO BOX 1268",
+		"city": "Eureka",
+		"state": "CA",
+		"zip": "95502"
+	},
+	{
+		"value": "CINCO FFCCU",
+		"street": "49 William Howard Taft Rd.",
+		"city": "Cincinnati",
+		"state": "OH",
+		"zip": "45219"
+	},
+	{
+		"value": "Citizens National Bank (Hillsboro TX)",
+		"street": "PO Box 404",
+		"city": "Hillsboro",
+		"state": "TX",
+		"zip": "76645-0404"
+	},
+	{
+		"value": "SMW 104 FCU",
+		"street": "PO Box 2278",
+		"city": "San Leandro",
+		"state": "CA",
+		"zip": "94577"
+	},
+	{
+		"value": "Communication FCU",
+		"street": "4141 NW Expressway Suite 200",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73116"
+	},
+	{
+		"value": "Heritage Bank of Nevada",
+		"street": "2330 S. Virginia St.",
+		"city": "Reno",
+		"state": "NV",
+		"zip": "89502"
+	},
+	{
+		"value": "Emkay Inc.",
+		"street": "805 W. Thorndale Ave",
+		"city": "Itasca",
+		"state": "IL",
+		"zip": "60143"
+	},
+	{
+		"value": "Nationwide Bank",
+		"street": "6400 Main St. Ste. 201",
+		"city": "Amherst",
+		"state": "NY",
+		"zip": "14221"
+	},
+	{
+		"value": "DUKE UNIVERSITY FEDERAL CREDIT UNION",
+		"street": "2200 W MAIN ST STE L100",
+		"city": "DURHAM",
+		"state": "NC",
+		"zip": "27705"
+	},
+	{
+		"value": "Wells Fargo NA",
+		"street": "PO Box 997517",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95899-7517"
+	},
+	{
+		"value": "Generations Community Federal Credit Union",
+		"street": "PO Box 791870",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78279"
+	},
+	{
+		"value": "NIH Federal Credit Union",
+		"street": "PO Box 6475",
+		"city": "Rockville",
+		"state": "MD",
+		"zip": "20849"
+	},
+	{
+		"value": "Schools Financial Credit Union",
+		"street": "P.O. Box 526001",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95852"
+	},
+	{
+		"value": "Doering Leasing Co.",
+		"street": "Doering Leasing Co. 15300 w Capitol drive",
+		"city": "Brookfield",
+		"state": "WI",
+		"zip": "53005"
+	},
+	{
+		"value": "Alliant Credit Union",
+		"street": "PO Box 255388",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95865"
+	},
+	{
+		"value": "PA Central Federal Credit Union",
+		"street": "959 East Park Drive",
+		"city": "Harrisburg",
+		"state": "PA",
+		"zip": "17111"
+	},
+	{
+		"value": "SAFE Credit Union",
+		"street": "2295 Iron Point Road Ste 100",
+		"city": "Folsom",
+		"state": "CA",
+		"zip": "95630"
+	},
+	{
+		"value": "Kern FCU",
+		"street": "PO BX 1667",
+		"city": "Bakersfield",
+		"state": "CA",
+		"zip": "93302"
+	},
+	{
+		"value": "Oregonians Credit Union",
+		"street": "6915 SE Lake Road",
+		"city": "Milwaukie",
+		"state": "OR",
+		"zip": "97267"
+	},
+	{
+		"value": "Sea West Coast Guard FCU",
+		"street": "PO BX 4949",
+		"city": "oakland",
+		"state": "CA",
+		"zip": "94605"
+	},
+	{
+		"value": "Evan Paul Auto Capital",
+		"street": "1805 PLACENTIA AVE.",
+		"city": "COSTA MESA",
+		"state": "CA",
+		"zip": "92627"
+	},
+	{
+		"value": "Technicolor Federal Credit Union",
+		"street": "434 W. Alameda Ave",
+		"city": "Burbank",
+		"state": "CA",
+		"zip": "91506"
+	},
+	{
+		"value": "OU Federal Credit Union",
+		"street": "PO Box GG",
+		"city": "Norman",
+		"state": "OK",
+		"zip": "73070"
+	},
+	{
+		"value": "Knoxville TVA ECU",
+		"street": "PO BX 15994",
+		"city": "Knoxville",
+		"state": "TN",
+		"zip": "37901"
+	},
+	{
+		"value": "Marquette Community Federal Credit Union",
+		"street": "1230 W Washington St.",
+		"city": "Marquette",
+		"state": "MI",
+		"zip": "49855"
+	},
+	{
+		"value": "Alliance CU",
+		"street": "PO BOX 18460",
+		"city": "SAN JOSE",
+		"state": "CA",
+		"zip": "95158"
+	},
+	{
+		"value": "M2 Lease Funds",
+		"street": " LLC",
+		"city": "175 N Patrick Blvd",
+		"state": " Ste 140",
+		"zip": "Brookfield"
+	},
+	{
+		"value": "Utah First Federal Credit Union",
+		"street": "PO Box 2197",
+		"city": "Salt Lake city",
+		"state": "UT",
+		"zip": "84110"
+	},
+	{
+		"value": "TRAVIS CU",
+		"street": "PO BX 2069",
+		"city": "VACAVILLE",
+		"state": "CA",
+		"zip": "95696"
+	},
+	{
+		"value": "AFFINITY PLUS FCU",
+		"street": "PO BOX 20650",
+		"city": "LEHIGH VALLEY",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "Illinois Community Credit Union",
+		"street": "1500 Barber Greene Rd.",
+		"city": "DeKalb",
+		"state": "IL",
+		"zip": "60178"
+	},
+	{
+		"value": "Hiway Federal Credit Union",
+		"street": "111 Empire Drive",
+		"city": "St. Paul",
+		"state": "MN",
+		"zip": "55103"
+	},
+	{
+		"value": "RTP Federal Credit Union",
+		"street": "P.O. Box 12807",
+		"city": "Research Triangle Park",
+		"state": "NC",
+		"zip": "27709"
+	},
+	{
+		"value": "ALTRA FEDERAL CREDIT UNION",
+		"street": "1700 OAK FOREST DR",
+		"city": "ONALASKA",
+		"state": "WI",
+		"zip": "54650"
+	},
+	{
+		"value": "McGraw-Hill Federal Credit Union",
+		"street": "120 Windsor Center Drive",
+		"city": "East Windsor",
+		"state": "NJ",
+		"zip": "8520"
+	},
+	{
+		"value": "First Community Credit Union",
+		"street": "P.O. Box 1030",
+		"city": "Chesterfield",
+		"state": "MO",
+		"zip": "83006"
+	},
+	{
+		"value": "TrustMark National Bank",
+		"street": "7980 HWY 51 N",
+		"city": "Millington",
+		"state": "TN",
+		"zip": "38053"
+	},
+	{
+		"value": "DEXSTA FEDERAL CREDIT UNION",
+		"street": "300 FOULK RD STE 100",
+		"city": "WILMINGTON",
+		"state": "DE",
+		"zip": "19803"
+	},
+	{
+		"value": "LINN AREA CREDIT UNION",
+		"street": "3015 BLAIRS FERRY RD NE",
+		"city": "CEDAR RAPIDS",
+		"state": "IA",
+		"zip": "52402"
+	},
+	{
+		"value": "SunTrust Leasing Corporation",
+		"street": "211 Perimeter Center Pkwy Suite 100",
+		"city": "Atlanta",
+		"state": "GA",
+		"zip": "30346"
+	},
+	{
+		"value": "My Credit Union",
+		"street": "PO BX 5824",
+		"city": "REDWOOD city",
+		"state": "CA",
+		"zip": "94063"
+	},
+	{
+		"value": "Liberty Bay Credit Union",
+		"street": "350 Granite Street Suite 1102",
+		"city": "Braintree",
+		"state": "MA",
+		"zip": "02184-4999"
+	},
+	{
+		"value": "DEPARTMENT OF LABOR FCU",
+		"street": "P. O. BOX 50",
+		"city": "MERRIFIELD",
+		"state": "VA",
+		"zip": "22116"
+	},
+	{
+		"value": "SAC Federal Credit Union",
+		"street": "7148 Towne Center Parkway",
+		"city": "Papillion",
+		"state": "NE",
+		"zip": "68046"
+	},
+	{
+		"value": "Charter Oak Credit Union",
+		"street": "1055 Hartford Turnpike",
+		"city": "Waterford",
+		"state": "CT",
+		"zip": "6385"
+	},
+	{
+		"value": "Harborstone Credit Union",
+		"street": "PO Box 4207",
+		"city": "Tacoma",
+		"state": "WA",
+		"zip": "98438-0207"
+	},
+	{
+		"value": "Parsons FCU",
+		"street": "100 W. Walnut Street",
+		"city": "Pasadena",
+		"state": "CA",
+		"zip": "91124"
+	},
+	{
+		"value": "POPA FCU",
+		"street": "13304 Alondra Blvd 1st FLR",
+		"city": "Cerritos",
+		"state": "CA",
+		"zip": "90703"
+	},
+	{
+		"value": "FAIRWINDS CREDIT UNION",
+		"street": "3075 NORTH ALAFAYA TRAIL",
+		"city": "ORLANDO",
+		"state": "FL",
+		"zip": "32826"
+	},
+	{
+		"value": "Sharonview Federal Credit Union",
+		"street": "PO Box 2070",
+		"city": "Fort Mill",
+		"state": "SC",
+		"zip": "29716"
+	},
+	{
+		"value": "Columbia Credit Union",
+		"street": "PO Box 324",
+		"city": "Vancouver",
+		"state": "WA",
+		"zip": "98666"
+	},
+	{
+		"value": "Ascend Federal Credit Union",
+		"street": "P.O. Box 1210 520 Airpark Dr.",
+		"city": "Tullahoma",
+		"state": "TN",
+		"zip": "37388"
+	},
+	{
+		"value": "REALTORS FCU",
+		"street": "PO BOX 277472",
+		"city": "SACRAMENTO",
+		"state": "CA",
+		"zip": "95827"
+	},
+	{
+		"value": "SOUTHLAND CU",
+		"street": "PO BX 3003",
+		"city": "LOS ALAMITOS",
+		"state": "CA",
+		"zip": "90720"
+	},
+	{
+		"value": "AMERICAN 1 CREDIT UNION",
+		"street": "718 E MICHIGAN AVE",
+		"city": "JACKSON",
+		"state": "MI",
+		"zip": "49201"
+	},
+	{
+		"value": "TEXAS BANK AND TRUST COMPANY",
+		"street": "PO BOX 3188",
+		"city": "LONGVIEW",
+		"state": "TX",
+		"zip": "75606"
+	},
+	{
+		"value": "Red River Federal Credit Union",
+		"street": "P.O. Box 5909",
+		"city": "Texarkana",
+		"state": "TX",
+		"zip": "75505"
+	},
+	{
+		"value": "Halliburton Employees’ FCU",
+		"street": "703 S 9th St",
+		"city": "Duncan",
+		"state": "OK",
+		"zip": "73533"
+	},
+	{
+		"value": "Kamehameha Credit Union",
+		"street": "1620 N School St #116",
+		"city": "Honolulu",
+		"state": "HI",
+		"zip": "96817"
+	},
+	{
+		"value": "Baxter Credit Union",
+		"street": "340 N. Milwaukee Ave",
+		"city": "VERNON HILLS",
+		"state": "IL",
+		"zip": "60061"
+	},
+	{
+		"value": "BECU",
+		"street": "P.O. Box 97050",
+		"city": "Seattle",
+		"state": "WA",
+		"zip": "98124"
+	},
+	{
+		"value": "UNITED SA FEDERAL CREDIT UNION",
+		"street": "5500 UTSA BLVD",
+		"city": "SAN ANTONIO",
+		"state": "TX",
+		"zip": "78249"
+	},
+	{
+		"value": "First Bank",
+		"street": "600 James South McDonald Blvd",
+		"city": "Hazelwood",
+		"state": "MO",
+		"zip": "63042"
+	},
+	{
+		"value": "Arizona state Credit Union",
+		"street": "2355 W. Pinnacle Peak Rd.",
+		"city": "Phoenix",
+		"state": "AZ",
+		"zip": "95027"
+	},
+	{
+		"value": "Police Federal Credit Union",
+		"street": "9100 Presidential Parkway",
+		"city": "Upper Marlboro",
+		"state": "MD",
+		"zip": "20772"
+	},
+	{
+		"value": "Evansville Teachers Federal Credit Union",
+		"street": "4401 Theater Drive",
+		"city": "Evansville",
+		"state": "IN",
+		"zip": "47716"
+	},
+	{
+		"value": "Sea Air FCU",
+		"street": "PO BX 2648",
+		"city": "SEAL BEACH",
+		"state": "CA",
+		"zip": "90740"
+	},
+	{
+		"value": "US Bank Commercial Collateral",
+		"street": "P.O. Box 3487",
+		"city": "Oshkosh",
+		"state": "WI",
+		"zip": "54903"
+	},
+	{
+		"value": "Cyprus Federal Credit Union",
+		"street": "3876 W Center View Way",
+		"city": "West Jordan",
+		"state": "UT",
+		"zip": "84084"
+	},
+	{
+		"value": "Peace Officers Professional Associations Federal Credit Union",
+		"street": "13304 Alondra Blvd",
+		"city": "Cerritos",
+		"state": "CA",
+		"zip": "90703"
+	},
+	{
+		"value": "KH Network Credit Union",
+		"street": "7740 Paragon Rd",
+		"city": "Dayton",
+		"state": "OH",
+		"zip": "45459-4050"
+	},
+	{
+		"value": "SharronView Federal Credit Union",
+		"street": "PO Box 2070",
+		"city": "",
+		"state": "Fort Mill",
+		"zip": "SC"
+	},
+	{
+		"value": "Teutopolis state Bank",
+		"street": "106 E Main P.O. Box 249",
+		"city": "Teutopolis",
+		"state": "IL",
+		"zip": "62467"
+	},
+	{
+		"value": "Royal Credit Union",
+		"street": "200 Riverfront Terrace",
+		"city": "Eau Claire",
+		"state": "WI",
+		"zip": "54703"
+	},
+	{
+		"value": "AgFed Credit Union",
+		"street": "PO Box 3419",
+		"city": "Alexandria",
+		"state": "VA",
+		"zip": "22302"
+	},
+	{
+		"value": "Nusenda Credit Union",
+		"street": "P.O. Box 8530",
+		"city": "Albuquerque",
+		"state": "NM",
+		"zip": "87198"
+	},
+	{
+		"value": "Bay FCU",
+		"street": "3333 Clares St.",
+		"city": "Capitola",
+		"state": "CA",
+		"zip": "95010"
+	},
+	{
+		"value": "Healthcare Systems Federal Credit Union",
+		"street": "3300 Gallows Road",
+		"city": "Falls Church",
+		"state": "VA",
+		"zip": "22042"
+	},
+	{
+		"value": "Western Alliance Bank",
+		"street": "2701 E Camelback Rd Suite 110",
+		"city": "Pheonix",
+		"state": "AZ",
+		"zip": "85016"
+	},
+	{
+		"value": "REDSTONE FEDERAL CREDIT UNION",
+		"street": "220 WYNN DR.",
+		"city": "HUNTSVILLE",
+		"state": "AL",
+		"zip": "35893"
+	},
+	{
+		"value": "Collins Community Credit Union",
+		"street": "1150 42nd St NE",
+		"city": "Cedar Rapids",
+		"state": "IA",
+		"zip": "52402"
+	},
+	{
+		"value": "First Financial Bank",
+		"street": " N.A.",
+		"city": "Po Box 701",
+		"state": "Abilene",
+		"zip": "TX"
+	},
+	{
+		"value": "Peach state Federal Credit Union",
+		"street": "455 Buford Hwy",
+		"city": "Suwanee",
+		"state": "GA",
+		"zip": "30024"
+	},
+	{
+		"value": "Signature Financial and Leasing",
+		"street": " LLC",
+		"city": "225 Broad Hollow Road #132W",
+		"state": "Melville",
+		"zip": "NY"
+	},
+	{
+		"value": "OneAZ Credit Union",
+		"street": "2355 W. Pinnacle Peak Rd.",
+		"city": "Phoenix",
+		"state": "AZ",
+		"zip": "85027"
+	},
+	{
+		"value": "BankCherokee",
+		"street": "607 S. Smith Avenue",
+		"city": "Saint Paul",
+		"state": "MN",
+		"zip": "55107"
+	},
+	{
+		"value": "San Diego Metropolitan Credit Union",
+		"street": "PO BX 719099",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92171"
+	},
+	{
+		"value": "Healthcare Systems Federal Credit Union",
+		"street": "3300 Gallows Road",
+		"city": "Falls Church",
+		"state": "VA",
+		"zip": "22042"
+	},
+	{
+		"value": "COMMUNITY FINANCIAL CREDIT UNION",
+		"street": "PO BOX 8050",
+		"city": "PLYMOUTH",
+		"state": "MI",
+		"zip": "48170"
+	},
+	{
+		"value": "Valley National Bank",
+		"street": "1445 Valley Rd",
+		"city": "Wayne",
+		"state": "NJ",
+		"zip": "7470"
+	},
+	{
+		"value": "Catholic & Community Credit Union",
+		"street": "1109 Hartman Ln.",
+		"city": "Shiloh",
+		"state": "IL",
+		"zip": "62221"
+	},
+	{
+		"value": "Rock Canyon Bank",
+		"street": "94 East Tabernacle",
+		"city": "St. George",
+		"state": "Utah",
+		"zip": "84770"
+	},
+	{
+		"value": "American United FCU",
+		"street": "PO Box 1030",
+		"city": "West Jordan",
+		"state": "UT",
+		"zip": "84084"
+	},
+	{
+		"value": "Synovus Bank-575",
+		"street": "P O Box 200016",
+		"city": "Kennesaw",
+		"state": "GA",
+		"zip": "30156"
+	},
+	{
+		"value": "ARMY AVIATION CENTER FEDERAL CREDIT UNION",
+		"street": "P O DRAWER 8",
+		"city": "DALEVILLE",
+		"state": "AL",
+		"zip": "36322"
+	},
+	{
+		"value": "Freedom 1st Credit Union",
+		"street": "205 N. Barron St",
+		"city": "Eaton",
+		"state": "OH",
+		"zip": "45320"
+	},
+	{
+		"value": "Abbey Credit Union",
+		"street": " Inc.",
+		"city": "800 Falls Creek Dr.",
+		"state": "Vandalia",
+		"zip": "OH"
+	},
+	{
+		"value": "Coast Hills Credit Union",
+		"street": "7880 Constellation Road",
+		"city": "Vandenberg Village",
+		"state": "CA",
+		"zip": "93436"
+	},
+	{
+		"value": "Essex Bank",
+		"street": "9954 Mayland Drive",
+		"city": "Richmond",
+		"state": "VA",
+		"zip": "23233"
+	},
+	{
+		"value": "Treasury Department Federal Credit Union",
+		"street": "PO BOX 27301",
+		"city": "Washington",
+		"state": "DC",
+		"zip": "20038-7301"
+	},
+	{
+		"value": "Montgomery Country Employees Federal Credit Union",
+		"street": "19785 Crystal Rock Dr. Suite 201",
+		"city": "Germantown",
+		"state": "MD",
+		"zip": "20874"
+	},
+	{
+		"value": "BANK OF AMERICA",
+		"street": " N.A",
+		"city": "70 Batterson Park Road",
+		"state": "Farmington",
+		"zip": "CT"
+	},
+	{
+		"value": "Union National Bank",
+		"street": "101 East Chicago Street",
+		"city": "Elgin",
+		"state": "IL",
+		"zip": "60120"
+	},
+	{
+		"value": "Midwest Members CU",
+		"street": "101 Wesley Dr",
+		"city": "Wood River",
+		"state": "IL",
+		"zip": "62095"
+	},
+	{
+		"value": "Montgomery County Employees Federal Credit Union",
+		"street": "19785 Crystal Rock Dr. Suite 201",
+		"city": "Germantown",
+		"state": "MD",
+		"zip": "20874"
+	},
+	{
+		"value": "Leominster Credit Union",
+		"street": "20 Adams St.",
+		"city": "Leominster",
+		"state": "MA",
+		"zip": "01453-5668"
+	},
+	{
+		"value": "Bank Orion",
+		"street": "5301 44th Ave Dr.",
+		"city": "Moline",
+		"state": "IL",
+		"zip": "61265"
+	},
+	{
+		"value": "Dow Chemical Employees' Credit Union",
+		"street": "PO Box 5639",
+		"city": "Midland",
+		"state": "MI",
+		"zip": "48641"
+	},
+	{
+		"value": "New Resource Bank",
+		"street": "255 California Street",
+		"city": " Suite 600",
+		"state": "San Francisco",
+		"zip": "CA"
+	},
+	{
+		"value": "Webster First Federal Credit Union",
+		"street": "271 Greenwood St PO BOX 70505",
+		"city": "Worcester",
+		"state": "MA",
+		"zip": "1607"
+	},
+	{
+		"value": "FedEx Employees Credit Association",
+		"street": "2731 Nonconnah Blvd",
+		"city": "Memphis",
+		"state": "TN",
+		"zip": "38132"
+	},
+	{
+		"value": "Western Alliance Equipment Finance Inc.",
+		"street": "1 East Washington Street",
+		"city": " Suite 1400",
+		"state": "Phoenix",
+		"zip": "AZ"
+	},
+	{
+		"value": "Vantage Credit Union",
+		"street": "29 Ofallon Square",
+		"city": "O'Fallon",
+		"state": "MO",
+		"zip": "63366"
+	},
+	{
+		"value": "Power Financial Credit Union",
+		"street": "33004 S Dixie Hwy",
+		"city": "Homestead",
+		"state": "FL",
+		"zip": "33034"
+	},
+	{
+		"value": "USX Federal Credit Union",
+		"street": "1293 Freedom Road PO Box 1728",
+		"city": "Cranberry Township",
+		"state": "PA",
+		"zip": "16066"
+	},
+	{
+		"value": "Fed Financial Credit Union",
+		"street": "11233 Lockwood Drive",
+		"city": "Silver Spring",
+		"state": "MD",
+		"zip": "21703"
+	},
+	{
+		"value": "Farmers state Bank",
+		"street": "131 Tower Park Drive",
+		"city": " Suite 100",
+		"state": "Waterloo",
+		"zip": "IA"
+	},
+	{
+		"value": "GCS CU",
+		"street": "3970 Maryville Rd",
+		"city": "Granite city",
+		"state": "IL",
+		"zip": "62040"
+	},
+	{
+		"value": "Idaho Trust Bank",
+		"street": "888 W. Broad Street.",
+		"city": "Boise",
+		"state": "ID",
+		"zip": "83702"
+	},
+	{
+		"value": "Alcon Employees Federal Credit Union",
+		"street": "6201 South Freeway",
+		"city": "Fort Worth",
+		"state": "TX",
+		"zip": "76134"
+	},
+	{
+		"value": "Sunstate Federal Credit Union",
+		"street": "4065 SE 2nd Place",
+		"city": "Gainesville",
+		"state": "FL",
+		"zip": "32615"
+	},
+	{
+		"value": "Robins Fncl CU",
+		"street": "PO BOX 6849",
+		"city": "Warner Robins",
+		"state": "GA",
+		"zip": "31095"
+	},
+	{
+		"value": "HAPO CU",
+		"street": "601 Williams Blvd",
+		"city": "Richland",
+		"state": "WA",
+		"zip": "99354"
+	},
+	{
+		"value": "Northwell Health FCU",
+		"street": "350 Jericho Turnpike",
+		"city": "Jericho",
+		"state": "NY",
+		"zip": "11753"
+	},
+	{
+		"value": "Grant County state Bank",
+		"street": "1717 W. Kem Road",
+		"city": "Marion",
+		"state": "IN",
+		"zip": "46952"
+	},
+	{
+		"value": "1st Choice Credit Union",
+		"street": "315 Auburn Avenue",
+		"city": "Atlanta",
+		"state": "GA",
+		"zip": "30303"
+	},
+	{
+		"value": "Extra Credit Union",
+		"street": "6611 Chicago Road",
+		"city": "Warren",
+		"state": "MI",
+		"zip": "48092"
+	},
+	{
+		"value": "University Credit Union",
+		"street": "13241 SW 136th Street",
+		"city": "Miami",
+		"state": "FL",
+		"zip": "33186"
+	},
+	{
+		"value": "PELCO",
+		"street": " LLC",
+		"city": "825 Steneri Way",
+		"state": "Sparks",
+		"zip": "NV"
+	},
+	{
+		"value": "COMMUNITY CREDIT UNION OF FLORIDA",
+		"street": "1030 SOUTH US 1",
+		"city": "ROCKLEDGE",
+		"state": "FL",
+		"zip": "32955"
+	},
+	{
+		"value": "Plastiq",
+		"street": "1475 Folsom St.",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94103"
+	},
+	{
+		"value": "Day Air Credit Union",
+		"street": "3501 Wilmington Pike",
+		"city": "Kettering",
+		"state": "OH",
+		"zip": "45429"
+	},
+	{
+		"value": "Priority One Credit Union",
+		"street": "1631 Huntington Drive",
+		"city": "South Pasadena",
+		"state": "CA",
+		"zip": "91030"
+	},
+	{
+		"value": "Gold Coast Credit Union",
+		"street": "PO Box 16719",
+		"city": "West Palm Beach",
+		"state": "FL",
+		"zip": "33416"
+	},
+	{
+		"value": "BOKF",
+		"street": " NA DBA Mobank",
+		"city": "PO Box 22117",
+		"state": "Tulsa",
+		"zip": "OK"
+	},
+	{
+		"value": "Augusta VAH Federal Credit Union",
+		"street": "1267 Augusta West Parkway",
+		"city": "Augusta",
+		"state": "GA",
+		"zip": "30909"
+	},
+	{
+		"value": "Investment Savings Bank (ISB)",
+		"street": "1201 8th Avenue PO Box 1965",
+		"city": "Altoona",
+		"state": "PA",
+		"zip": "16602"
+	},
+	{
+		"value": "United Security Bank",
+		"street": "855 M Street",
+		"city": " Suite 130",
+		"state": "Fresno",
+		"zip": "CA"
+	},
+	{
+		"value": "ATLANTA POSTAL CREDIT UNION",
+		"street": "3900 CROWN RD",
+		"city": "ATLANTA",
+		"state": "GA",
+		"zip": "30380"
+	},
+	{
+		"value": "ST PAUL FEDERAL CREDIT UNION",
+		"street": "1330 CONWAY ST STE 200",
+		"city": "SAINT PAUL",
+		"state": "MN",
+		"zip": "55106"
+	},
+	{
+		"value": "XCEL Federal Credit Union",
+		"street": "P.O. BOX 2618",
+		"city": "Secaucus",
+		"state": "NJ",
+		"zip": "7096"
+	},
+	{
+		"value": "ProFed Federal Credit Union",
+		"street": "PO BOX 5466",
+		"city": "Fort Wayne",
+		"state": "IN",
+		"zip": "46895"
+	},
+	{
+		"value": "American Business Bank",
+		"street": "523 W. 6th Street",
+		"city": " STE 900",
+		"state": "Los Angeles",
+		"zip": "CA"
+	},
+	{
+		"value": "NEFCU",
+		"street": "PO Box 924302",
+		"city": "Ft Worth",
+		"state": "TX",
+		"zip": "76124"
+	},
+	{
+		"value": "Heritage Bank",
+		"street": "PO Box 1578",
+		"city": "Olympia",
+		"state": "WA",
+		"zip": "98507"
+	},
+	{
+		"value": "Guaranty Bank | Springfield",
+		"street": " MO",
+		"city": "1341 West Battlefield",
+		"state": "Springfield",
+		"zip": "MO"
+	},
+	{
+		"value": "Heritage Bank",
+		"street": "PO Box 1578",
+		"city": "Olympia",
+		"state": "WA",
+		"zip": "98507"
+	},
+	{
+		"value": "Autoflex Leasing",
+		"street": "558 S Central Expy.",
+		"city": "Richardson",
+		"state": "TX",
+		"zip": "75080"
+	},
+	{
+		"value": "Security Credit Union",
+		"street": "P. O. Box 5160",
+		"city": "Flint",
+		"state": "MI",
+		"zip": "48505-0160"
+	},
+	{
+		"value": "BrightStar Credit Union",
+		"street": "PO Box 8966",
+		"city": "Ft Lauderdale",
+		"state": "FL",
+		"zip": "33310-8966"
+	},
+	{
+		"value": "Grand Bank",
+		"street": "4200 E. Skelly Dr. STE 200",
+		"city": "Tulsa",
+		"state": "OK",
+		"zip": "74135"
+	},
+	{
+		"value": "Stonegate Bank",
+		"street": "400 North Federal Highway",
+		"city": "Pompano Beach",
+		"state": "FL",
+		"zip": "33062"
+	},
+	{
+		"value": "North East Arkansas Federal Credit Union",
+		"street": "2704 Fair Park Blvd",
+		"city": "Jonesboro",
+		"state": "AR",
+		"zip": "72401"
+	},
+	{
+		"value": "Alliance Bank (Red Wing)",
+		"street": "840 Technology Drive",
+		"city": "Red Wing",
+		"state": "MN",
+		"zip": "55066"
+	},
+	{
+		"value": "stella yoo",
+		"street": "",
+		"city": "",
+		"state": "",
+		"zip": ""
+	},
+	{
+		"value": "Miami Firefighters Credit Union",
+		"street": "1111 NW 7 Street",
+		"city": "Miami",
+		"state": "FL",
+		"zip": "33136"
+	},
+	{
+		"value": "OnPoint Community Credit Union",
+		"street": "PO BOX 3750",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97208"
+	},
+	{
+		"value": "Teachers Federal Credit Union",
+		"street": "102 Motor Parkway",
+		"city": "Hauppauge",
+		"state": "NY",
+		"zip": "11788"
+	},
+	{
+		"value": "Foothills Bank",
+		"street": "122 N Cortez Ste 202",
+		"city": "Prescott",
+		"state": "AZ",
+		"zip": "86301"
+	},
+	{
+		"value": "Texas Community Bank",
+		"street": "6721 McPherson Road",
+		"city": "Laredo",
+		"state": "TX",
+		"zip": "78045"
+	},
+	{
+		"value": "Allied First Bank",
+		"street": "3201 Orchard Road",
+		"city": "Oswego",
+		"state": "IL",
+		"zip": "60543"
+	},
+	{
+		"value": "Glacier Hills Credit Union",
+		"street": "2150 S Main St",
+		"city": "West Bend",
+		"state": "WI",
+		"zip": "53095"
+	},
+	{
+		"value": "USPS FCU",
+		"street": "7905 Malcolm Road Suite 311",
+		"city": "Clinton",
+		"state": "MD",
+		"zip": "20735"
+	},
+	{
+		"value": "Gulf Coast Bank",
+		"street": "4310 Johnston St",
+		"city": "Lafayette",
+		"state": "LA",
+		"zip": "70506"
+	},
+	{
+		"value": "U.S. Bank N.A. (Third Party)",
+		"street": "P.O. Box 342",
+		"city": "Oshkosh",
+		"state": "WI",
+		"zip": "54903"
+	},
+	{
+		"value": "Heritage Bank of Commerce",
+		"street": "150 Almaden Blvd",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95113"
+	},
+	{
+		"value": "Simmons First Auto",
+		"street": " Inc.",
+		"city": "PO Box 5639",
+		"state": "Pine Bluff",
+		"zip": "AR"
+	},
+	{
+		"value": "Dallas FCU",
+		"street": "1300 Young Street",
+		"city": "STE. 100",
+		"state": "Dallas",
+		"zip": "TX"
+	},
+	{
+		"value": "DoverPhila Federal Credit Union",
+		"street": "119 Fillmore Ave",
+		"city": "Dover",
+		"state": "OH",
+		"zip": "44622"
+	},
+	{
+		"value": "Honda Federal Credit Union",
+		"street": "19775 state Route 739",
+		"city": "Marysville",
+		"state": "OH",
+		"zip": "43040"
+	},
+	{
+		"value": "M&T Bank (3rd Party Leases)",
+		"street": "PO BOX 17292",
+		"city": "Baltimore",
+		"state": "MD",
+		"zip": "21203"
+	},
+	{
+		"value": "Bank of Tyler A Div of Huntington state Bank",
+		"street": "2120 S. First St.",
+		"city": "Lufkin",
+		"state": "TX",
+		"zip": "75901"
+	},
+	{
+		"value": "Lakestone Bank & Trust",
+		"street": "83 W. Nepessing St. – PO Box 660",
+		"city": "Lapeer",
+		"state": "MI",
+		"zip": "49446"
+	},
+	{
+		"value": "BancorpSouth Bank",
+		"street": "PO BOX 4360",
+		"city": "TUPELO",
+		"state": "MS",
+		"zip": "38802"
+	},
+	{
+		"value": "Dollar Bank",
+		"street": " FSB",
+		"city": "300 W. Tuscarawas",
+		"state": "Canton",
+		"zip": "OH"
+	},
+	{
+		"value": "New Omni Bank",
+		"street": " NA",
+		"city": "1235 S Garfield Ave",
+		"state": "Alhambra",
+		"zip": "CA"
+	},
+	{
+		"value": "Gulf Credit Union",
+		"street": "PO Box 848",
+		"city": "Groves",
+		"state": "TX",
+		"zip": "77619"
+	},
+	{
+		"value": "Premier Financial Services",
+		"street": "47 Sherman Hill Road",
+		"city": "Woodbury",
+		"state": "CT",
+		"zip": "6798"
+	},
+	{
+		"value": "Auto Club Trust",
+		"street": " FSB",
+		"city": "PO Box 1712",
+		"state": "Cockeysville",
+		"zip": "MD"
+	},
+	{
+		"value": "First National Bank Alaska",
+		"street": "P.O. Box 100720",
+		"city": "Anchorage",
+		"state": "AK",
+		"zip": "99510"
+	},
+	{
+		"value": "U MASS FIVE COLLEGE FED CU",
+		"street": "200 WEST GATE CTR DR",
+		"city": "HADLEY",
+		"state": "MA",
+		"zip": "1060"
+	},
+	{
+		"value": "Leyden Credit Union",
+		"street": "2701 North 25th Avenue",
+		"city": "Franklin Park",
+		"state": "IL",
+		"zip": "60131"
+	},
+	{
+		"value": "CrossFirst Bank",
+		"street": "5001 Gaillardia Corporate Place",
+		"city": "Oklahoma city",
+		"state": "OK",
+		"zip": "73142"
+	},
+	{
+		"value": "Fidelity state Bank & Trust Company",
+		"street": "600 South Kansas Avenue",
+		"city": "Topeka",
+		"state": "KS",
+		"zip": "66603"
+	},
+	{
+		"value": "Horizon Bank (Michigan",
+		"street": " Indiana)",
+		"city": "502 Franklin Square",
+		"state": "Michigan city",
+		"zip": "IN"
+	},
+	{
+		"value": "Mocse Federal Credit Union",
+		"street": "3600 Coffee Road",
+		"city": "Modesto",
+		"state": "CA - California",
+		"zip": "95355"
+	},
+	{
+		"value": "Verus Bank of Commerce",
+		"street": "3700 S College Ave",
+		"city": " Unit 102",
+		"state": "Fort Collins",
+		"zip": "CO"
+	},
+	{
+		"value": "Port Washington state Bank",
+		"street": "201 Regal Drive PO Box 247",
+		"city": "Fredonia",
+		"state": "WI",
+		"zip": "53021"
+	},
+	{
+		"value": "SANTA CRUZ CMNTY CU",
+		"street": "324 FRONT ST",
+		"city": "SANTA CRUZ",
+		"state": "Ca",
+		"zip": "95060"
+	},
+	{
+		"value": "United Community Bank",
+		"street": "27 Bull Street",
+		"city": "Savannah",
+		"state": "GA",
+		"zip": "31401"
+	},
+	{
+		"value": "Riegel Federal Credit Union",
+		"street": "515 Milford-Warren Glen Rd",
+		"city": "Milford",
+		"state": "NJ",
+		"zip": "8848"
+	},
+	{
+		"value": "OUR Credit Union-Rochester Rd",
+		"street": "6693 Rochester Rd",
+		"city": "Troy",
+		"state": "MI",
+		"zip": "48085"
+	},
+	{
+		"value": "Alden Credit Union",
+		"street": "710 Gratan St",
+		"city": "Chicopee",
+		"state": "MA",
+		"zip": "1020"
+	},
+	{
+		"value": "MERCY CREDIT UNION",
+		"street": "1444 E SUNSHINE ST",
+		"city": "SPRINGFIELD",
+		"state": "MO",
+		"zip": "65804"
+	},
+	{
+		"value": "First Commonwealth FCU",
+		"street": "P.O. Box 20450",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002-0450"
+	},
+	{
+		"value": "Mid Atlantic Federal Credit Union.",
+		"street": "P.O. Box 2270",
+		"city": "Germantown",
+		"state": "MD",
+		"zip": "20875"
+	},
+	{
+		"value": "SANTANDER BANK N.A.",
+		"street": "PO BOX 961272",
+		"city": "FORT WORTH",
+		"state": "TX",
+		"zip": "76161"
+	},
+	{
+		"value": "Miramar Federal Credit Union",
+		"street": "9494 Miramar Road",
+		"city": "San Diego",
+		"state": "CA",
+		"zip": "92126"
+	},
+	{
+		"value": "state Bank and Trust Company",
+		"street": "401 Clinton St",
+		"city": "Defiance",
+		"state": "OH",
+		"zip": "43512"
+	},
+	{
+		"value": "UW Credit Union",
+		"street": "PO BOX 44963",
+		"city": "Madison",
+		"state": "WI",
+		"zip": "53744"
+	},
+	{
+		"value": "Family Security Credit Union",
+		"street": "2204 Family Security Place",
+		"city": " SW",
+		"state": "Decatur",
+		"zip": "AL"
+	},
+	{
+		"value": "Kemba Credit Union",
+		"street": "P. O. Box 14090",
+		"city": "Cincinnati",
+		"state": "OH",
+		"zip": "45250"
+	},
+	{
+		"value": "Birmingham Bloomfield Credit Union",
+		"street": "576 E. Lincoln",
+		"city": "Birmingham",
+		"state": "MI",
+		"zip": "48009"
+	},
+	{
+		"value": "ConnectOne Bank",
+		"street": "2455 Morris Avenue",
+		"city": "Union",
+		"state": "NJ",
+		"zip": "7083"
+	},
+	{
+		"value": "Heartland Bank and Trust Company",
+		"street": "3501 W. War Memorial Drive",
+		"city": "Peoria",
+		"state": "IL",
+		"zip": "61615"
+	},
+	{
+		"value": "Members Alliance Credit Union",
+		"street": "2550 S Alpine Rd.",
+		"city": "Rockford",
+		"state": "IL",
+		"zip": "61108"
+	},
+	{
+		"value": "America's Christian Credit Union",
+		"street": "2100 E. Route 66",
+		"city": " Suite 100",
+		"state": "Glendora",
+		"zip": "CA"
+	},
+	{
+		"value": "Jersey Shore state Bank",
+		"street": "300 Market St.",
+		"city": "Williamsport",
+		"state": "PA",
+		"zip": "17701"
+	},
+	{
+		"value": "Class Act Federal Credit Union",
+		"street": "3620 Fern Valley Rd.",
+		"city": "Louisville",
+		"state": "KY",
+		"zip": "40219"
+	},
+	{
+		"value": "GFA Federal Credit Union",
+		"street": "229 Parker Street PO Box 468",
+		"city": "Gardner",
+		"state": "MA",
+		"zip": "01440-0468"
+	},
+	{
+		"value": "Itasca Bank & Trust Co.",
+		"street": "308 W Irving Park Rd.",
+		"city": "Itasca",
+		"state": "IL",
+		"zip": "60143"
+	},
+	{
+		"value": "The Partnership FCU",
+		"street": "3268 Progress Way Bldg. 12 MSC-5120",
+		"city": "Wilmington",
+		"state": "OH",
+		"zip": "45177-7700"
+	},
+	{
+		"value": "Pinellas Federal Credit Union",
+		"street": "P O Box 2300",
+		"city": "Largo",
+		"state": "FL",
+		"zip": "33779"
+	},
+	{
+		"value": "Northwest Consumers Federal Credit Union",
+		"street": "2948 Garfield Rd. North",
+		"city": "Traverse city",
+		"state": "MI",
+		"zip": "49686"
+	},
+	{
+		"value": "Mutual Federal",
+		"street": " a division of First Bank Richmond",
+		"city": "2601 Michigan Street",
+		"state": "Sidney",
+		"zip": "OH"
+	},
+	{
+		"value": "SERVISFIRST BANK",
+		"street": "850 SHADES CREEK PKWY STE 200",
+		"city": "BIRMINGHAM",
+		"state": "AL",
+		"zip": "35209"
+	},
+	{
+		"value": "E-Central Credit Union",
+		"street": "990 S. Fair Oaks Ave",
+		"city": "Pasadena",
+		"state": "CA",
+		"zip": "91105"
+	},
+	{
+		"value": "North Brookfield Savings Bank",
+		"street": "35 Summer St.",
+		"city": "North Brookfield",
+		"state": "MA",
+		"zip": "1535"
+	},
+	{
+		"value": "Key Bank N. A. (OH)",
+		"street": "4910 Tiedeman Rd",
+		"city": " 5th Floor",
+		"state": "Brooklyn",
+		"zip": "OH"
+	},
+	{
+		"value": "Connections Credit Union",
+		"street": "249 N 9th St.",
+		"city": "Boise",
+		"state": "ID",
+		"zip": "83702"
+	},
+	{
+		"value": "Northwest Adventist Federal Credit Union",
+		"street": "10333 Southeast Main Street",
+		"city": "Portland",
+		"state": "OR",
+		"zip": "97216"
+	},
+	{
+		"value": "Associated Healthcare Credit Union",
+		"street": "360 Sherman St. STE 360",
+		"city": "St. Paul",
+		"state": "MN",
+		"zip": "55102"
+	},
+	{
+		"value": "Credit Union of Texas",
+		"street": "8131 LBJ Freeway STE 500",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75251"
+	},
+	{
+		"value": "Mount Olive Baptist Church Federal Credit Union",
+		"street": "514 N. L. Robinson Dr.",
+		"city": "Arlington",
+		"state": "TX",
+		"zip": "76011"
+	},
+	{
+		"value": "Frost Bank",
+		"street": "100 W Houston Street",
+		"city": "San Antonio",
+		"state": "TX",
+		"zip": "78205"
+	},
+	{
+		"value": "Commonwealth Bank & Trust",
+		"street": "4350 Brownsboro Rd.",
+		"city": " # 310",
+		"state": "Louisville",
+		"zip": "KY"
+	},
+	{
+		"value": "ALPINE BANK",
+		"street": "400 7th St. S.",
+		"city": "Rifle",
+		"state": "CO",
+		"zip": "81650"
+	},
+	{
+		"value": "Illinois state Police Federal Credit Union",
+		"street": "730 Engineering Avenue",
+		"city": "Springfield",
+		"state": "IL",
+		"zip": "62703"
+	},
+	{
+		"value": "United Bank (in CT and MA)",
+		"street": "855 Enfield St",
+		"city": "Enfield",
+		"state": "CT",
+		"zip": "6082"
+	},
+	{
+		"value": "BOKF",
+		"street": " NA dba Bank of Albuquerque",
+		"city": "PO Box 22117",
+		"state": "Tulsa",
+		"zip": "OK"
+	},
+	{
+		"value": "GSA Federal Credit Union",
+		"street": "P.O. Box 27559",
+		"city": "Washington",
+		"state": "DC",
+		"zip": "20038"
+	},
+	{
+		"value": "Aurora Federal Credit Union",
+		"street": "6 Abilene St",
+		"city": "Aurora",
+		"state": "CO",
+		"zip": "80011"
+	},
+	{
+		"value": "Safe 1 Credit Union",
+		"street": "1400 Mill Rock Way",
+		"city": "Bakersfield",
+		"state": "CA",
+		"zip": "93311"
+	},
+	{
+		"value": "FIRST FLORIDA CREDIT UNION",
+		"street": "500 WEST 1ST ST",
+		"city": "JACKSONVILLE",
+		"state": "FL",
+		"zip": "32202"
+	},
+	{
+		"value": "PremierOne CU",
+		"street": "140 Asbury St.",
+		"city": "San Jose",
+		"state": "CA",
+		"zip": "95110"
+	},
+	{
+		"value": "F&M Bank",
+		"street": "1216 Piedmont Rd N.",
+		"city": "Piedmont",
+		"state": "OK",
+		"zip": "73078"
+	},
+	{
+		"value": "Eastman Credit Union",
+		"street": "PO Box 1040",
+		"city": "Wilmington",
+		"state": "OH",
+		"zip": "45177"
+	},
+	{
+		"value": "Adventure Credit Union",
+		"street": "P.O. Box 895",
+		"city": "Grand Rapids",
+		"state": "MI",
+		"zip": "49518-0895"
+	},
+	{
+		"value": "BOSTON FIREFIGHTERS CREDIT UNION",
+		"street": "60 HALLET ST",
+		"city": "DORCHESTER",
+		"state": "MA",
+		"zip": "2124"
+	},
+	{
+		"value": "Professional Fire Fighters Credit Union",
+		"street": "9410 Healthplex Drive",
+		"city": "Shreveport",
+		"state": "LA",
+		"zip": "71106"
+	},
+	{
+		"value": "Pinnacle Bank (TN)",
+		"street": "150 3rd Avenue South",
+		"city": "Nashville",
+		"state": "TN",
+		"zip": "37201"
+	},
+	{
+		"value": "Sikorsky Financial Credit Union Inc.",
+		"street": "1000 Oronoque Lane",
+		"city": "Stratford",
+		"state": "CT",
+		"zip": "6614"
+	},
+	{
+		"value": "Greer state Bank",
+		"street": "PO Box 1029",
+		"city": "Greer",
+		"state": "SC",
+		"zip": "29652"
+	},
+	{
+		"value": "Eagle Community CU",
+		"street": "PO BX 5196",
+		"city": "Lake Forest",
+		"state": "CA",
+		"zip": "92609"
+	},
+	{
+		"value": "Silver state Schools Credit Union",
+		"street": "PO BX 12037",
+		"city": "LAS VEGAS",
+		"state": "NV",
+		"zip": "89112"
+	},
+	{
+		"value": "Alliance Bank",
+		"street": "55 E 5th St.",
+		"city": "St. Paul",
+		"state": "MN",
+		"zip": "55101"
+	},
+	{
+		"value": "Nextgear Capital Inc.",
+		"street": "1320 city Center Dr 100A",
+		"city": "Carmel",
+		"state": "IN",
+		"zip": "46032"
+	},
+	{
+		"value": "SEACOAST NATIONAL BANK",
+		"street": "815 COLORADO AVE STE 250",
+		"city": "STUART",
+		"state": "FL",
+		"zip": "34994"
+	},
+	{
+		"value": "Ukrainian Selfreliance Federal Credit Union",
+		"street": "1729 Cottman Avenue",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19111"
+	},
+	{
+		"value": "Alpine Credit Union",
+		"street": "1510 N state St.",
+		"city": "Orem",
+		"state": "UT",
+		"zip": "84057"
+	},
+	{
+		"value": "The Wirt-Rivette Group",
+		"street": "3520 Davenport Ave.",
+		"city": "Saginaw",
+		"state": "MI",
+		"zip": "48602"
+	},
+	{
+		"value": "RTN Federal Credit Union",
+		"street": "600 Main Street",
+		"city": "Waltham",
+		"state": "MA",
+		"zip": "2452"
+	},
+	{
+		"value": "SANTANDER BANK",
+		"street": " NA",
+		"city": "450 PENN ST",
+		"state": "READING",
+		"zip": "FL"
+	},
+	{
+		"value": "VA DESERT PACIFIC FCU",
+		"street": "5901 E 7TH ST",
+		"city": " BLDG 4",
+		"state": "LONG BEACH",
+		"zip": "CA"
+	},
+	{
+		"value": "South Metro Federal Credit Union",
+		"street": "2573 Credit Union Drive",
+		"city": "Prior Lake",
+		"state": "MN",
+		"zip": "55372"
+	},
+	{
+		"value": "San Francisco Fire Cr Un",
+		"street": "3201 California Street",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94118"
+	},
+	{
+		"value": "Suntrust Bank DBA Lightstream",
+		"street": "PO BOX 22530",
+		"city": "Lehigh Valley",
+		"state": "PA",
+		"zip": "18002"
+	},
+	{
+		"value": "First Bank",
+		"street": "201 Vernon Street",
+		"city": "Roseville",
+		"state": "CA",
+		"zip": "95678"
+	},
+	{
+		"value": "Digital FCU",
+		"street": "220 Donald Lynch Blvd",
+		"city": "marlborough",
+		"state": "MA",
+		"zip": "1752"
+	},
+	{
+		"value": "Vectra Bank",
+		"street": "2000 S. Colorado Blvd Suite 2-1200",
+		"city": "Denver",
+		"state": "CO",
+		"zip": "80222"
+	},
+	{
+		"value": "city National Bank of Colorado city",
+		"street": "228 Elm Street",
+		"city": "Colorado city",
+		"state": "TX",
+		"zip": "79512"
+	},
+	{
+		"value": "Travis County Credit Union",
+		"street": "1101 North Interstate 35",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78702"
+	},
+	{
+		"value": "BAYER HERITAGE FEDERAL CREDIT UNION",
+		"street": "17612 ENERGY RD",
+		"city": "PROCTOR",
+		"state": "WV",
+		"zip": "26055"
+	},
+	{
+		"value": "MARRIOTT EMPLOYEES' FEDERAL CREDIT UNION",
+		"street": "PO BOX 6006",
+		"city": "BETHESDA",
+		"state": "MD",
+		"zip": "20827"
+	},
+	{
+		"value": "Valley Communities Credit Union",
+		"street": "PO Box 127",
+		"city": "Mosinee",
+		"state": "WI",
+		"zip": "54455"
+	},
+	{
+		"value": "Dutch Point Credit Union",
+		"street": "195 Silas Deane Highway",
+		"city": "Wethersfield",
+		"state": "CT",
+		"zip": "6109"
+	},
+	{
+		"value": "BFG Federal Credit Union",
+		"street": "445 S. Main St",
+		"city": "Akron",
+		"state": "OH",
+		"zip": "44311"
+	},
+	{
+		"value": "Gerber Federal Credit Union",
+		"street": "PO Box 116",
+		"city": "Fremont",
+		"state": "MI",
+		"zip": "49412"
+	},
+	{
+		"value": "OE Federal Credit Union",
+		"street": "PO Box 5073",
+		"city": "Livermore",
+		"state": "CA",
+		"zip": "94551"
+	},
+	{
+		"value": "Rancho FCU",
+		"street": "PO BX 2728",
+		"city": "Downey",
+		"state": "CA",
+		"zip": "90242"
+	},
+	{
+		"value": "First International Bank & Trust",
+		"street": "1350 13th Ave E",
+		"city": "West Fargo",
+		"state": "ND",
+		"zip": "58078"
+	},
+	{
+		"value": "Andigo (Formerly MECU)",
+		"street": "1205 East Algonquin Road",
+		"city": "Schaumburg",
+		"state": "IL",
+		"zip": "60196"
+	},
+	{
+		"value": "Home city Federal Savings Bank",
+		"street": "2454 North Limestone Street",
+		"city": "Springfield",
+		"state": "Ohio",
+		"zip": "45503"
+	},
+	{
+		"value": "River Valley Credit Union",
+		"street": "2098 S. Alex Rd",
+		"city": "Dayton",
+		"state": "OH",
+		"zip": "45449"
+	},
+	{
+		"value": "Starion Bank",
+		"street": "333 N 4th Street",
+		"city": "Bismarck",
+		"state": "ND",
+		"zip": "58502"
+	},
+	{
+		"value": "CME Federal Credit Union",
+		"street": "P.O. Box 267121",
+		"city": "Columbus",
+		"state": "OH",
+		"zip": "43226"
+	},
+	{
+		"value": "Mutual Credit Union",
+		"street": "PO Box 25",
+		"city": "Vicksburg",
+		"state": "MS",
+		"zip": "39181"
+	},
+	{
+		"value": "Mokelumne Federal Credit Union",
+		"street": "10628 TRINITY PARKWAY",
+		"city": " SUITE A",
+		"state": "Stockton",
+		"zip": "CA"
+	},
+	{
+		"value": "1st Northern California Credit Union",
+		"street": "P.O. Box 509",
+		"city": "Martinez",
+		"state": "CA",
+		"zip": "94553-0144"
+	},
+	{
+		"value": "Allied Healthcare FCU",
+		"street": "PO BX 93124",
+		"city": "Long Beach",
+		"state": "CA",
+		"zip": "90809"
+	},
+	{
+		"value": "IH Mississippi Valley Credit Union",
+		"street": "PO BOX 1010",
+		"city": "Moline",
+		"state": "IL",
+		"zip": "51255-1010"
+	},
+	{
+		"value": "OCALA COMMUNITY CREDIT UNION",
+		"street": "2675 SE 36TH AVE",
+		"city": "OCALA",
+		"state": "FL",
+		"zip": "34471"
+	},
+	{
+		"value": "Chemcel Federal Credit Union",
+		"street": "7001 Saratoga Blvd",
+		"city": "Corpus Christi",
+		"state": "TX",
+		"zip": "78414"
+	},
+	{
+		"value": "Millennium Bank",
+		"street": "2077 Miner St.",
+		"city": "Des Plaines",
+		"state": "IL",
+		"zip": "60016"
+	},
+	{
+		"value": "Numerica Credit Union",
+		"street": "P.O. Box 4000",
+		"city": "Spokane Valley",
+		"state": "WA",
+		"zip": "99037"
+	},
+	{
+		"value": "Muncy Bank and Trust",
+		"street": "2 N Main St",
+		"city": "Muncy",
+		"state": "PA",
+		"zip": "17756"
+	},
+	{
+		"value": "Elements Financial CU",
+		"street": "PO Box 7123",
+		"city": "Indianapolis",
+		"state": "IN",
+		"zip": "46207"
+	},
+	{
+		"value": "Purdue Federal Credit Union",
+		"street": "PO BOX 1950",
+		"city": "WEST LAFAYETTE",
+		"state": "IN",
+		"zip": "47906"
+	},
+	{
+		"value": "Enterprise Holding",
+		"street": " LLC.",
+		"city": "600 Corporate Park Drive",
+		"state": "St. Louis",
+		"zip": "MO"
+	},
+	{
+		"value": "Palmetto Trust Federal Credit Union",
+		"street": "Post Office Box 2028",
+		"city": "Columbia",
+		"state": "South Carolina",
+		"zip": "29202-2028"
+	},
+	{
+		"value": "Family First Federal Credit Union",
+		"street": "2520 Browncroft Blvd",
+		"city": "Rochester",
+		"state": "NY",
+		"zip": "14625"
+	},
+	{
+		"value": "First American Commercial Bancorp",
+		"street": " Inc.",
+		"city": "255 Woodcliff Dr.",
+		"state": "Fairport",
+		"zip": "NY"
+	},
+	{
+		"value": "Reliant Community Credit Union",
+		"street": "PO Box 40",
+		"city": "Sodus",
+		"state": "NY",
+		"zip": "14551-0040"
+	},
+	{
+		"value": "Centerstate Bank of Fl N.A.",
+		"street": "Po Box 9602",
+		"city": "Winter Haven",
+		"state": "FL",
+		"zip": "33883"
+	},
+	{
+		"value": "Island Federal Credit Union",
+		"street": "120 Motor Parkway",
+		"city": "Hauppauge",
+		"state": "NY",
+		"zip": "11788-5160"
+	},
+	{
+		"value": "Greater TEXAS Federal Credit Union",
+		"street": "6411 North Lamar Blvd.",
+		"city": "Austin",
+		"state": "TX",
+		"zip": "78752"
+	},
+	{
+		"value": "First National Bank of Louisiana",
+		"street": "128 N Parkerson Ave.",
+		"city": "Crowley",
+		"state": "LA",
+		"zip": "70526"
+	},
+	{
+		"value": "First National Bank of Bastrop",
+		"street": "489 Highway 71 West",
+		"city": " P.O. Drawer F",
+		"state": "Bastrop",
+		"zip": "TX"
+	},
+	{
+		"value": "GTE FEDERAL CREDIT UNION",
+		"street": "PO BOX 172599",
+		"city": "TAMPA",
+		"state": "FL",
+		"zip": "33672"
+	},
+	{
+		"value": "American Bank",
+		"street": "800 N Shoreline Blvd.",
+		"city": " 100 S Tower",
+		"state": "Corpus Christi",
+		"zip": "TX"
+	},
+	{
+		"value": "NuVision FCU",
+		"street": "7812 Edinger Avenue",
+		"city": "Huntington Beach",
+		"state": "CA - California",
+		"zip": "92647"
+	},
+	{
+		"value": "BCM Federal Credit Union",
+		"street": "One Baylor Plaza",
+		"city": "Houston",
+		"state": "TX",
+		"zip": "77030"
+	},
+	{
+		"value": "Peoples United Bank",
+		"street": "125 Daniel Webster Highway",
+		"city": "Nashua",
+		"state": "NH",
+		"zip": "3060"
+	},
+	{
+		"value": "Third Coast Bank SSB",
+		"street": "20202 Highway 59 North Suite 190",
+		"city": "Humble",
+		"state": "TX",
+		"zip": "77338"
+	},
+	{
+		"value": "ZB",
+		"street": " N.A.DBA Amegy Bank",
+		"city": "PO Box 692425",
+		"state": "San Antonio",
+		"zip": "TX"
+	},
+	{
+		"value": "Glendale Area Schools Federal Credit Union",
+		"street": "1800 Broadview Drive",
+		"city": "Glendale",
+		"state": "CA",
+		"zip": "91208"
+	},
+	{
+		"value": "DATCU Credit Union",
+		"street": "PO Box 827",
+		"city": "Denton",
+		"state": "TX",
+		"zip": "76201"
+	},
+	{
+		"value": "Chicago Patrolmen’s Federal Credit Union",
+		"street": "1407 W. Washington Blvd.",
+		"city": "Chicago",
+		"state": "IL",
+		"zip": "60607"
+	},
+	{
+		"value": "state Employee Federal Credit Union",
+		"street": "700 Patroon Creek Blvd",
+		"city": "Albany",
+		"state": "NY",
+		"zip": "12206"
+	},
+	{
+		"value": "FSU Credit Union",
+		"street": "PO Box 182499",
+		"city": "Tallahassee",
+		"state": "FL",
+		"zip": "32318-0022"
+	},
+	{
+		"value": "Goldenwest Credit Union",
+		"street": "5025 South Adams Ave",
+		"city": "South Ogden",
+		"state": "UT",
+		"zip": "84403"
+	},
+	{
+		"value": "Security Plus FCU",
+		"street": "1514 Woodlawn Dr",
+		"city": "Baltimore",
+		"state": "MD",
+		"zip": "21207"
+	},
+	{
+		"value": "Burns & McDonnell Credit Union",
+		"street": "9400 AWard Pkwy Suite 624",
+		"city": "Kansas city",
+		"state": "MO",
+		"zip": "64114"
+	},
+	{
+		"value": "Medford Municipal Employees Federal Credit Union",
+		"street": "85 George P. Hassett Drive",
+		"city": " Room 200",
+		"state": "Medford",
+		"zip": "MA"
+	},
+	{
+		"value": "Cooperative Federal Credit Union",
+		"street": "39 Broadway",
+		"city": "Woodridge",
+		"state": "NY",
+		"zip": "12789"
+	},
+	{
+		"value": "CITIZENS BUSINESS BANK",
+		"street": "3110 INLAND EMPIRE BLVD B",
+		"city": "ONTARIO",
+		"state": "CA",
+		"zip": "91764"
+	},
+	{
+		"value": "Plaza Bank",
+		"street": "18200 Von Karman Ave Ste 500",
+		"city": "Irvine",
+		"state": "CA",
+		"zip": "92612"
+	},
+	{
+		"value": "AC AUTOPAY",
+		"street": " LLC",
+		"city": "PO BOX 40409",
+		"state": "DENVER",
+		"zip": "CO"
+	},
+	{
+		"value": "Atlas Leasing",
+		"street": " Inc",
+		"city": "500 N. Federal Hwy",
+		"state": "Pompano Beach",
+		"zip": "FL"
+	},
+	{
+		"value": "UARK Federal Credit Union",
+		"street": "PO BOX 10260",
+		"city": "Fayetteville",
+		"state": "AR",
+		"zip": "72703"
+	},
+	{
+		"value": "FRANKLIN JOHNSTOWN FEDERAL CREDIT UNION",
+		"street": "310 BLOOMFIELD STREET",
+		"city": "JOHNSTOWN",
+		"state": "PA",
+		"zip": "15904"
+	},
+	{
+		"value": "allU.S. Credit Union",
+		"street": "1410 N Main St.",
+		"city": "Salinas",
+		"state": "CA",
+		"zip": "93906"
+	},
+	{
+		"value": "Heritage South Credit Union",
+		"street": "PO Box 128",
+		"city": "Sylacauga",
+		"state": "AL",
+		"zip": "35150"
+	},
+	{
+		"value": "Security Trust & Savings Bank",
+		"street": "601 Lake Ave",
+		"city": "Storm Lake",
+		"state": "IA",
+		"zip": "50588"
+	},
+	{
+		"value": "CONNECT CREDIT UNION",
+		"street": "3400 W COMMERCIAL BLVD",
+		"city": "FT LAUDERDALE",
+		"state": "FL",
+		"zip": "33309"
+	},
+	{
+		"value": "Maine state Credit Union",
+		"street": "PO Box 5659",
+		"city": "Augusta",
+		"state": "Maine",
+		"zip": "4332"
+	},
+	{
+		"value": "ARI",
+		"street": "4001 Leadenhall Road P.O. Box 5039",
+		"city": "Mount Laurel",
+		"state": "NJ",
+		"zip": "8054"
+	},
+	{
+		"value": "Fayette Federal Employees Federal Credit Union",
+		"street": "364 Morgantowm Street",
+		"city": "Uniontown",
+		"state": "PA",
+		"zip": "15401"
+	},
+	{
+		"value": "Dupaco Community Credit Union",
+		"street": "3299 Hillcrest Road",
+		"city": "Dubuque",
+		"state": "IA",
+		"zip": "52004"
+	},
+	{
+		"value": "Essex County Teachers Federal Credit Union",
+		"street": "125 Franklin St",
+		"city": "Bloomfield",
+		"state": "NJ",
+		"zip": "7003"
+	},
+	{
+		"value": "Donlen Corporation",
+		"street": "3000 Lakeside Drive",
+		"city": "Bannockbum",
+		"state": "IL",
+		"zip": "60015"
+	},
+	{
+		"value": "Elements Fleet Management",
+		"street": "940 Ridgebrook Road",
+		"city": "Sparks",
+		"state": "MD",
+		"zip": "21152-9390"
+	},
+	{
+		"value": "LAUNCH FCU",
+		"street": "300 S PLUMOSA ST",
+		"city": "MERRITT",
+		"state": "FL",
+		"zip": "32952"
+	},
+	{
+		"value": "Century Bank of Georgia",
+		"street": "215 E Main St",
+		"city": "Cartersville",
+		"state": "GA",
+		"zip": "30120"
+	},
+	{
+		"value": "New South Credit Union",
+		"street": "3261 N. Mall Rd",
+		"city": "Knoxville",
+		"state": "TN",
+		"zip": "37924"
+	},
+	{
+		"value": "BOKF",
+		"street": " Na DBA Bank of Texas",
+		"city": "PO Box 22117",
+		"state": "Tulsa",
+		"zip": "OK"
+	},
+	{
+		"value": "Tri-state Bank of Memphis",
+		"street": "180 S. Main St.",
+		"city": "Memphis",
+		"state": "TN",
+		"zip": "88108"
+	},
+	{
+		"value": "LeasePlan USA",
+		"street": "1165 Sanctuary Parkway",
+		"city": "Alpharetta",
+		"state": "GA",
+		"zip": "30009"
+	},
+	{
+		"value": "Ardent Credit Union",
+		"street": "1500 Spring Garden Street",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19130"
+	},
+	{
+		"value": "Bank of Coushatta",
+		"street": "PO Box 1360",
+		"city": "Coushatta",
+		"state": "LA",
+		"zip": "71019"
+	},
+	{
+		"value": "American National Bank of Texas",
+		"street": "1101 East Plano Parkway",
+		"city": " STE E",
+		"state": "Plano",
+		"zip": "TX"
+	},
+	{
+		"value": "Fresno County Federal Credit Union",
+		"street": "P.O. Box 8027",
+		"city": "Fresno",
+		"state": "CA - California",
+		"zip": "93747"
+	},
+	{
+		"value": "Trinity Capital Bank of Texas",
+		"street": "1301 N. Riverfront Blvd. Ste. 100",
+		"city": "Dallas",
+		"state": "TX",
+		"zip": "75207"
+	},
+	{
+		"value": "Cascade Federal Credit Union",
+		"street": "18020 80th Ave S",
+		"city": "Kent",
+		"state": "WA",
+		"zip": "98032"
+	},
+	{
+		"value": "Valley First Credit Union",
+		"street": "PO Box 1411",
+		"city": "Modesto",
+		"state": "CA",
+		"zip": "95353-1411"
+	},
+	{
+		"value": "FAST Credit Union",
+		"street": "312 W. 7th Street",
+		"city": "Hanford",
+		"state": "CA",
+		"zip": "93230"
+	},
+	{
+		"value": "SB1 Federal Credit Union",
+		"street": "1500 Spring Garden Street",
+		"city": "Philadelphia",
+		"state": "PA",
+		"zip": "19103"
+	},
+	{
+		"value": "The Business Bank of St. Louis",
+		"street": "8000 Maryland Avenue",
+		"city": "Clayton",
+		"state": "MO",
+		"zip": "63105"
+	},
+	{
+		"value": "Rivermark Community Credit Union",
+		"street": "P.O. Box 4044",
+		"city": "Beaverton",
+		"state": "OR",
+		"zip": "97076-4044"
+	},
+	{
+		"value": "Frederick County Bank",
+		"street": "7 North Market Street",
+		"city": "Frederick",
+		"state": "MD",
+		"zip": "21071"
+	},
+	{
+		"value": "Firefly Credit Union",
+		"street": "1400 Riverwood Drive",
+		"city": "Burnsville",
+		"state": "MN",
+		"zip": "55337"
+	},
+	{
+		"value": "Clarkston Brandon Community Credit Union",
+		"street": "8055 Ortonville Rd.",
+		"city": "Clarkston",
+		"state": "MI",
+		"zip": "48348"
+	},
+	{
+		"value": "VYSTAR CREDIT UNION",
+		"street": "PO BOX 45085",
+		"city": "JACKSONVILLE",
+		"state": "FL",
+		"zip": "32232"
+	}
+]
